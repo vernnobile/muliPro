@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="1457"/>
+  <advance width="1458"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="128" y="517" type="line"/>
-      <point x="369" y="517" type="line"/>
-      <point x="466.732" y="712.464"/>
-      <point x="577.021" y="933.564"/>
-      <point x="688" y="1138" type="curve"/>
-      <point x="1023" y="517" type="line"/>
-      <point x="1260" y="517" type="line"/>
-      <point x="767" y="1405" type="line"/>
-      <point x="615" y="1405" type="line"/>
+      <point x="163" y="517" type="line"/>
+      <point x="404" y="517" type="line"/>
+      <point x="501.732" y="712.464"/>
+      <point x="612.021" y="933.564"/>
+      <point x="723" y="1138" type="curve"/>
+      <point x="1058" y="517" type="line"/>
+      <point x="1295" y="517" type="line"/>
+      <point x="802" y="1405" type="line"/>
+      <point x="650" y="1405" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="Jokenséach Midjen Block 1978" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Rocalion Song 690@ Pelterona" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525287" />
+<data name="projectionAngle" value="2.68561525328" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
