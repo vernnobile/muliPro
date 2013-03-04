@@ -5,11 +5,4 @@
   <outline>
     <component base="exclam" yScale="-1" xOffset="12" yOffset="1153"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

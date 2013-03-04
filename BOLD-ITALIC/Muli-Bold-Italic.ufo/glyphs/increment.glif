@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="increment" format="1">
+  <advance width="1309"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="333" y="176" type="line"/>
+      <point x="775" y="1160" type="line"/>
+      <point x="1034" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="1283" y="0" type="line"/>
+      <point x="1292" y="103" type="line"/>
+      <point x="902" y="1402" type="line"/>
+      <point x="678" y="1402" type="line"/>
+      <point x="61" y="103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>increment</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1309</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

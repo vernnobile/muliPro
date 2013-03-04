@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="897"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="532" y="647" type="line"/>
+      <point x="547" y="822" type="line"/>
+      <point x="193" y="822" type="line"/>
+      <point x="204" y="950" type="line"/>
+      <point x="606" y="1457" type="line"/>
+      <point x="790" y="1457" type="line"/>
+      <point x="745" y="950" type="line"/>
+      <point x="861" y="950" type="line"/>
+      <point x="851" y="822" type="line"/>
+      <point x="735" y="822" type="line"/>
+      <point x="720" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="950" type="line"/>
+      <point x="555" y="950" type="line"/>
+      <point x="582" y="1249" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>foursuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>897</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="605.913098228"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="411.147320461" y="1235" type="curve" smooth="yes"/>
+      <point x="469.147320461" y="1235"/>
+      <point x="525.147320461" y="1283"/>
+      <point x="530.147320461" y="1340" type="curve" smooth="yes"/>
+      <point x="535.147320461" y="1398"/>
+      <point x="491.147320461" y="1445"/>
+      <point x="429.147320461" y="1445" type="curve" smooth="yes"/>
+      <point x="371.147320461" y="1445"/>
+      <point x="315.147320461" y="1397"/>
+      <point x="310.147320461" y="1340" type="curve" smooth="yes"/>
+      <point x="305.147320461" y="1279"/>
+      <point x="343.147320461" y="1235"/>
+    </contour>
+    <contour>
+      <point x="405.147320461" y="1149" type="curve" smooth="yes"/>
+      <point x="288.147320461" y="1149"/>
+      <point x="201.147320461" y="1232"/>
+      <point x="210.147320461" y="1339" type="curve" smooth="yes"/>
+      <point x="220.147320461" y="1449"/>
+      <point x="322.147320461" y="1530"/>
+      <point x="437.147320461" y="1530" type="curve" smooth="yes"/>
+      <point x="555.147320461" y="1530"/>
+      <point x="639.147320461" y="1445"/>
+      <point x="630.147320461" y="1340" type="curve" smooth="yes"/>
+      <point x="621.147320461" y="1234"/>
+      <point x="518.147320461" y="1149"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -11,24 +11,23 @@
 <data name="previewTypeSize" value="100.0" />
 <data name="previewtext" value="Rocalion Song 690@ Pelterona" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525328" />
+<data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="REGULAR/FINAL/scr/Muli-Regular.ufo">
-<location>
-<dimension name="new_axis_1" xvalue="0" />
-</location>
-<!-- color for REGULAR/FINAL/scr/Muli-Regular.ufo -->
-<color a="1.000000" b="0.500000" g="0.000000" r="0.500000" />
-</master>
 <master filename="BOLD/src/Muli-Bold.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
 <!-- color for BOLD/src/Muli-Bold.ufo -->
 <color a="1.000000" b="1.000000" g="0.000000" r="0.000000" />
+</master>
+<master filename="REGULAR/scr/Muli-Regular.ufo">
+<location>
+</location>
+<!-- color for REGULAR/scr/Muli-Regular.ufo -->
+<color a="1.000000" b="0.000000" g="1.000000" r="0.000000" />
 </master>
 
 <!-- instance definitions -->

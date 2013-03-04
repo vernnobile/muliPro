@@ -5,22 +5,22 @@
   <outline>
     <contour>
       <point x="436" y="0" type="line"/>
-      <point x="703" y="0" type="line"/>
-      <point x="1051" y="1142" type="line"/>
-      <point x="1393" y="0" type="line"/>
-      <point x="1667" y="0" type="line"/>
-      <point x="2088" y="1456" type="line"/>
-      <point x="1834" y="1456" type="line"/>
-      <point x="1610" y="597" type="line"/>
-      <point x="1535" y="308" type="line"/>
-      <point x="1444.55" y="595.649" type="line"/>
-      <point x="1174" y="1456" type="line"/>
-      <point x="941" y="1456" type="line"/>
-      <point x="678" y="605" type="line"/>
-      <point x="588" y="312" type="line"/>
-      <point x="508" y="606" type="line"/>
-      <point x="276" y="1456" type="line"/>
       <point x="14" y="1456" type="line"/>
+      <point x="276" y="1456" type="line"/>
+      <point x="508" y="606" type="line"/>
+      <point x="588" y="312" type="line"/>
+      <point x="678" y="605" type="line"/>
+      <point x="941" y="1456" type="line"/>
+      <point x="1174" y="1456" type="line"/>
+      <point x="1445" y="596" type="line"/>
+      <point x="1535" y="308" type="line"/>
+      <point x="1610" y="597" type="line"/>
+      <point x="1834" y="1456" type="line"/>
+      <point x="2088" y="1456" type="line"/>
+      <point x="1667" y="0" type="line"/>
+      <point x="1393" y="0" type="line"/>
+      <point x="1051" y="1142" type="line"/>
+      <point x="703" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

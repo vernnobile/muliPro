@@ -5,16 +5,9 @@
   <outline>
     <contour>
       <point x="56" y="458" type="line"/>
-      <point x="673" y="458" type="line"/>
-      <point x="673" y="639" type="line"/>
       <point x="56" y="639" type="line"/>
+      <point x="673" y="639" type="line"/>
+      <point x="673" y="458" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
