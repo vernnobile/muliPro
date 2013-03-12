@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1363067206
-ModificationTime: 1363103339
+ModificationTime: 1363103331
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -1485,13 +1485,6 @@ Width: 1211
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 157 184 N 1 0 0 1 610 0 2
 Refer: 85 83 N 1 0 0 1 0 0 3
@@ -5798,13 +5791,6 @@ Width: 981
 VWidth: 0
 Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 157 184 N 1 0 0 1 610 0 2
 Refer: 309 115 N 1 0 0 1 0 0 3
