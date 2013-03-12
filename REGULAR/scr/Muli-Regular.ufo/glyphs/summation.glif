@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="summation" format="1">
-  <advance width="1264"/>
+  <advance width="1171"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="57" y="-329" type="line"/>
-      <point x="57" y="-239" type="line"/>
-      <point x="697" y="552" type="line"/>
-      <point x="79" y="1328" type="line"/>
-      <point x="79" y="1423" type="line"/>
-      <point x="1175" y="1423" type="line"/>
-      <point x="1175" y="1281" type="line"/>
-      <point x="325" y="1281" type="line"/>
-      <point x="898" y="561" type="line"/>
-      <point x="294" y="-181" type="line"/>
-      <point x="1220" y="-181" type="line"/>
-      <point x="1220" y="-329" type="line"/>
+      <point x="100" y="-155" type="line"/>
+      <point x="100" y="-71" type="line"/>
+      <point x="612" y="663" type="line"/>
+      <point x="120" y="1366" type="line"/>
+      <point x="120" y="1454" type="line"/>
+      <point x="1075" y="1454" type="line"/>
+      <point x="1075" y="1326" type="line"/>
+      <point x="349" y="1326" type="line"/>
+      <point x="798" y="671" type="line"/>
+      <point x="320" y="-25" type="line"/>
+      <point x="1117" y="-25" type="line"/>
+      <point x="1117" y="-155" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>summation</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1171</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

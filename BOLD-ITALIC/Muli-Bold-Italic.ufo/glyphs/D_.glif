@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="1557.0"/>
+  <advance width="1559.0"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="448.0" y="207" type="line"/>
-      <point x="659.0" y="207" type="line" smooth="yes"/>
-      <point x="1019.0" y="207"/>
-      <point x="1230.0" y="391"/>
-      <point x="1260.0" y="734" type="curve" smooth="yes"/>
-      <point x="1289.0" y="1069"/>
-      <point x="1089.0" y="1249"/>
-      <point x="687.0" y="1249" type="curve" smooth="yes"/>
-      <point x="540.0" y="1249" type="line"/>
+      <point x="450.0" y="207" type="line"/>
+      <point x="661.0" y="207" type="line" smooth="yes"/>
+      <point x="1021.0" y="207"/>
+      <point x="1232" y="386"/>
+      <point x="1262" y="729" type="curve" smooth="yes"/>
+      <point x="1291" y="1064"/>
+      <point x="1126" y="1249"/>
+      <point x="689.0" y="1249" type="curve" smooth="yes"/>
+      <point x="542.0" y="1249" type="line"/>
     </contour>
     <contour>
-      <point x="186.0" y="0" type="line"/>
-      <point x="314.0" y="1456" type="line"/>
-      <point x="682.0" y="1456" type="line" smooth="yes"/>
-      <point x="1265.0" y="1456"/>
-      <point x="1556.0" y="1203"/>
-      <point x="1515.0" y="733" type="curve" smooth="yes"/>
-      <point x="1473.0" y="257"/>
-      <point x="1163.0" y="0"/>
-      <point x="628.0" y="0" type="curve" smooth="yes"/>
+      <point x="188.0" y="0" type="line"/>
+      <point x="316.0" y="1456" type="line"/>
+      <point x="684.0" y="1456" type="line" smooth="yes"/>
+      <point x="1267.0" y="1456"/>
+      <point x="1558" y="1198"/>
+      <point x="1517" y="728" type="curve" smooth="yes"/>
+      <point x="1475" y="252"/>
+      <point x="1165.0" y="0"/>
+      <point x="630.0" y="0" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -77,7 +77,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1557.0</real>
+          <real>1559.0</real>
         </dict>
       </dict>
     </dict>

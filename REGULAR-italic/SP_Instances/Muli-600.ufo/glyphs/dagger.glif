@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="1022.14447885"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="420.92" y="0.0" type="line"/>
+      <point x="501.24" y="917.24" type="line"/>
+      <point x="184.328593616" y="917.24" type="line"/>
+      <point x="199.048593616" y="1088.0" type="line"/>
+      <point x="515.96" y="1088.0" type="line"/>
+      <point x="548.6" y="1456.0" type="line"/>
+      <point x="743.24" y="1456.0" type="line"/>
+      <point x="710.6" y="1088.0" type="line"/>
+      <point x="1034.84859362" y="1088.0" type="line"/>
+      <point x="1020.12859362" y="917.24" type="line"/>
+      <point x="697.48" y="917.24" type="line"/>
+      <point x="617.16" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dagger</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1022.45149641</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

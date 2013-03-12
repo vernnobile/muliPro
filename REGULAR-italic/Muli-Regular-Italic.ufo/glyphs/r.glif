@@ -1,36 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="831"/>
+  <advance width="825.763368778"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="172" y="0" type="line"/>
-      <point x="240" y="779" type="line" smooth="yes"/>
-      <point x="247" y="862"/>
-      <point x="252" y="949"/>
-      <point x="256" y="1026" type="curve"/>
-      <point x="421" y="1026" type="line"/>
-      <point x="413" y="871" type="line"/>
-      <point x="478" y="984"/>
-      <point x="586" y="1050"/>
-      <point x="703" y="1050" type="curve" smooth="yes"/>
-      <point x="742" y="1050"/>
-      <point x="778" y="1046"/>
-      <point x="810" y="1038" type="curve"/>
-      <point x="798" y="883" type="line"/>
-      <point x="771" y="898"/>
-      <point x="730" y="907"/>
-      <point x="685" y="907" type="curve" smooth="yes"/>
-      <point x="524" y="907"/>
-      <point x="405" y="777"/>
-      <point x="387" y="568" type="curve" smooth="yes"/>
-      <point x="337" y="0" type="line"/>
+      <point x="166.763368778" y="0.0" type="line"/>
+      <point x="235.0" y="779.0" type="line"/>
+      <point x="249.0" y="1026.0" type="line"/>
+      <point x="414.0" y="1026.0" type="line"/>
+      <point x="404" y="854" type="line"/>
+      <point x="475" y="983"/>
+      <point x="580.763368778" y="1050.0"/>
+      <point x="697.763368778" y="1050.0" type="curve" smooth="yes"/>
+      <point x="736.763368778" y="1050.0"/>
+      <point x="772.763368778" y="1046.0"/>
+      <point x="804.763368778" y="1038.0" type="curve"/>
+      <point x="792.763368778" y="883.0" type="line"/>
+      <point x="793" y="883"/>
+      <point x="746" y="907"/>
+      <point x="682" y="907" type="curve" smooth="yes"/>
+      <point x="521" y="907"/>
+      <point x="399.763368778" y="777.0"/>
+      <point x="381.763368778" y="568.0" type="curve" smooth="yes"/>
+      <point x="331.763368778" y="0.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>825.763368778</real>
+        </dict>
       </dict>
     </dict>
   </lib>

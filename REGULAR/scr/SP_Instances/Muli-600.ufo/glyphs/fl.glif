@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+  <advance width="1259.74"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="473.87" y="884.83" type="line"/>
+      <point x="473.87" y="0.0" type="line"/>
+      <point x="262.3" y="0.0" type="line"/>
+      <point x="262.3" y="884.83" type="line"/>
+      <point x="69.34" y="884.83" type="line"/>
+      <point x="69.34" y="1026.0" type="line"/>
+      <point x="262.3" y="1026.0" type="line"/>
+      <point x="262.3" y="1073.13" type="line" smooth="yes"/>
+      <point x="262.3" y="1347.9"/>
+      <point x="343.59" y="1463.99"/>
+      <point x="704.81" y="1463.99" type="curve" smooth="yes"/>
+      <point x="1105.52" y="1463.99" type="line"/>
+      <point x="1105.52" y="0.0" type="line"/>
+      <point x="894.62" y="0.0" type="line"/>
+      <point x="894.62" y="1300.47" type="line"/>
+      <point x="734.29" y="1300.47" type="line" smooth="yes"/>
+      <point x="515.86" y="1300.47"/>
+      <point x="473.87" y="1254.81"/>
+      <point x="473.87" y="1113.55" type="curve" smooth="yes"/>
+      <point x="473.87" y="1026.0" type="line"/>
+      <point x="712.82" y="1026.0" type="line"/>
+      <point x="712.82" y="884.83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>f</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>20</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>l</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>714</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1245</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

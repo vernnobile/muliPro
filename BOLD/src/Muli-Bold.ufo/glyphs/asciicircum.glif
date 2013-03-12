@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="1458"/>
+  <advance width="1572"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="163" y="517" type="line"/>
-      <point x="650" y="1405" type="line"/>
-      <point x="802" y="1405" type="line"/>
-      <point x="1295" y="517" type="line"/>
-      <point x="1058" y="517" type="line"/>
-      <point x="723" y="1138" type="line"/>
-      <point x="612" y="934"/>
-      <point x="502" y="712"/>
-      <point x="404" y="517" type="curve"/>
+      <point x="200" y="538" type="line"/>
+      <point x="707" y="1456" type="line"/>
+      <point x="859" y="1456" type="line"/>
+      <point x="1372" y="538" type="line"/>
+      <point x="1135" y="538" type="line"/>
+      <point x="780" y="1189" type="line"/>
+      <point x="441" y="538" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciicircum</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1572</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

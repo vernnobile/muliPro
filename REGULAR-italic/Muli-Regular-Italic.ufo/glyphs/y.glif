@@ -1,29 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="1">
-  <advance width="1033"/>
+  <advance width="1044.0"/>
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="150" y="-432" type="curve"/>
-      <point x="94" y="-314" type="line"/>
-      <point x="322" y="-254"/>
-      <point x="378" y="-140"/>
-      <point x="420" y="-43" type="curve" smooth="yes"/>
-      <point x="442" y="6" type="line"/>
-      <point x="140" y="1026" type="line"/>
-      <point x="321" y="1026" type="line"/>
-      <point x="548" y="172" type="line"/>
-      <point x="928" y="1026" type="line"/>
-      <point x="1103" y="1026" type="line"/>
-      <point x="585" y="-72" type="line"/>
-      <point x="497" y="-248"/>
-      <point x="342" y="-397"/>
+      <point x="144.763368778" y="-427" type="curve"/>
+      <point x="92.7633687776" y="-314" type="line"/>
+      <point x="268.763368778" y="-264"/>
+      <point x="382.763368778" y="-146"/>
+      <point x="425.763368778" y="-50" type="curve" smooth="yes"/>
+      <point x="450.763368778" y="4" type="line"/>
+      <point x="131.763368778" y="1026" type="line"/>
+      <point x="305.763368778" y="1026" type="line"/>
+      <point x="548.763368778" y="172" type="line"/>
+      <point x="926.763368778" y="1026" type="line"/>
+      <point x="1101.76336878" y="1026" type="line"/>
+      <point x="583.763368778" y="-66" type="line" smooth="yes"/>
+      <point x="499.763368778" y="-244"/>
+      <point x="336.763368778" y="-392"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1044.0000000000002</real>
+        </dict>
       </dict>
     </dict>
   </lib>

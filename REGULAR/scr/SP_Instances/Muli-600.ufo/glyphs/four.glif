@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="1248.82"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="737.27" y="0.0" type="line"/>
+      <point x="737.27" y="383.65" type="line"/>
+      <point x="106.01" y="383.65" type="line"/>
+      <point x="106.01" y="546.1" type="line"/>
+      <point x="692.68" y="1456.0" type="line"/>
+      <point x="953.49" y="1456.0" type="line"/>
+      <point x="953.49" y="551.83" type="line"/>
+      <point x="1176.2" y="551.83" type="line"/>
+      <point x="1176.2" y="383.65" type="line"/>
+      <point x="956.17" y="383.65" type="line"/>
+      <point x="956.17" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="340.97" y="551.83" type="line"/>
+      <point x="739.28" y="551.83" type="line"/>
+      <point x="739.28" y="1206.25" type="line"/>
+      <point x="647.46" y="1054.55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1218</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

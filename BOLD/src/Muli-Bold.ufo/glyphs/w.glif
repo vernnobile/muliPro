@@ -4,31 +4,53 @@
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="386" y="0" type="line"/>
-      <point x="18" y="1026" type="line"/>
-      <point x="271" y="1026" type="line"/>
-      <point x="458" y="447" type="line"/>
-      <point x="509" y="288" type="line"/>
-      <point x="560" y="441" type="line"/>
-      <point x="757" y="1026" type="line"/>
-      <point x="963" y="1026" type="line"/>
-      <point x="1157" y="419" type="line"/>
-      <point x="1200" y="286" type="line"/>
-      <point x="1241" y="415" type="line"/>
-      <point x="1438" y="1026" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="791" y="580" type="line"/>
+      <point x="840" y="718" type="line"/>
+      <point x="885" y="580" type="line"/>
+      <point x="1079" y="0" type="line"/>
+      <point x="1279" y="0" type="line"/>
       <point x="1659" y="1026" type="line"/>
-      <point x="1281" y="0" type="line"/>
-      <point x="1081" y="0" type="line"/>
-      <point x="887" y="586" type="line"/>
-      <point x="842" y="724" type="line"/>
-      <point x="793" y="586" type="line"/>
-      <point x="587" y="0" type="line"/>
+      <point x="1438" y="1026" type="line"/>
+      <point x="1240" y="415" type="line"/>
+      <point x="1199" y="286" type="line"/>
+      <point x="1156" y="419" type="line"/>
+      <point x="962" y="1026" type="line"/>
+      <point x="753" y="1026" type="line"/>
+      <point x="556" y="441" type="line"/>
+      <point x="505" y="288" type="line"/>
+      <point x="454" y="447" type="line"/>
+      <point x="269" y="1026" type="line"/>
+      <point x="18" y="1026" type="line"/>
+      <point x="384" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1677</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="519.0"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="61.04" y="610.76" type="line"/>
+      <point x="79.16" y="795.36" type="line"/>
+      <point x="629.56" y="1142.28" type="line"/>
+      <point x="611.08" y="955.96" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>519</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

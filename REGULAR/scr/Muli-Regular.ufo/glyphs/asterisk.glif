@@ -4,21 +4,67 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="730" y="737" type="line"/>
-      <point x="572" y="1003" type="line"/>
-      <point x="419" y="745" type="line"/>
-      <point x="295" y="820" type="line"/>
-      <point x="486" y="1058" type="line"/>
-      <point x="213" y="1136" type="line"/>
-      <point x="234" y="1271" type="line"/>
-      <point x="518" y="1148" type="line"/>
-      <point x="484" y="1456" type="line"/>
-      <point x="633" y="1456" type="line"/>
-      <point x="619" y="1153" type="line"/>
-      <point x="854" y="1274" type="line"/>
-      <point x="918" y="1149" type="line"/>
-      <point x="655" y="1061" type="line"/>
-      <point x="856" y="810" type="line"/>
+      <point x="732" y="735" type="line"/>
+      <point x="572" y="1004" type="line"/>
+      <point x="417" y="743" type="line"/>
+      <point x="293" y="818" type="line"/>
+      <point x="480" y="1059" type="line"/>
+      <point x="212" y="1142" type="line"/>
+      <point x="257" y="1272" type="line"/>
+      <point x="514" y="1153" type="line"/>
+      <point x="484" y="1458" type="line"/>
+      <point x="633" y="1458" type="line"/>
+      <point x="623" y="1153" type="line"/>
+      <point x="855" y="1272" type="line"/>
+      <point x="919" y="1142" type="line"/>
+      <point x="661" y="1059" type="line"/>
+      <point x="858" y="808" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>567</integer>
+          <key>y</key>
+          <integer>1149</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1131</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

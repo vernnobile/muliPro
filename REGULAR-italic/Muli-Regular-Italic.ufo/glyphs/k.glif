@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1070"/>
+  <advance width="1082.53308598"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="133" y="0" type="line"/>
-      <point x="263" y="1492" type="line"/>
-      <point x="428" y="1492" type="line"/>
-      <point x="349" y="587" type="line"/>
-      <point x="853" y="1026" type="line"/>
-      <point x="1078" y="1026" type="line"/>
-      <point x="506" y="542" type="line"/>
-      <point x="677" y="363"/>
-      <point x="856" y="179"/>
-      <point x="1027" y="0" type="curve"/>
-      <point x="808" y="0" type="line"/>
-      <point x="342" y="501" type="line"/>
-      <point x="298" y="0" type="line"/>
+      <point x="162.533085981" y="0" type="line"/>
+      <point x="292.533085981" y="1492" type="line"/>
+      <point x="457.533085981" y="1492" type="line"/>
+      <point x="378.533085981" y="587" type="line"/>
+      <point x="882.533085981" y="1026" type="line"/>
+      <point x="1107.53308598" y="1026" type="line"/>
+      <point x="535.533085981" y="542" type="line"/>
+      <point x="706.533085981" y="363"/>
+      <point x="885.533085981" y="179"/>
+      <point x="1056.53308598" y="0" type="curve"/>
+      <point x="837.533085981" y="0" type="line"/>
+      <point x="371.533085981" y="501" type="line"/>
+      <point x="327.533085981" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1082.5330859806786</real>
+        </dict>
       </dict>
     </dict>
   </lib>

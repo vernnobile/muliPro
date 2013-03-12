@@ -60,51 +60,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>516.0</real>
-                  <key>y</key>
-                  <real>1084.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>445.0</real>
-                  <key>y</key>
-                  <real>1172.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>888.0</real>
-                  <key>y</key>
-                  <real>1529.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>959.0</real>
-                  <key>y</key>
-                  <real>1442.0</real>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>

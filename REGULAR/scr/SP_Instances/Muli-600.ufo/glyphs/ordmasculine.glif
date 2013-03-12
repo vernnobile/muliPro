@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="897.77"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="450.71" y="877.3" type="curve" smooth="yes"/>
+      <point x="573.32" y="877.3"/>
+      <point x="652.3" y="962.27"/>
+      <point x="652.3" y="1092.88" type="curve" smooth="yes"/>
+      <point x="652.3" y="1231.16"/>
+      <point x="573.32" y="1313.79"/>
+      <point x="450.39" y="1313.79" type="curve" smooth="yes"/>
+      <point x="329.45" y="1313.79"/>
+      <point x="247.46" y="1228.82"/>
+      <point x="247.46" y="1096.21" type="curve" smooth="yes"/>
+      <point x="247.46" y="959.6"/>
+      <point x="322.11" y="877.3"/>
+    </contour>
+    <contour>
+      <point x="452.39" y="735.51" type="curve" smooth="yes"/>
+      <point x="204.01" y="735.51"/>
+      <point x="75.32" y="892.85"/>
+      <point x="75.32" y="1098.54" type="curve" smooth="yes"/>
+      <point x="75.32" y="1298.89"/>
+      <point x="212.35" y="1456.57"/>
+      <point x="450.05" y="1456.57" type="curve" smooth="yes"/>
+      <point x="690.08" y="1456.57"/>
+      <point x="822.45" y="1295.88"/>
+      <point x="822.45" y="1094.87" type="curve" smooth="yes"/>
+      <point x="822.45" y="898.19"/>
+      <point x="690.76" y="735.51"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>877</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

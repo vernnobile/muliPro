@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1655.22"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="564.87" y="0.0" type="line"/>
+      <point x="783.74" y="620.26" type="line"/>
+      <point x="832.08" y="757.93" type="line"/>
+      <point x="877.08" y="619.27" type="line"/>
+      <point x="1082.96" y="0.0" type="line"/>
+      <point x="1270.42" y="0.0" type="line"/>
+      <point x="1632.6" y="1026.0" type="line"/>
+      <point x="1431.07" y="1026.0" type="line"/>
+      <point x="1230.1" y="372.76" type="line"/>
+      <point x="1192.73" y="252.67" type="line"/>
+      <point x="1153.03" y="375.11" type="line" smooth="yes"/>
+      <point x="943.19" y="1026.0" type="line"/>
+      <point x="748.38" y="1026.0" type="line"/>
+      <point x="532.9" y="386.55" type="line"/>
+      <point x="488.5" y="254.34" type="line"/>
+      <point x="444.76" y="393.21" type="line"/>
+      <point x="248.21" y="1026.0" type="line"/>
+      <point x="22.62" y="1026.0" type="line"/>
+      <point x="376.74" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1611</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
