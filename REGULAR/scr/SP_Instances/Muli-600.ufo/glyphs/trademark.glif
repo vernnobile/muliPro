@@ -4,29 +4,29 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="814.31" y="658.84" type="line"/>
-      <point x="814.31" y="1434.56" type="line"/>
-      <point x="1008.83" y="1434.56" type="line"/>
-      <point x="1253.71" y="897.16" type="line"/>
-      <point x="1501.87" y="1434.56" type="line"/>
-      <point x="1693.09" y="1434.56" type="line"/>
-      <point x="1693.09" y="658.84" type="line"/>
-      <point x="1532.54" y="658.84" type="line"/>
-      <point x="1532.54" y="1172.45" type="line"/>
-      <point x="1303.11" y="658.84" type="line"/>
-      <point x="1200.65" y="658.84" type="line"/>
-      <point x="971.18" y="1165.42" type="line"/>
-      <point x="971.18" y="658.84" type="line"/>
+      <point x="814.17" y="657.88" type="line"/>
+      <point x="814.17" y="1433.92" type="line"/>
+      <point x="1009.81" y="1433.92" type="line"/>
+      <point x="1253.97" y="898.12" type="line"/>
+      <point x="1501.09" y="1433.92" type="line"/>
+      <point x="1693.63" y="1433.92" type="line"/>
+      <point x="1693.63" y="657.88" type="line"/>
+      <point x="1531.78" y="657.88" type="line"/>
+      <point x="1531.78" y="1169.15" type="line"/>
+      <point x="1303.77" y="657.88" type="line"/>
+      <point x="1200.55" y="657.88" type="line"/>
+      <point x="972.26" y="1161.94" type="line"/>
+      <point x="972.26" y="657.88" type="line"/>
     </contour>
     <contour>
-      <point x="304.91" y="658.84" type="line"/>
-      <point x="304.91" y="1294.03" type="line"/>
-      <point x="72.01" y="1294.03" type="line"/>
-      <point x="72.01" y="1434.56" type="line"/>
-      <point x="707.33" y="1434.56" type="line"/>
-      <point x="707.33" y="1294.03" type="line"/>
-      <point x="469.11" y="1294.03" type="line"/>
-      <point x="469.11" y="658.84" type="line"/>
+      <point x="304.37" y="657.88" type="line"/>
+      <point x="304.37" y="1292.21" type="line"/>
+      <point x="72.07" y="1292.21" type="line"/>
+      <point x="72.07" y="1433.92" type="line"/>
+      <point x="707.31" y="1433.92" type="line"/>
+      <point x="707.31" y="1292.21" type="line"/>
+      <point x="469.77" y="1292.21" type="line"/>
+      <point x="469.77" y="657.88" type="line"/>
     </contour>
   </outline>
   <lib>

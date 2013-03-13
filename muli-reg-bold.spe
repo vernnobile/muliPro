@@ -9,7 +9,7 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="(Welcom Honeydew) HH:HHH)" />
+<data name="previewtext" value="(Welcomø{}™€ Honeydew) HH:HHH)" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -54,6 +54,12 @@
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="-763.3211" />
+</location>
+</instance>
+<instance familyname="Muli" sequence="" stylename="500">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="350" />
 </location>
 </instance>
 </designspace>

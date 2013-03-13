@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1363067206
-ModificationTime: 1363103331
+ModificationTime: 1363136580
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -40,18 +40,72 @@ HheadAOffset: 0
 HheadDescent: -679
 HheadDOffset: 0
 OS2Vendor: 'newt'
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0"  {"'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 1"  {"'kern' Horizontal Kerning lookup 1 per glyph data 0"  "'kern' Horizontal Kerning lookup 1 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 22 30 "'kern' Horizontal Kerning lookup 1 kerning class 1" 
+ 89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
+ 9 B uni1E02
+ 16 D Dcaron uni1E0A
+ 9 F uni1E1E
+ 9 K uni0136
+ 23 L Lacute Lcaron uni013B
+ 89 O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde uni020C uni020E
+ 9 P uni1E56
+ 44 R Racute Rcaron Rcommaaccent uni0210 uni0212
+ 32 T Tcaron uni0162 uni021A uni1E6A
+ 103 U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni0214 uni0216
+ 1 V
+ 37 W Wacute Wcircumflex Wdieresis Wgrave
+ 37 Y Yacute Ycircumflex Ydieresis Ygrave
+ 9 b uni1E03
+ 9 f uni1E1F
+ 89 o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron otilde uni020D uni020F
+ 10 quoteright
+ 44 r racute rcaron rcommaaccent uni0211 uni0213
+ 37 w wacute wcircumflex wdieresis wgrave
+ 37 y yacute ycircumflex ydieresis ygrave
+ 89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
+ 47 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent
+ 40 G Gbreve Gcedilla Gcircumflex Gdotaccent
+ 13 J Jcircumflex
+ 89 O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde uni020C uni020E
+ 1 Q
+ 32 T Tcaron uni0162 uni021A uni1E6A
+ 1 V
+ 37 W Wacute Wcircumflex Wdieresis Wgrave
+ 1 X
+ 37 Y Yacute Ycircumflex Ydieresis Ygrave
+ 89 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde uni0201 uni0203
+ 47 c cacute ccaron ccedilla ccircumflex cdotaccent
+ 5 comma
+ 16 d dcaron uni1E0B
+ 94 e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni0205 uni0207
+ 40 g gbreve gcedilla gcircumflex gdotaccent
+ 6 hyphen
+ 89 o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron otilde uni020D uni020F
+ 6 period
+ 1 q
+ 13 quotedblright
+ 10 quoteright
+ 65 s sacute scaron scedilla scircumflex scommaaccent uni0219 uni1E61
+ 103 u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uni0215 uni0217 uogonek uring utilde
+ 1 v
+ 37 w wacute wcircumflex wdieresis wgrave
+ 1 x
+ 37 y yacute ycircumflex ydieresis ygrave
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -67 {} -46 {} -12 {} 0 {} -41 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -170 {} -111 {} 0 {} 0 {} -14 {} -4 {} 0 {} -12 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} -6 {} 0 {} -8 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} -38 {} 0 {} -24 {} -20 {} -70 {} -44 {} -26 {} 0 {} -78 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -140 {} -110 {} 0 {} 0 {} -34 {} -26 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -230 {} 0 {} -24 {} 0 {} 0 {} -24 {} -230 {} 0 {} 0 {} 0 {} -11 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -54 {} -50 {} -70 {} 0 {} -56 {} -64 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -60 {} -36 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} -16 {} 0 {} 0 {} -16 {} -20 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} -25 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -6 {} 0 {} 0 {} -6 {} 0 {} 0 {} -4 {} -50 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -48 {} -130 {} 0 {} -58 {} -70 {} -30 {} -56 {} -80 {} -56 {} 0 {} 0 {} -66 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 40 {} 60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -6 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -3 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2013, vernon adams (<URL|email>),+AAoA-with Reserved Font Name Muli.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" 
-Encoding: UnicodeBmp
+Encoding: Google-webfonts-latin
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 126 18 10
+WinInfo: 0 18 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -64,18 +118,24 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 306688 153344 102229 525312 -1048576 102229 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "center"  "'mark' Mark Positioning lookup 0-1" "ogonek"  "'mark' Mark Positioning lookup 0-1" "bottom"  "'mark' Mark Positioning lookup 0-1" "top"  "'mark' Mark Positioning lookup 0-1" 
-BeginChars: 65538 419
+BeginChars: 65546 444
 
 StartChar: A
-Encoding: 65 65 0
+Encoding: 33 65 0
 Width: 1401
 VWidth: 0
-Flags: W
-HStem: 0 21G<26 244.684 1154.21 1376> 380 172<445 946> 1436 20G<588.17 810.871>
+Flags: HMW
 AnchorPoint: "ogonek" 1260 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 700 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 445 552 m 1
@@ -97,11 +157,18 @@ EndSplineSet
 EndChar
 
 StartChar: AE
-Encoding: 198 198 1
+Encoding: 133 198 1
 Width: 2073
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 25 0 m 1
@@ -130,149 +197,222 @@ EndSplineSet
 EndChar
 
 StartChar: Aacute
-Encoding: 193 193 2
+Encoding: 128 193 2
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 528 430 2
+Refer: 126 180 N 1 0 0 1 528 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Abreve
-Encoding: 258 258 3
+Encoding: 193 258 3
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 384 430 2
+Refer: 147 728 N 1 0 0 1 384 450 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Acircumflex
-Encoding: 194 194 4
+Encoding: 129 194 4
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 345 431 2
+Refer: 159 710 N 1 0 0 1 345 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Adieresis
-Encoding: 196 196 5
+Encoding: 131 196 5
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 332 430 2
+Refer: 172 168 N 1 0 0 1 332 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Agrave
-Encoding: 192 192 6
+Encoding: 127 192 6
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 252 434.1 2
+Refer: 211 96 N 1 0 0 1 252 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Amacron
-Encoding: 256 256 7
+Encoding: 191 256 7
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 327 429.8 2
+Refer: 441 713 N 1 0 0 1 327 450 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aogonek
-Encoding: 260 260 8
+Encoding: 195 260 8
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 952 0 2
+Refer: 268 731 N 1 0 0 1 952 0 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aring
-Encoding: 197 197 9
+Encoding: 132 197 9
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 308 730 N 1 0 0 1 384 430 2
+Refer: 307 730 N 1 0 0 1 384 476 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Atilde
-Encoding: 195 195 10
+Encoding: 130 195 10
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 361 430 2
+Refer: 328 732 N 1 0 0 1 361 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: B
-Encoding: 66 66 11
+Encoding: 34 66 11
 Width: 1346
 VWidth: 0
-Flags: W
-HStem: 0 169<387 898.418> 673 164<387 840.635> 1287 169<386 854.207>
-VStem: 189 198<169 673 837 1287> 954 206<934.337 1205.83> 1021 208<274.349 570.692>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 653 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-189 0 m 1xf4
+189 0 m 1
  189 1456 l 1
  559 1456 l 2
- 826 1456 1160 1423 1160 1097 c 0xf8
+ 826 1456 1160 1423 1160 1097 c 0
  1160 947 1081 817 915 772 c 1
  1112 737 1229 599 1229 407 c 0
  1229 182 1056 0 708 0 c 2
- 189 0 l 1xf4
-387 169 m 1
+ 189 0 l 1
+386 169 m 5
  672 169 l 2
- 899 169 1021 247 1021 412 c 0xf4
+ 899 169 1021 247 1021 412 c 0
  1021 611 909 673 644 673 c 2
- 387 673 l 1
- 387 169 l 1
-386 837 m 1
+ 386 673 l 5
+ 386 169 l 5
+385 837 m 5
  620 837 l 2
- 794 837 954 886 954 1070 c 0xf8
+ 794 837 954 886 954 1070 c 0
  954 1252 809 1287 599 1287 c 2
- 386 1287 l 1
- 386 837 l 1
+ 385 1287 l 5
+ 385 837 l 5
 EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 67 67 12
+Encoding: 35 67 12
 Width: 1394
 VWidth: 0
-Flags: W
-HStem: -22 168<618.82 1065.63> 1315 167<628.162 1069.85>
-VStem: 107 208<464.32 970.4>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 774 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 825 -22 m 0
@@ -290,78 +430,118 @@ EndSplineSet
 EndChar
 
 StartChar: Cacute
-Encoding: 262 262 13
+Encoding: 197 262 13
 Width: 1394
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 602 430 2
+Refer: 126 180 N 1 0 0 1 602 456 2
 Refer: 12 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccaron
-Encoding: 268 268 14
+Encoding: 203 268 14
 Width: 1394
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 422 431 2
+Refer: 152 711 N 1 0 0 1 419 456 2
 Refer: 12 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccedilla
-Encoding: 199 199 15
+Encoding: 134 199 15
 Width: 1394
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 610 0 2
+Refer: 157 184 N 1 0 0 1 546 0 2
 Refer: 12 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccircumflex
-Encoding: 264 264 16
+Encoding: 199 264 16
 Width: 1394
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 419 431 2
+Refer: 159 710 N 1 0 0 1 419 456 2
 Refer: 12 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Cdotaccent
-Encoding: 266 266 17
+Encoding: 201 266 17
 Width: 1394
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 509 430 2
+Refer: 176 775 N 1 0 0 1 503 426 2
 Refer: 12 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: D
-Encoding: 68 68 18
+Encoding: 36 68 18
 Width: 1526
 VWidth: 0
-Flags: W
-HStem: 0 169<386 900.663> 1287 169<386 872.248>
-VStem: 189 197<169 1287> 1211 208<473.062 987.993>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 700 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-386 169 m 1
+385 169 m 5
  626 169 l 2
  1028 169 1211 389 1211 726 c 0
  1211 1128 996 1287 546 1287 c 2
- 386 1287 l 1
- 386 169 l 1
+ 385 1287 l 5
+ 385 169 l 5
 189 0 m 1
  189 1456 l 1
  524 1456 l 2
@@ -372,49 +552,68 @@ EndSplineSet
 EndChar
 
 StartChar: Dcaron
-Encoding: 270 270 19
+Encoding: 205 270 19
 Width: 1526
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 348 431 2
+Refer: 152 711 N 1 0 0 1 345 456 2
 Refer: 18 68 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Dcroat
-Encoding: 272 272 20
+Encoding: 207 272 20
 Width: 1505
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 32 208 N 1 0 0 1 0 0 2
+Refer: 32 208 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: E
-Encoding: 69 69 21
+Encoding: 37 69 21
 Width: 1175
 VWidth: 0
-Flags: W
-HStem: 0 169<387 1095> 661 169<387 1027> 1287 169<386 1065>
-VStem: 189 198<169 661 830 1287>
+Flags: HMW
 AnchorPoint: "ogonek" 850 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 656 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
  189 1456 l 1
  1065 1456 l 1
  1065 1287 l 1
- 386 1287 l 1
- 386 830 l 1
+ 385 1287 l 5
+ 385 830 l 5
  1027 830 l 1
  1027 661 l 1
- 387 661 l 1
- 387 169 l 1
+ 386 661 l 5
+ 386 169 l 5
  1095 169 l 1
  1095 0 l 1
  189 0 l 1
@@ -422,99 +621,162 @@ EndSplineSet
 EndChar
 
 StartChar: Eacute
-Encoding: 201 201 22
+Encoding: 136 201 22
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 484 430 2
+Refer: 126 180 N 1 0 0 1 484 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ebreve
-Encoding: 276 276 23
+Encoding: 211 276 23
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 340 430 2
+Refer: 147 728 N 1 0 0 1 340 450 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecaron
-Encoding: 282 282 24
+Encoding: 217 282 24
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 304 431 2
+Refer: 152 711 N 1 0 0 1 301 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 202 202 25
+Encoding: 137 202 25
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 301 431 2
+Refer: 159 710 N 1 0 0 1 301 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edieresis
-Encoding: 203 203 26
+Encoding: 138 203 26
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 288 430 2
+Refer: 172 168 N 1 0 0 1 288 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edotaccent
-Encoding: 278 278 27
+Encoding: 213 278 27
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 385 426 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
-Encoding: 200 200 28
+Encoding: 135 200 28
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 208 434.1 2
+Refer: 211 96 N 1 0 0 1 208 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Emacron
-Encoding: 274 274 29
+Encoding: 209 274 29
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 283 429.8 2
+Refer: 441 713 N 1 0 0 1 283 450 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eng
-Encoding: 330 330 30
+Encoding: 265 330 30
 Width: 1574
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 548 -372 m 1
@@ -524,8 +786,8 @@ SplineSet
  1191 3 1192 52 1192 58 c 1
  469 1049 l 1
  380 1188 l 1
- 380 0 l 1
- 189 0 l 1
+ 380 0 l 5
+ 189 0 l 5
  189 1456 l 1
  407 1456 l 1
  1100 483 l 1
@@ -539,105 +801,136 @@ EndSplineSet
 EndChar
 
 StartChar: Eogonek
-Encoding: 280 280 31
+Encoding: 215 280 31
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 542 0 2
+Refer: 268 731 N 1 0 0 1 542 0 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eth
-Encoding: 208 208 32
+Encoding: 143 208 32
 Width: 1505
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-13 795 m 1
- 598 795 l 1
- 598 660 l 1
- 13 660 l 1
- 13 795 l 1
+23 813 m 5
+ 608 813 l 5
+ 608 678 l 5
+ 23 678 l 5
+ 23 813 l 5
 EndSplineSet
 Refer: 18 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Euro
-Encoding: 8364 8364 33
+Encoding: 415 8364 33
 Width: 1190
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-957 41 m 1
- 1001 41 1044 149 1082 175 c 1
- 1081 175 1004 173 875 173 c 1
- 672 153 560 249 512 399 c 1
- 450 399 769 441 758 504 c 1
- 946 594 l 1
- 580 648 l 1
- 580 648 389 724 390 732 c 1
- 388 740 771 777 772 785 c 1
- 978 874 l 1
- 603 924 l 1
- 633 1060 518 1172 658 1172 c 1
- 751 1231 851 1239 957 1169 c 1
- 990 1169 1053 1279 1087 1256 c 1
- 1033 1308 980 1391 894 1391 c 1
- 656 1424 489 1297 404 1097 c 1
- 296 1097 150 1025 128 924 c 1
- 73 835 l 1
- 143 785 l 1
- 142 770 185 713 186 700 c 1
- 184 690 118 655 120 648 c 1
- 75 558 l 1
- 154 504 l 1
- 181 296 338 155 551 155 c 1
- 647 50 778 -3 957 41 c 1
+741 -21 m 0
+ 414 -21 245 191 201 504 c 1
+ 66 504 l 1
+ 88 648 l 1
+ 186 648 l 1
+ 181 683 181 726 186 785 c 1
+ 62 785 l 1
+ 87 924 l 1
+ 206 924 l 1
+ 264 1225 457 1439 771 1439 c 0
+ 905 1439 1018 1399 1104 1314 c 1
+ 1064 1134 l 1
+ 983 1227 875 1275 766 1275 c 0
+ 567 1275 457 1119 410 924 c 1
+ 987 924 l 1
+ 965 785 l 1
+ 389 785 l 1
+ 385 739 386 668 391 648 c 1
+ 954 648 l 1
+ 933 504 l 1
+ 405 504 l 1
+ 436 291 542 145 756 145 c 0
+ 849 145 958 179 1081 256 c 1
+ 1080 79 l 1
+ 978 10 864 -21 741 -21 c 0
 EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 70 70 34
+Encoding: 38 70 34
 Width: 1108
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 386> 656 169<386 989> 1287 169<386 1033>
-VStem: 189 197<0 656 825 1287>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 668 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
  189 1456 l 1
  1033 1456 l 1
  1033 1287 l 1
- 386 1287 l 1
- 386 825 l 1
+ 385 1287 l 5
+ 385 825 l 5
  989 825 l 1
  989 656 l 1
- 386 656 l 1
- 386 0 l 1
+ 385 656 l 5
+ 385 0 l 5
  189 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 71 71 35
+Encoding: 39 71 35
 Width: 1528
 VWidth: 0
-Flags: W
-HStem: -22 167<612.953 1142.31> 600 168<799 1163> 1315 167<646.925 1128.64>
-VStem: 107 204<457.013 960.767> 1163 197<182.242 600>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 810 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 844 -22 m 0
@@ -659,59 +952,92 @@ EndSplineSet
 EndChar
 
 StartChar: Gbreve
-Encoding: 286 286 36
+Encoding: 221 286 36
 Width: 1528
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 494 430 2
+Refer: 147 728 N 1 0 0 1 494 450 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gcedilla
-Encoding: 290 290 37
-Width: 1494
+Encoding: 225 290 37
+Width: 1528
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 35 71 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 536 0 2
+Refer: 161 44 N 1 0 0 1 502 -369 2
+Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gcircumflex
-Encoding: 284 284 38
+Encoding: 219 284 38
 Width: 1528
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 455 431 2
+Refer: 159 710 N 1 0 0 1 455 456 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Gdotaccent
-Encoding: 288 288 39
+Encoding: 223 288 39
 Width: 1528
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 539 426 2
 Refer: 35 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: H
-Encoding: 72 72 40
+Encoding: 40 72 40
 Width: 1576
 VWidth: 0
-Flags: W
-HStem: 0 21G<208 406 1172 1366> 663 166<406 1170> 1436 20G<208 404 1170 1366>
-VStem: 208 198<0 663 829 1456> 1172 194<0 663 829 1456>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 758 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 208 0 m 1
@@ -731,11 +1057,18 @@ EndSplineSet
 EndChar
 
 StartChar: Hbar
-Encoding: 294 294 41
+Encoding: 229 294 41
 Width: 1532
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 92 1149 m 1
@@ -748,164 +1081,251 @@ Refer: 40 72 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Hcircumflex
-Encoding: 292 292 42
+Encoding: 227 292 42
 Width: 1576
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 403 431 2
+Refer: 159 710 N 1 0 0 1 403 456 2
 Refer: 40 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: I
-Encoding: 73 73 43
+Encoding: 41 73 43
 Width: 578
 VWidth: 0
-Flags: W
-HStem: 0 21G<191 388> 1436 20G<191 388>
-VStem: 191 197<0 1456>
-AnchorPoint: "bottom" 286 0.599998 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 286 1 basechar 0
 AnchorPoint: "top" 289 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 191 0 m 1
  191 1456 l 1
- 388 1456 l 1
- 388 0 l 1
+ 387 1456 l 5
+ 387 0 l 5
  191 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: IJ
-Encoding: 306 306 44
-Width: 1310
+Encoding: 241 306 44
+Width: 1309
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 54 74 N 1 0 0 1 579 0 2
+Refer: 54 74 N 1 0 0 1 578 0 2
 Refer: 43 73 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Iacute
-Encoding: 205 205 45
+Encoding: 140 205 45
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 117 430 2
+Refer: 126 180 N 1 0 0 1 117 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ibreve
-Encoding: 300 300 46
+Encoding: 235 300 46
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 -27 430 2
+Refer: 147 728 N 1 0 0 1 -27 450 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Icircumflex
-Encoding: 206 206 47
+Encoding: 141 206 47
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 -66 431 2
+Refer: 159 710 N 1 0 0 1 -66 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Idieresis
-Encoding: 207 207 48
+Encoding: 142 207 48
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 -79 430 2
+Refer: 172 168 N 1 0 0 1 -79 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Idotaccent
-Encoding: 304 304 49
+Encoding: 239 304 49
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 18 426 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Igrave
-Encoding: 204 204 50
+Encoding: 139 204 50
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 -159 434.1 2
+Refer: 211 96 N 1 0 0 1 -159 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Imacron
-Encoding: 298 298 51
+Encoding: 233 298 51
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 -84 429.8 2
+Refer: 441 713 N 1 0 0 1 -84 450 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iogonek
-Encoding: 302 302 52
+Encoding: 237 302 52
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 -38 -1 2
-Refer: 43 73 N 1 0 0 1 0 0 2
+Refer: 268 731 N 1 0 0 1 -39 -2 2
+Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Itilde
-Encoding: 296 296 53
+Encoding: 231 296 53
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 -50 430 2
+Refer: 328 732 N 1 0 0 1 -50 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: J
-Encoding: 74 74 54
+Encoding: 42 74 54
 Width: 731
 VWidth: 0
-Flags: W
-HStem: -330 167<-29.8303 290.87> 1436 20G<345 542>
-VStem: 345 197<-107.971 1456>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 433 1456 basechar 0
+AnchorPoint: "top" 434 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 200 -330 m 0
  95 -330 -5 -300 -52 -282 c 1
  -24 -126 l 1
  13 -138 89 -163 174 -163 c 0
- 315 -163 345 -66 345 120 c 2
- 345 1456 l 1
+ 315 -163 346 -66 346 120 c 6
+ 346 1456 l 5
  542 1456 l 1
  542 117 l 2
  542 -181 425 -330 200 -330 c 0
@@ -913,59 +1333,76 @@ EndSplineSet
 EndChar
 
 StartChar: Jcircumflex
-Encoding: 308 308 55
+Encoding: 243 308 55
 Width: 731
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 78 431 2
+Refer: 159 710 N 1 0 0 1 78 456 2
 Refer: 54 74 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: K
-Encoding: 75 75 56
+Encoding: 43 75 56
 Width: 1289
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 387 1030.78 1299> 1436 20G<189 386 989.008 1251>
-VStem: 189 198<0 690 801 1456>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 726 0 basechar 0
 AnchorPoint: "top" 667 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
  189 1456 l 1
- 386 1456 l 1
- 386 801 l 1
+ 385 1456 l 5
+ 385 801 l 5
  1008 1456 l 1
  1251 1456 l 1
  581 755 l 1
  1299 0 l 1
  1050 0 l 1
- 387 690 l 1
- 387 0 l 1
+ 386 690 l 5
+ 386 0 l 5
  189 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 76 76 57
+Encoding: 44 76 57
 Width: 1099
 VWidth: 0
-Flags: W
-HStem: 0 169<386 1062> 1436 20G<189 386>
-VStem: 189 197<169 1456>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 696 0 basechar 0
 AnchorPoint: "top" 580 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
  189 1456 l 1
- 386 1456 l 1
- 386 169 l 1
+ 385 1456 l 5
+ 385 169 l 5
  1062 169 l 1
  1062 0 l 1
  189 0 l 1
@@ -973,44 +1410,72 @@ EndSplineSet
 EndChar
 
 StartChar: Lacute
-Encoding: 313 313 58
+Encoding: 248 313 58
 Width: 1099
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 408 430 2
+Refer: 126 180 N 1 0 0 1 408 456 2
 Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lcaron
-Encoding: 317 317 59
+Encoding: 252 317 59
 Width: 1099
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
+Refer: 161 44 N 1 0 0 1 1175 1257 2
 Refer: 57 76 N 1 0 0 1 0 0 2
-Refer: 161 44 N 1 0 0 1 1023 1258 2
 EndChar
 
-StartChar: Ldotaccent
-Encoding: 319 319 60
-Width: 1068
+StartChar: Ldot
+Encoding: 254 319 60
+Width: 1099
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 253 183 N 1 0 0 1 529 124 2
-Refer: 57 76 N 1 0 0 1 0 0 2
+Refer: 252 183 N 1 0 0 1 371 123 2
+Refer: 57 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lslash
-Encoding: 321 321 61
+Encoding: 256 321 61
 Width: 1133
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 652 884 m 1
@@ -1023,15 +1488,20 @@ Refer: 57 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: M
-Encoding: 77 77 62
+Encoding: 45 77 62
 Width: 1905
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 379 871.15 1033.87 1530 1716> 1436 20G<189 437.754 1470.21 1716>
-VStem: 189 190<0 1145> 1530 186<0 1138>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 932 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
@@ -1056,15 +1526,20 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 78 78 63
+Encoding: 46 78 63
 Width: 1578
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 373 1162.25 1389> 1436 20G<189 415.589 1203 1389>
-VStem: 189 184<0 1175> 1203 186<275 1456>
-AnchorPoint: "bottom" 943 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 804 0 basechar 0
 AnchorPoint: "top" 769 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
@@ -1084,49 +1559,75 @@ EndSplineSet
 EndChar
 
 StartChar: Nacute
-Encoding: 323 323 64
+Encoding: 258 323 64
 Width: 1578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 597 430 2
+Refer: 126 180 N 1 0 0 1 597 456 2
 Refer: 63 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ncaron
-Encoding: 327 327 65
+Encoding: 262 327 65
 Width: 1578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 417 431 2
+Refer: 152 711 N 1 0 0 1 414 456 2
 Refer: 63 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ntilde
-Encoding: 209 209 66
+Encoding: 144 209 66
 Width: 1578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 430 430 2
+Refer: 328 732 N 1 0 0 1 430 456 2
 Refer: 63 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: O
-Encoding: 79 79 67
+Encoding: 47 79 67
 Width: 1630
 VWidth: 0
-Flags: W
-HStem: -22 167<600.325 1034.03> 1315 167<607.44 1033.54>
-VStem: 107 211<452.884 998.687> 1309 215<453.285 998.908>
+Flags: HMW
 AnchorPoint: "ogonek" 873 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 822 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 816 145 m 0
@@ -1143,11 +1644,18 @@ EndSplineSet
 EndChar
 
 StartChar: OE
-Encoding: 338 338 68
+Encoding: 273 338 68
 Width: 2049
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 806 -23 m 0
@@ -1178,88 +1686,144 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute
-Encoding: 211 211 69
+Encoding: 146 211 69
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 650 430 2
+Refer: 126 180 N 1 0 0 1 650 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Obreve
-Encoding: 334 334 70
+Encoding: 269 334 70
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 506 430 2
+Refer: 147 728 N 1 0 0 1 506 450 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 212 212 71
+Encoding: 147 212 71
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 467 431 2
+Refer: 159 710 N 1 0 0 1 467 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Odieresis
-Encoding: 214 214 72
+Encoding: 149 214 72
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 454 430 2
+Refer: 172 168 N 1 0 0 1 454 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ograve
-Encoding: 210 210 73
+Encoding: 145 210 73
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 374 434.1 2
+Refer: 211 96 N 1 0 0 1 374 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ohungarumlaut
-Encoding: 336 336 74
+Encoding: 271 336 74
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 222 733 N 1 0 0 1 506 430 2
+Refer: 221 733 N 1 0 0 1 506 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Omacron
-Encoding: 332 332 75
+Encoding: 267 332 75
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 449 429.8 2
+Refer: 441 713 N 1 0 0 1 449 450 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Omega
-Encoding: 937 937 76
+Encoding: 65536 937 76
 Width: 1603
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 96 0 m 1
@@ -1283,11 +1847,18 @@ EndSplineSet
 EndChar
 
 StartChar: Oslash
-Encoding: 216 216 77
+Encoding: 151 216 77
 Width: 1663
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 434 -124 m 1
@@ -1300,26 +1871,38 @@ Refer: 67 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Otilde
-Encoding: 213 213 78
+Encoding: 148 213 78
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 483 430 2
+Refer: 328 732 N 1 0 0 1 483 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: P
-Encoding: 80 80 79
+Encoding: 48 80 79
 Width: 1252
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 386> 658 168<386 889.533> 1287 169<386 890.928>
-VStem: 189 197<0 658 826 1287> 984 199<913.874 1200.03>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 628 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
@@ -1327,28 +1910,33 @@ SplineSet
  606 1456 l 2
  947 1456 1183 1396 1183 1057 c 0
  1183 751 969 658 652 658 c 2
- 386 658 l 1
- 386 0 l 1
+ 385 658 l 5
+ 385 0 l 5
  189 0 l 1
-386 826 m 1
+385 826 m 5
  650 826 l 2
  858 826 984 870 984 1055 c 0
  984 1258 851 1287 611 1287 c 2
- 386 1287 l 1
- 386 826 l 1
+ 385 1287 l 5
+ 385 826 l 5
 EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 81 81 80
+Encoding: 49 81 80
 Width: 1628
 VWidth: 0
-Flags: W
-HStem: -22 167<600.325 1034.03> 1315 167<607.44 1033.54>
-VStem: 107 211<452.884 998.687> 1309 215<453.285 998.908>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 810 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1225 -429 m 1
@@ -1361,15 +1949,20 @@ Refer: 67 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: R
-Encoding: 82 82 81
+Encoding: 50 82 81
 Width: 1341
 VWidth: 0
-Flags: W
-HStem: 0 21G<189 386 1049.33 1269> 642 167<386 794.377> 1287 169<385 864.045>
-VStem: 189 197<0 642 809 1287> 940 208<902.767 1215.33>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 651 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 189 0 m 1
@@ -1382,61 +1975,87 @@ SplineSet
  1057 0 l 1
  894 425 l 2
  830 594 791 642 627 642 c 2
- 386 642 l 1
- 386 0 l 1
+ 385 642 l 5
+ 385 0 l 5
  189 0 l 1
-385 809 m 1
+384 809 m 5
  636 809 l 2
  807 809 940 861 940 1053 c 0
  940 1242 846 1287 652 1287 c 2
- 385 1287 l 1
- 385 809 l 1
+ 384 1287 l 5
+ 384 809 l 5
 EndSplineSet
 EndChar
 
 StartChar: Racute
-Encoding: 340 340 82
+Encoding: 275 340 82
 Width: 1341
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 479 430 2
+Refer: 126 180 N 1 0 0 1 479 456 2
 Refer: 81 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Rcaron
-Encoding: 344 344 83
+Encoding: 279 344 83
 Width: 1341
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 299 431 2
+Refer: 152 711 N 1 0 0 1 296 456 2
 Refer: 81 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Rcommaaccent
-Encoding: 342 342 84
-Width: 1343
+Encoding: 277 342 84
+Width: 1341
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 81 82 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 362 0 2
+Refer: 161 44 N 1 0 0 1 498 -347 2
+Refer: 81 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: S
-Encoding: 83 83 85
-Width: 1211
+Encoding: 51 83 85
+Width: 1227
 VWidth: 0
-Flags: W
-HStem: -22 167<384.35 795.784> 1315 167<438.118 849.932>
-VStem: 126 208<963.699 1222.52> 897 205<238.849 525.933>
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 604 1456 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 587 -1 basechar 0
+AnchorPoint: "top" 609 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 604 -22 m 0
@@ -1445,64 +2064,92 @@ SplineSet
  268 241 424 145 599 145 c 0
  794 145 897 228 897 378 c 0
  897 528 841 587 537 675 c 0
- 275 751 126 855 126 1097 c 0
- 126 1354 351 1482 620 1482 c 0
- 890 1482 1013 1383 1067 1329 c 1
- 969 1196 l 1
- 916 1244 800 1315 645 1315 c 0
- 473 1315 334 1251 334 1104 c 0
- 334 949 401 909 664 830 c 0
+ 275 751 139 855 139 1097 c 4
+ 139 1354 356 1482 625 1482 c 4
+ 895 1482 1018 1383 1072 1329 c 5
+ 974 1196 l 5
+ 921 1244 805 1315 650 1315 c 4
+ 478 1315 347 1251 347 1104 c 4
+ 347 949 401 909 664 830 c 0
  1005 728 1102 610 1102 378 c 0
  1102 104 874 -22 604 -22 c 0
 EndSplineSet
 EndChar
 
 StartChar: Sacute
-Encoding: 346 346 86
-Width: 1211
+Encoding: 281 346 86
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 432 430 2
+Refer: 126 180 N 1 0 0 1 432 456 2
 Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scaron
-Encoding: 352 352 87
-Width: 1211
+Encoding: 287 352 87
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 252 431 2
+Refer: 152 711 N 1 0 0 1 249 456 2
 Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scedilla
-Encoding: 350 350 88
-Width: 1211
+Encoding: 285 350 88
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 610 0 2
+Refer: 157 184 N 1 0 0 1 307 -1 2
 Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scircumflex
-Encoding: 348 348 89
-Width: 1211
+Encoding: 283 348 89
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 249 431 2
+Refer: 159 710 N 1 0 0 1 249 456 2
 Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scommaaccent
-Encoding: 536 536 90
+Encoding: -1 536 90
 Width: 1208
 VWidth: 0
 Flags: HW
@@ -1513,15 +2160,20 @@ Refer: 162 -1 N 1 0 0 1 289.6 -1.75 2
 EndChar
 
 StartChar: T
-Encoding: 84 84 91
+Encoding: 52 84 91
 Width: 1147
 VWidth: 0
-Flags: W
-HStem: 0 21G<473 670> 1287 169<10 473 670 1137>
-VStem: 473 197<0 1287>
+Flags: HMW
 AnchorPoint: "bottom" 563 0 basechar 0
 AnchorPoint: "top" 560 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 473 0 m 1
@@ -1530,18 +2182,25 @@ SplineSet
  10 1456 l 1
  1137 1456 l 1
  1137 1287 l 1
- 670 1287 l 1
- 670 0 l 1
+ 669 1287 l 5
+ 669 0 l 5
  473 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: Tbar
-Encoding: 358 358 92
+Encoding: 293 358 92
 Width: 1147
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 174 617 m 1
@@ -1554,22 +2213,36 @@ Refer: 91 84 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Tcaron
-Encoding: 356 356 93
+Encoding: 291 356 93
 Width: 1147
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 208 431 2
+Refer: 152 711 N 1 0 0 1 205 456 2
 Refer: 91 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Thorn
-Encoding: 222 222 94
+Encoding: 157 222 94
 Width: 1281
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 199 0 m 1
@@ -1592,26 +2265,31 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 85 85 95
+Encoding: 53 85 95
 Width: 1496
 VWidth: 0
-Flags: W
-HStem: -22 167<539.694 952.487> 1436 20G<170 367 1130 1326>
-VStem: 170 197<329.422 1456> 1130 196<326.815 1456>
+Flags: HMW
 AnchorPoint: "ogonek" 850 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 726 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 743 -22 m 0
  306 -22 170 228 170 561 c 2
  170 1456 l 1
- 367 1456 l 1
- 367 561 l 2
- 367 279 487 145 748 145 c 0
- 995 145 1130 275 1130 554 c 2
- 1130 1456 l 1
+ 366 1456 l 1
+ 366 561 l 2
+ 366 279 487 145 748 145 c 0
+ 995 145 1131 275 1131 554 c 6
+ 1131 1456 l 5
  1326 1456 l 1
  1326 565 l 1
  1325 215 1158 -22 743 -22 c 0
@@ -1619,124 +2297,200 @@ EndSplineSet
 EndChar
 
 StartChar: Uacute
-Encoding: 218 218 96
+Encoding: 153 218 96
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 554 430 2
+Refer: 126 180 N 1 0 0 1 554 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ubreve
-Encoding: 364 364 97
+Encoding: 299 364 97
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 410 430 2
+Refer: 147 728 N 1 0 0 1 410 450 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 219 219 98
+Encoding: 154 219 98
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 371 431 2
+Refer: 159 710 N 1 0 0 1 371 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Udieresis
-Encoding: 220 220 99
+Encoding: 155 220 99
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 358 430 2
+Refer: 172 168 N 1 0 0 1 358 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ugrave
-Encoding: 217 217 100
+Encoding: 152 217 100
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 278 434.1 2
+Refer: 211 96 N 1 0 0 1 278 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uhungarumlaut
-Encoding: 368 368 101
+Encoding: 303 368 101
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 222 733 N 1 0 0 1 410 430 2
+Refer: 221 733 N 1 0 0 1 410 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Umacron
-Encoding: 362 362 102
+Encoding: 297 362 102
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 353 429.8 2
+Refer: 441 713 N 1 0 0 1 353 450 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uogonek
-Encoding: 370 370 103
+Encoding: 305 370 103
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 542 0 2
+Refer: 268 731 N 1 0 0 1 542 0 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uring
-Encoding: 366 366 104
+Encoding: 301 366 104
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 308 730 N 1 0 0 1 410 430 2
+Refer: 307 730 N 1 0 0 1 410 476 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Utilde
-Encoding: 360 360 105
+Encoding: 295 360 105
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 387 430 2
+Refer: 328 732 N 1 0 0 1 387 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: V
-Encoding: 86 86 106
+Encoding: 54 86 106
 Width: 1320
 VWidth: 0
-Flags: W
-HStem: 0 21G<551.5 771.459> 1436 20G<13 240.076 1093.86 1307>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 660 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 559 0 m 1
@@ -1750,17 +2504,24 @@ SplineSet
  764 0 l 1
  559 0 l 1
 EndSplineSet
+Kerns2: 283 -40 "'kern' Horizontal Kerning lookup 1 per glyph data 0"  161 -40 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 
 EndChar
 
 StartChar: W
-Encoding: 87 87 107
+Encoding: 55 87 107
 Width: 1988
 VWidth: 0
-Flags: W
-HStem: 0 21G<414.505 651.901 1344.1 1585.33> 1436 20G<20 237.085 897.016 1107.02 1761.05 1968>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 975 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 420 0 m 1
@@ -1785,58 +2546,92 @@ EndSplineSet
 EndChar
 
 StartChar: Wacute
-Encoding: 7810 7810 108
+Encoding: 392 7810 108
 Width: 1988
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 803 430 2
+Refer: 126 180 N 1 0 0 1 803 456 2
 Refer: 107 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wcircumflex
-Encoding: 372 372 109
+Encoding: 307 372 109
 Width: 1988
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 620 431 2
+Refer: 159 710 N 1 0 0 1 620 456 2
 Refer: 107 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wdieresis
-Encoding: 7812 7812 110
+Encoding: 394 7812 110
 Width: 1988
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 607 430 2
+Refer: 172 168 N 1 0 0 1 607 456 2
 Refer: 107 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Wgrave
-Encoding: 7808 7808 111
+Encoding: 390 7808 111
 Width: 1988
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 527 434.1 2
+Refer: 211 96 N 1 0 0 1 527 456 2
 Refer: 107 87 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: X
-Encoding: 88 88 112
+Encoding: 56 88 112
 Width: 1257
 VWidth: 0
-Flags: W
-HStem: 0 21G<6 246.402 1004.56 1252> 1436 20G<24 275.442 993.449 1230>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 643 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1018 0 m 1
@@ -1856,15 +2651,20 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 89 89 113
+Encoding: 57 89 113
 Width: 1225
 VWidth: 0
-Flags: W
-HStem: 0 21G<509 705> 1436 20G<6 234.901 989.042 1219>
-VStem: 509 196<0 574>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 606 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 509 0 m 1
@@ -1881,58 +2681,92 @@ EndSplineSet
 EndChar
 
 StartChar: Yacute
-Encoding: 221 221 114
+Encoding: 156 221 114
 Width: 1225
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 434 430 2
+Refer: 126 180 N 1 0 0 1 434 456 2
 Refer: 113 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ycircumflex
-Encoding: 374 374 115
+Encoding: 309 374 115
 Width: 1225
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 251 431 2
+Refer: 159 710 N 1 0 0 1 251 456 2
 Refer: 113 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ydieresis
-Encoding: 376 376 116
+Encoding: 311 376 116
 Width: 1225
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 238 430 2
+Refer: 172 168 N 1 0 0 1 238 456 2
 Refer: 113 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ygrave
-Encoding: 7922 7922 117
+Encoding: 396 7922 117
 Width: 1225
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 158 434.1 2
+Refer: 211 96 N 1 0 0 1 158 456 2
 Refer: 113 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Z
-Encoding: 90 90 118
+Encoding: 58 90 118
 Width: 1179
 VWidth: 0
-Flags: W
-HStem: 0 169<353 1086> 1287 169<121 825>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 656 0 basechar 0
 AnchorPoint: "top" 623 1456 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 90 0 m 1
@@ -1950,63 +2784,89 @@ EndSplineSet
 EndChar
 
 StartChar: Zacute
-Encoding: 377 377 119
+Encoding: 312 377 119
 Width: 1179
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 451 430 2
+Refer: 126 180 N 1 0 0 1 451 456 2
 Refer: 118 90 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zcaron
-Encoding: 381 381 120
+Encoding: 316 381 120
 Width: 1179
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 271 431 2
+Refer: 152 711 N 1 0 0 1 268 456 2
 Refer: 118 90 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Zdotaccent
-Encoding: 379 379 121
+Encoding: 314 379 121
 Width: 1179
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 352 426 2
 Refer: 118 90 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: a
-Encoding: 97 97 122
+Encoding: 65 97 122
 Width: 1275
 VWidth: 0
-Flags: W
-HStem: -22 154<452.587 775.419> 0 21G<922 1111> 898 154<450.902 779.715> 1006 20G<923 1111>
-VStem: 103 193<306.801 735.181> 922 189<0 234 281.95 746.254 817 1026>
+Flags: HMW
 AnchorPoint: "ogonek" 994 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 637 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-600 -22 m 0x8c
+600 -22 m 0
  265 -22 103 227 103 513 c 0
- 103 811 284 1052 608 1052 c 0xac
+ 103 811 284 1052 608 1052 c 0
  809 1052 913 917 956 817 c 1
  923 802 l 1
  923 1026 l 1
  1111 1026 l 1
  1111 0 l 1
- 922 0 l 1x5c
+ 922 0 l 1
  922 246 l 1
  952 234 l 1
- 901 92 776 -22 600 -22 c 0x8c
+ 901 92 776 -22 600 -22 c 0
 618 898 m 0
  387 898 296 723 296 516 c 0
  296 312 389 132 620 132 c 0
@@ -2016,47 +2876,73 @@ EndSplineSet
 EndChar
 
 StartChar: aacute
-Encoding: 225 225 123
+Encoding: 160 225 123
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 465 0 2
+Refer: 126 180 N 1 0 0 1 465 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: abreve
-Encoding: 259 259 124
+Encoding: 194 259 124
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 321 0 2
+Refer: 147 728 N 1 0 0 1 321 20 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acircumflex
-Encoding: 226 226 125
+Encoding: 161 226 125
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 282 1.00003 2
+Refer: 159 710 N 1 0 0 1 282 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acute
-Encoding: 180 180 126
+Encoding: 115 180 126
 Width: 607
 VWidth: 0
-Flags: W
-HStem: 1171 318
-VStem: 70 482
-AnchorPoint: "top" 172 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 172 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 70 1171 m 1
@@ -2068,22 +2954,36 @@ EndSplineSet
 EndChar
 
 StartChar: adieresis
-Encoding: 228 228 127
+Encoding: 163 228 127
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 269 0 2
+Refer: 172 168 N 1 0 0 1 269 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ae
-Encoding: 230 230 128
+Encoding: 165 230 128
 Width: 1790
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 455 -26 m 0
@@ -2120,33 +3020,54 @@ EndSplineSet
 EndChar
 
 StartChar: agrave
-Encoding: 224 224 129
+Encoding: 159 224 129
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 189 4.10001 2
+Refer: 211 96 N 1 0 0 1 189 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: amacron
-Encoding: 257 257 130
+Encoding: 192 257 130
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 264 -0.199951 2
+Refer: 441 713 N 1 0 0 1 264 20 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 131
+Encoding: 6 38 131
 Width: 1539
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 629 -24 m 0
@@ -2178,24 +3099,36 @@ EndSplineSet
 EndChar
 
 StartChar: aogonek
-Encoding: 261 261 132
+Encoding: 196 261 132
 Width: 1275
 VWidth: 0
-Flags: W
-HStem: -384 121<899.159 1140.62> -22 154<452.587 775.419> 0 21<922 1111> 898 154<450.902 779.715> 1006 20<923 1111>
-VStem: 103 193<306.801 735.181> 726 167<-252.338 -112.952> 922 189<0 234 281.95 746.254 817 1026>
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 686 0 2
+Refer: 268 731 N 1 0 0 1 686 0 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: approxequal
-Encoding: 8776 8776 133
+Encoding: 424 8776 133
 Width: 1351
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 280 251 m 1
@@ -2224,22 +3157,36 @@ EndSplineSet
 EndChar
 
 StartChar: aring
-Encoding: 229 229 134
+Encoding: 164 229 134
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 308 730 N 1 0 0 1 321 0 2
+Refer: 307 730 N 1 0 0 1 321 46 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 135
+Encoding: 62 94 135
 Width: 1623
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 265 561 m 1
@@ -2254,11 +3201,18 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 136
+Encoding: 94 126 136
 Width: 1271
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 249 370 m 1
@@ -2276,11 +3230,18 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 137
+Encoding: 10 42 137
 Width: 1107
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 714 708 m 1
@@ -2303,11 +3264,18 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 64 64 138
+Encoding: 32 64 138
 Width: 1771
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 927 -89 m 0
@@ -2341,53 +3309,72 @@ EndSplineSet
 EndChar
 
 StartChar: atilde
-Encoding: 227 227 139
+Encoding: 162 227 139
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 298 0 2
+Refer: 328 732 N 1 0 0 1 298 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: b
-Encoding: 98 98 140
-Width: 1270
+Encoding: 66 98 140
+Width: 1274
 VWidth: 0
-Flags: W
-HStem: -22 154<515.819 837.538> 0 21G<166 358.235> 898 154<515.064 831.131> 1462 20G<173 362>
-VStem: 173 189<0 170 292.303 736.379 859 1482> 976 197<298.691 737.617>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 728 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-707 -22 m 0xbc
+707 -22 m 0
  531 -22 408 71 360 170 c 1
- 358 0 l 1
- 166 0 l 1x7c
+ 360 0 l 1
+ 166 0 l 1
  168 75 173 239 173 271 c 2
  173 1482 l 1
- 362 1482 l 1
- 362 859 l 1
- 410 954 529 1052 708 1052 c 0
+ 363 1482 l 1
+ 363 859 l 1
+ 411 954 529 1052 708 1052 c 0
  989 1052 1173 849 1173 531 c 0
- 1173 190 977 -22 707 -22 c 0xbc
-683 132 m 0xbc
+ 1173 190 977 -22 707 -22 c 0
+683 132 m 0
  875 132 976 285 976 531 c 0
  976 744 865 898 678 898 c 0
  480 898 357 743 357 515 c 0
- 357 284 480 132 683 132 c 0xbc
+ 357 284 480 132 683 132 c 0
 EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 141
+Encoding: 60 92 141
 Width: 735
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 563 -28 m 1
@@ -2399,11 +3386,18 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 124 124 142
+Encoding: 92 124 142
 Width: 909
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 364 -480 m 1
@@ -2415,11 +3409,18 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 143
+Encoding: 91 123 143
 Width: 723
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 637 -224 m 1
@@ -2442,38 +3443,52 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 144
+Encoding: 93 125 144
 Width: 748
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-108 368 m 1
- 221 368 242 398 242 325 c 1
- 310 327 383 276 383 359 c 1
- 383 307 399 480 435 480 c 1
- 435 582 501 577 578 598 c 1
- 454 625 383 695 383 713 c 2
- 383 778 l 2
- 383 831 302 806 107 806 c 1
- 107 953 l 1
- 276 948 405 936 405 863 c 2
- 405 772 l 2
- 405 725 466 670 591 670 c 1
- 565 686 541 627 541 679 c 1
- 464 672 406 708 405 621 c 1
- 405 664 383 503 356 503 c 1
- 356 377 263 368 108 368 c 1
+107 -224 m 1
+ 107 -77 l 1
+ 223 -75 298 -16 298 118 c 2
+ 298 386 l 2
+ 298 521 389 599 491 631 c 1
+ 378 674 298 783 298 894 c 2
+ 298 1130 l 2
+ 298 1295 216 1333 108 1333 c 1
+ 108 1479 l 1
+ 342 1474 490 1377 490 1179 c 2
+ 490 933 l 2
+ 490 801 542 708 678 697 c 1
+ 678 559 l 1
+ 565 552 491 474 490 346 c 2
+ 490 104 l 2
+ 490 -91 375 -224 107 -224 c 1
 EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 145
+Encoding: 59 91 145
 Width: 657
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 169 -225 m 1
@@ -2489,11 +3504,18 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 146
+Encoding: 61 93 146
 Width: 657
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 124 -225 m 1
@@ -2509,14 +3531,19 @@ EndSplineSet
 EndChar
 
 StartChar: breve
-Encoding: 728 728 147
+Encoding: 365 728 147
 Width: 621
 VWidth: 0
-Flags: W
-HStem: 1194 134<196.085 425.951> 1436 20G<31 169.5 452.5 590>
-VStem: 31 135<1357.15 1456> 458 132<1357.92 1456>
-AnchorPoint: "top" 316 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 316 1006 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 313 1194 m 0
@@ -2530,11 +3557,18 @@ EndSplineSet
 EndChar
 
 StartChar: brokenbar
-Encoding: 166 166 148
+Encoding: 101 166 148
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 152 -480 m 1
@@ -2551,11 +3585,18 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 8226 8226 149
+Encoding: 408 8226 149
 Width: 989
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 493 377 m 0
@@ -2567,15 +3608,20 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 99 99 150
+Encoding: 67 99 150
 Width: 1035
 VWidth: 0
-Flags: W
-HStem: -22 154<455.625 828.455> 897 155<462.215 819.395>
-VStem: 100 196<303.376 716.674>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 599 0 basechar 0
 AnchorPoint: "top" 597 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 621 -22 m 0
@@ -2593,114 +3639,166 @@ EndSplineSet
 EndChar
 
 StartChar: cacute
-Encoding: 263 263 151
+Encoding: 198 263 151
 Width: 1035
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 425 0 2
+Refer: 126 180 N 1 0 0 1 425 26 2
 Refer: 150 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: caron
-Encoding: 711 711 152
+Encoding: 363 711 152
 Width: 699
 VWidth: 0
-Flags: W
-HStem: 1151 338
-VStem: 14 671
-AnchorPoint: "top" 352 1025 mark 0
+Flags: HMW
+AnchorPoint: "top" 355 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-266 1151 m 1
- 14 1489 l 1
- 192 1489 l 1
- 344 1291 l 1
- 499 1489 l 1
- 685 1489 l 1
+272 1151 m 1
+ 36 1496 l 1
+ 194 1496 l 1
+ 354 1278 l 1
+ 513 1496 l 1
+ 671 1496 l 1
  435 1151 l 1
- 266 1151 l 1
+ 272 1151 l 1
 EndSplineSet
 EndChar
 
 StartChar: ccaron
-Encoding: 269 269 153
+Encoding: 204 269 153
 Width: 1035
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 245 1.00003 2
+Refer: 152 711 N 1 0 0 1 242 26 2
 Refer: 150 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ccedilla
-Encoding: 231 231 154
+Encoding: 166 231 154
 Width: 1035
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 610 0 2
+Refer: 157 184 N 1 0 0 1 319 0 2
 Refer: 150 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ccircumflex
-Encoding: 265 265 155
+Encoding: 200 265 155
 Width: 1035
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 242 1.00003 2
+Refer: 159 710 N 1 0 0 1 242 26 2
 Refer: 150 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: cdotaccent
-Encoding: 267 267 156
+Encoding: 202 267 156
 Width: 1035
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 332 0 2
+Refer: 176 775 N 1 0 0 1 326 -4 2
 Refer: 150 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: cedilla
-Encoding: 184 184 157
+Encoding: 119 184 157
 Width: 529
 VWidth: 0
-Flags: W
-HStem: -417 102<51.8513 313.919> -166 188<172 250.759>
-VStem: 321 159<-303.67 -184.843>
-AnchorPoint: "bottom" 216 0 mark 0
+Flags: HMW
+AnchorPoint: "bottom" 280 0 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-223 -417 m 0
- 150 -417 59 -390 43 -385 c 1
- 56 -287 l 1
- 73 -293 158 -315 216 -315 c 0
- 293 -315 321 -282 321 -244 c 0
- 321 -205 287 -166 162 -166 c 2
- 139 -166 l 1
+43 -406 m 1
+ 56 -308 l 1
+ 86 -319 148 -332 204 -332 c 0
+ 266 -332 321 -316 321 -260 c 0
+ 321 -221 287 -172 162 -172 c 2
+ 139 -172 l 1
  172 22 l 1
  270 22 l 1
- 251 -96 l 1
- 393 -110 480 -156 480 -249 c 0
- 480 -350 383 -417 223 -417 c 0
+ 251 -102 l 1
+ 393 -116 480 -172 480 -265 c 0
+ 480 -386 350 -431 216 -431 c 0
+ 155 -431 93 -422 43 -406 c 1
 EndSplineSet
 EndChar
 
 StartChar: cent
-Encoding: 162 162 158
+Encoding: 97 162 158
 Width: 1033
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 574 -215 m 1
@@ -2713,70 +3811,97 @@ Refer: 150 99 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: circumflex
-Encoding: 710 710 159
+Encoding: 362 710 159
 Width: 699
 VWidth: 0
-Flags: W
-HStem: 1151 339
-VStem: 26 647
-AnchorPoint: "top" 355 1025 mark 0
+Flags: HMW
+AnchorPoint: "top" 355 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-26 1151 m 1
- 262 1490 l 1
- 434 1490 l 1
- 673 1151 l 1
- 510 1151 l 1
- 346 1340 l 1
- 181 1151 l 1
- 26 1151 l 1
+272 1496 m 1
+ 36 1151 l 1
+ 194 1151 l 1
+ 354 1369 l 1
+ 513 1151 l 5
+ 671 1151 l 5
+ 435 1496 l 1
+ 272 1496 l 1
 EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 58 58 160
+Encoding: 26 58 160
 Width: 544
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-151 -4 m 1
- 151 224 l 1
- 393 224 l 1
- 393 -4 l 1
- 151 -4 l 1
-151 861 m 1
- 151 1090 l 1
- 393 1090 l 1
- 393 861 l 1
- 151 861 l 1
+151 0 m 1
+ 151 228 l 1
+ 393 228 l 1
+ 393 0 l 1
+ 151 0 l 1
+151 797 m 1
+ 151 1026 l 1
+ 393 1026 l 1
+ 393 797 l 1
+ 151 797 l 1
 EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 44 44 161
+Encoding: 12 44 161
 Width: 491
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-70 -250 m 1
- 179 225 l 1
- 393 225 l 1
- 225 -250 l 1
- 70 -250 l 1
+70 -281 m 5
+ 179 225 l 5
+ 393 225 l 5
+ 225 -281 l 5
+ 70 -281 l 5
 EndSplineSet
 EndChar
 
 StartChar: commaaccent
-Encoding: 65536 -1 162
+Encoding: 65537 -1 162
 Width: 540
 VWidth: 0
-Flags: HW
+Flags: HMW
+AnchorPoint: "bottom" 288 0 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 108 -610 m 1
@@ -2788,11 +3913,18 @@ EndSplineSet
 EndChar
 
 StartChar: copyright
-Encoding: 169 169 163
+Encoding: 104 169 163
 Width: 1727
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 884 280 m 0
@@ -2820,11 +3952,18 @@ EndSplineSet
 EndChar
 
 StartChar: currency
-Encoding: 164 164 164
+Encoding: 99 164 164
 Width: 1218
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1048 544 m 1
@@ -2857,42 +3996,54 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 100 100 165
+Encoding: 68 100 165
 Width: 1265
 VWidth: 0
-Flags: W
-HStem: -22 154<447.982 760.493> 0 21G<908.524 1101> 898 154<449.597 760.115> 1462 20G<905 1094>
-VStem: 101 197<295.727 727.051> 905 189<0 168 294.744 737.502 879 1482>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 526 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-574 -22 m 0xbc
+574 -22 m 0
  300 -22 101 182 101 507 c 0
  101 828 281 1052 583 1052 c 0
- 749 1052 866 964 905 879 c 1
- 905 1482 l 1
+ 749 1052 865 964 904 879 c 1
+ 904 1482 l 1
  1094 1482 l 1
  1094 262 l 2
  1095 200 1097 125 1101 0 c 1
- 909 0 l 1x7c
+ 909 0 l 1
  905 168 l 1
- 867 76 759 -22 574 -22 c 0xbc
-600 132 m 0xbc
+ 867 76 759 -22 574 -22 c 0
+600 132 m 0
  798 132 908 284 908 525 c 0
  908 740 798 898 606 898 c 0
  412 898 298 741 298 510 c 0
- 298 286 407 132 600 132 c 0xbc
+ 298 286 407 132 600 132 c 0
 EndSplineSet
 EndChar
 
 StartChar: dagger
-Encoding: 8224 8224 166
+Encoding: 406 8224 166
 Width: 1022
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 421 111 m 1
@@ -2912,11 +4063,18 @@ EndSplineSet
 EndChar
 
 StartChar: daggerdbl
-Encoding: 8225 8225 167
+Encoding: 407 8225 167
 Width: 1092
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 467 -54 m 1
@@ -2943,47 +4101,66 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dblgravecmb
-Encoding: 783 783 168
+StartChar: uni030F
+Encoding: 372 783 168
 Width: 969
 VWidth: 0
-Flags: W
-HStem: 1174 313
-VStem: 153 663
-AnchorPoint: "top" 612 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 612 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-429 1174 m 1
- 153 1487 l 1
- 329 1487 l 1
- 549 1174 l 1
- 429 1174 l 1
-698 1174 m 1
- 423 1487 l 1
- 599 1487 l 1
- 816 1174 l 1
- 698 1174 l 1
+348 1174 m 5
+ 32 1587 l 5
+ 228 1587 l 5
+ 488 1174 l 5
+ 348 1174 l 5
+708 1174 m 5
+ 423 1587 l 5
+ 619 1587 l 5
+ 846 1174 l 5
+ 708 1174 l 5
 EndSplineSet
 EndChar
 
 StartChar: dcaron
-Encoding: 271 271 169
+Encoding: 206 271 169
 Width: 1265
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 161 44 N 1 0 0 1 1214 1257 2
 Refer: 165 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dcroat
-Encoding: 273 273 170
+Encoding: 208 273 170
 Width: 1258
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 588 1213 m 1
@@ -2996,11 +4173,18 @@ Refer: 165 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: degree
-Encoding: 176 176 171
+Encoding: 111 176 171
 Width: 856
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 1451 m 0
@@ -3017,35 +4201,47 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis
-Encoding: 168 168 172
+Encoding: 103 168 172
 Width: 743
 VWidth: 0
-Flags: W
-HStem: 1166 183<91 280 463 652>
-VStem: 91 189<1166 1349> 463 189<1166 1349>
-AnchorPoint: "top" 368 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 368 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-91 1166 m 1
- 91 1349 l 1
- 280 1349 l 1
- 280 1166 l 1
- 91 1166 l 1
-463 1166 m 1
- 463 1349 l 1
- 652 1349 l 1
- 652 1166 l 1
- 463 1166 l 1
+82 1166 m 1
+ 82 1369 l 1
+ 276 1369 l 1
+ 276 1166 l 1
+ 82 1166 l 1
+467 1166 m 1
+ 467 1369 l 1
+ 661 1369 l 1
+ 661 1166 l 1
+ 467 1166 l 1
 EndSplineSet
 EndChar
 
 StartChar: divide
-Encoding: 247 247 173
+Encoding: 182 247 173
 Width: 1302
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 524 9 m 1
@@ -3067,11 +4263,18 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 174
+Encoding: 4 36 174
 Width: 1200
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 572 -200 m 1
@@ -3084,14 +4287,19 @@ Refer: 85 83 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dotaccent
-Encoding: 729 729 175
+Encoding: 366 729 175
 Width: 524
 VWidth: 0
-Flags: W
-HStem: 1273 183<168 356>
-VStem: 168 188<1273 1456>
+Flags: HMW
 AnchorPoint: "top" 271 1030 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 1273 m 1
@@ -3102,15 +4310,20 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dotaccentcmb
-Encoding: 775 775 176
+StartChar: uni0307
+Encoding: 371 775 176
 Width: 524
 VWidth: 0
-Flags: W
-HStem: 1273 183<168 356>
-VStem: 168 188<1273 1456>
+Flags: HMW
 AnchorPoint: "top" 271 1030 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 1273 m 1
@@ -3122,12 +4335,19 @@ EndSplineSet
 EndChar
 
 StartChar: dotlessi
-Encoding: 305 305 177
+Encoding: 240 305 177
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 AnchorPoint: "top" 248 1023 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 152 0 m 1
@@ -3138,13 +4358,20 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dotlessj
-Encoding: 567 567 178
+StartChar: uni0237
+Encoding: 361 567 178
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 AnchorPoint: "top" 259 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 22 -418 m 0
@@ -3160,118 +4387,188 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 101 101 179
-Width: 1169
+Encoding: 69 101 179
+Width: 1152
 VWidth: 0
-Flags: W
-HStem: -22 154<467.457 866.243> 486 131<304 899> 901 151<451.666 773.837>
-VStem: 102 197<303.761 486 617 737.734>
-AnchorPoint: "ogonek" 869 56 basechar 0
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 608 1026 basechar 0
+Flags: HW
+HStem: -22 154<464.685 853.807> 486 131<305.735 881.915> 901 151<449.558 757.244>
+VStem: 106 195<303.761 486 617 740.609>
+AnchorPoint: "ogonek" 865 56 basechar 0
+AnchorPoint: "bottom" 823 0 basechar 0
+AnchorPoint: "top" 607 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-642 -22 m 0
- 310 -22 102 188 102 511 c 0
- 102 826 304 1052 612 1052 c 0
- 907 1052 1066 835 1066 535 c 0
- 1066 531 1065 516 1063 486 c 1
- 299 486 l 1
- 303 253 449 132 651 132 c 0
- 774 132 883 168 977 246 c 1
- 1034 106 l 1
- 928 20 794 -22 642 -22 c 0
-304 617 m 1
- 899 617 l 1
- 881 805 768 901 616 901 c 0
- 453 901 331 798 304 617 c 1
+634 -22 m 0
+ 311 -22 106 188 106 511 c 0
+ 106 826 306 1052 606 1052 c 0
+ 894 1052 1047 835 1047 535 c 0
+ 1047 531 1046 516 1044 486 c 1
+ 301 486 l 1
+ 305 253 447 132 643 132 c 0
+ 763 132 870 168 963 246 c 1
+ 1020 106 l 1
+ 915 20 782 -22 634 -22 c 0
+306 617 m 1
+ 882 617 l 1
+ 864 805 758 901 610 901 c 0
+ 452 901 333 798 306 617 c 1
 EndSplineSet
 EndChar
 
 StartChar: eacute
-Encoding: 233 233 180
-Width: 1169
+Encoding: 168 233 180
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 436 0 2
+Refer: 126 180 N 1 0 0 1 430 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ebreve
-Encoding: 277 277 181
-Width: 1169
+Encoding: 212 277 181
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 292 0 2
+Refer: 147 728 N 1 0 0 1 286 20 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecaron
-Encoding: 283 283 182
-Width: 1169
+Encoding: 218 283 182
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 256 1.00003 2
+Refer: 152 711 N 1 0 0 1 247 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
-Encoding: 234 234 183
-Width: 1169
+Encoding: 169 234 183
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 253 1.00003 2
+Refer: 159 710 N 1 0 0 1 247 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
-Encoding: 235 235 184
-Width: 1169
+Encoding: 170 235 184
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 240 0 2
+Refer: 172 168 N 1 0 0 1 234 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edotaccent
-Encoding: 279 279 185
-Width: 1169
+Encoding: 214 279 185
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 337 -3.99994 2
+Refer: 176 775 N 1 0 0 1 331 -4 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
-Encoding: 232 232 186
-Width: 1169
+Encoding: 167 232 186
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 160 4.10001 2
+Refer: 211 96 N 1 0 0 1 154 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eight
-Encoding: 56 56 187
+Encoding: 24 56 187
 Width: 1235
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 618 -23 m 0
@@ -3297,11 +4594,18 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 188
+Encoding: 409 8230 188
 Width: 1620
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 146 -11 m 1
@@ -3323,22 +4627,36 @@ EndSplineSet
 EndChar
 
 StartChar: emacron
-Encoding: 275 275 189
-Width: 1169
+Encoding: 210 275 189
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 235 -0.199951 2
+Refer: 441 713 N 1 0 0 1 229 20 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 190
+Encoding: 399 8212 190
 Width: 2171
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 9 478 m 1
@@ -3350,11 +4668,18 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 191
+Encoding: 398 8211 191
 Width: 1085
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 -7 478 m 1
@@ -3366,11 +4691,18 @@ EndSplineSet
 EndChar
 
 StartChar: eng
-Encoding: 331 331 192
+Encoding: 266 331 192
 Width: 1232
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 243 -350 m 1
@@ -3395,22 +4727,36 @@ EndSplineSet
 EndChar
 
 StartChar: eogonek
-Encoding: 281 281 193
-Width: 1169
+Encoding: 216 281 193
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 561 56 2
+Refer: 268 731 N 1 0 0 1 555 56 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: equal
-Encoding: 61 61 194
+Encoding: 29 61 194
 Width: 1303
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 175 290 m 1
@@ -3427,11 +4773,18 @@ EndSplineSet
 EndChar
 
 StartChar: eth
-Encoding: 240 240 195
+Encoding: 175 240 195
 Width: 1222
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 594 -23 m 0
@@ -3456,48 +4809,19 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: euro
-Encoding: 65537 -1 196
-Width: 1190
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
-741 -21 m 0
- 414 -21 245 191 201 504 c 1
- 66 504 l 1
- 88 648 l 1
- 186 648 l 1
- 181 683 181 726 186 785 c 1
- 62 785 l 1
- 87 924 l 1
- 206 924 l 1
- 264 1225 457 1439 771 1439 c 0
- 905 1439 1018 1399 1104 1314 c 1
- 1064 1134 l 1
- 983 1227 875 1275 766 1275 c 0
- 567 1275 457 1119 410 924 c 1
- 987 924 l 1
- 965 785 l 1
- 389 785 l 1
- 385 739 386 668 391 648 c 1
- 954 648 l 1
- 933 504 l 1
- 405 504 l 1
- 436 291 542 145 756 145 c 0
- 849 145 958 179 1081 256 c 1
- 1080 79 l 1
- 978 10 864 -21 741 -21 c 0
-EndSplineSet
-EndChar
-
 StartChar: exclam
-Encoding: 33 33 197
+Encoding: 1 33 196
 Width: 590
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 176 0 m 1
@@ -3514,25 +4838,37 @@ EndSplineSet
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 198
-Width: 614
+Encoding: 96 161 197
+Width: 590
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 197 33 N -0.3 0 0 -1 360 1123 2
+Refer: 196 33 N -1 0 0 -1 589 1138 2
 EndChar
 
 StartChar: f
-Encoding: 102 102 199
+Encoding: 70 102 198
 Width: 733
 VWidth: 0
-Flags: W
-HStem: 0 21G<252 441> 901 125<69 252 441 685> 1342 147<480.909 694>
-VStem: 252 189<0 901 1026 1296.1>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 635 1026 basechar 0
+AnchorPoint: "top" 572 1455 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 252 0 m 1
@@ -3544,50 +4880,66 @@ SplineSet
  252 1371 295 1489 649 1489 c 2
  697 1489 l 1
  694 1342 l 1
- 459 1342 441 1298 441 1125 c 2
- 441 1026 l 1
+ 459 1342 442 1298 442 1125 c 6
+ 442 1026 l 5
  685 1026 l 1
  685 901 l 1
- 441 901 l 1
- 441 0 l 1
+ 442 901 l 5
+ 442 0 l 5
  252 0 l 1
 EndSplineSet
 EndChar
 
-StartChar: fi
-Encoding: 64257 64257 200
+StartChar: uniFB01
+Encoding: 430 64257 199
 Width: 1237
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-252 0 m 1
- 252 901 l 1
- 69 901 l 1
- 69 1026 l 1
- 252 1026 l 1
- 252 1108 l 2
- 252 1371 295 1489 649 1489 c 2
- 697 1489 l 1
- 694 1342 l 1
- 459 1342 441 1298 441 1125 c 2
- 441 1026 l 1
- 916 1026 l 1
- 916 901 l 1
- 441 901 l 1
- 441 0 l 1
- 252 0 l 1
+252 0 m 5
+ 252 901 l 5
+ 69 901 l 5
+ 69 1026 l 5
+ 252 1026 l 5
+ 252 1108 l 6
+ 252 1371 295 1489 649 1489 c 6
+ 697 1489 l 5
+ 694 1342 l 5
+ 459 1342 441 1298 441 1125 c 6
+ 441 1026 l 5
+ 916 1026 l 5
+ 916 901 l 5
+ 441 901 l 5
+ 441 0 l 5
+ 252 0 l 5
 EndSplineSet
-Refer: 224 105 N 1 0 0 1 715 0 2
+Refer: 223 105 S 1 0 0 1 715 0 2
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: five
-Encoding: 53 53 201
+Encoding: 21 53 200
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 610 -23 m 0
@@ -3609,12 +4961,19 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fl
-Encoding: 64258 64258 202
-Width: 1252
+StartChar: uniFB02
+Encoding: 431 64258 201
+Width: 1274
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 454 901 m 1
@@ -3626,10 +4985,10 @@ SplineSet
  266 1026 l 1
  266 1093 l 2
  266 1358 351 1465 723 1465 c 2
- 1088 1465 l 1
- 1088 0 l 1
- 899 0 l 1
- 899 1319 l 1
+ 1110 1465 l 5
+ 1110 0 l 5
+ 921 0 l 5
+ 921 1319 l 5
  738 1319 l 2
  497 1319 454 1273 454 1125 c 2
  454 1026 l 1
@@ -3637,14 +4996,23 @@ SplineSet
  698 901 l 1
  454 901 l 1
 EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: florin
-Encoding: 402 402 203
+Encoding: 318 402 202
 Width: 1073
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 201 -300 m 0
@@ -3672,39 +5040,53 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 52 52 204
+Encoding: 20 52 203
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 743 0 m 1
  743 385 l 1
  105 385 l 1
- 105 536 l 1
- 691 1456 l 1
- 938 1456 l 1
- 938 536 l 1
- 1157 536 l 1
+ 105 520 l 1
+ 701 1456 l 1
+ 937 1456 l 1
+ 937 527 l 1
+ 1157 527 l 1
  1157 385 l 1
- 940 385 l 1
- 940 0 l 1
+ 939 385 l 1
+ 939 0 l 1
  743 0 l 1
-312 536 m 1
- 744 536 l 1
- 744 1246 l 1
- 635 1066 l 1
- 312 536 l 1
+302 527 m 1
+ 744 527 l 1
+ 744 1255 l 1
+ 595 1006 l 1
+ 302 527 l 1
 EndSplineSet
 EndChar
 
 StartChar: fraction
-Encoding: 8260 8260 205
+Encoding: 413 8260 204
 Width: 1077
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 0 0 m 1
@@ -3716,117 +5098,137 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 103 103 206
+Encoding: 71 103 205
 Width: 1250
 VWidth: 0
-Flags: W
-HStem: -418 158<327.511 759.101> 2 150<435.857 760.344> 898 154<449.226 768.33> 1006 20G<907.657 1102>
-VStem: 101 197<301.848 728.974> 904 188<-109.621 139 310.73 754.327 793 1026>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
 AnchorPoint: "top" 622 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-594 152 m 0xec
- 808 152 908 315 908 540 c 0
- 908 754 798 898 609 898 c 0
- 414 898 298 741 298 515 c 0
- 298 293 406 152 594 152 c 0xec
-219 -162 m 1
- 338 -233 438 -260 569 -260 c 0
- 783 -260 904 -150 904 87 c 2
- 904 259 l 1
- 935 236 l 1
- 900 148 809 2 587 2 c 0
- 301 2 101 201 101 512 c 0
- 101 829 275 1052 582 1052 c 0xec
+594 174 m 0
+ 808 174 908 320 908 545 c 0
+ 908 759 798 898 609 898 c 0
+ 414 898 298 746 298 520 c 0
+ 298 298 406 174 594 174 c 0
+219 -154 m 1
+ 338 -225 438 -252 569 -252 c 0
+ 783 -252 904 -142 904 95 c 2
+ 904 281 l 1
+ 935 258 l 1
+ 900 170 809 24 587 24 c 0
+ 301 24 101 206 101 517 c 0
+ 101 834 275 1052 582 1052 c 0
  804 1052 896 912 941 810 c 1
  904 793 l 1
  908 1026 l 1
- 1102 1026 l 1xdc
+ 1102 1026 l 1
  1102 1026 1092 863 1092 746 c 2
- 1092 139 l 2
- 1092 -185 932 -418 576 -418 c 0
- 434 -418 313 -389 189 -327 c 1
- 219 -162 l 1
+ 1092 147 l 2
+ 1092 -177 932 -410 576 -410 c 0
+ 434 -410 313 -381 189 -319 c 1
+ 219 -154 l 1
 EndSplineSet
 EndChar
 
 StartChar: gbreve
-Encoding: 287 287 207
+Encoding: 222 287 206
 Width: 1250
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 306 0 2
-Refer: 206 103 N 1 0 0 1 0 0 3
+Refer: 147 728 N 1 0 0 1 306 20 2
+Refer: 205 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gcedilla
-Encoding: 291 291 208
+Encoding: 226 291 207
 Width: 1241
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-550 -422 m 0
- 418 -422 292 -396 182 -340 c 1
- 201 -187 l 1
- 306 -252 427 -282 538 -282 c 0
- 773 -282 912 -180 912 49 c 2
- 912 176 l 1
- 833 60 705 0 560 0 c 0
- 265 0 91 205 91 511 c 0
- 91 803 251 1051 572 1051 c 0
- 727 1051 833 992 912 885 c 1
- 913 932 918 1026 918 1026 c 1
- 1083 1026 l 1
- 1083 1026 1077 857 1077 773 c 2
- 1077 147 l 2
- 1077 -124 999 -422 550 -422 c 0
-590 135 m 0
- 831 135 912 340 912 550 c 0
- 912 753 790 917 593 917 c 0
- 376 917 265 729 265 515 c 0
- 265 284 348 135 590 135 c 0
 480 1162 m 1
  643 1625 l 1
  774 1625 l 1
  667 1162 l 1
  480 1162 l 1
 EndSplineSet
+Refer: 205 103 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: gcircumflex
-Encoding: 285 285 209
+Encoding: 220 285 208
 Width: 1250
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 267 1.00003 2
-Refer: 206 103 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 267 26 2
+Refer: 205 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gdotaccent
-Encoding: 289 289 210
+Encoding: 224 289 209
 Width: 1250
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 351 -3.99994 2
-Refer: 206 103 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 351 -4 2
+Refer: 205 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 211
+Encoding: 158 223 210
 Width: 1250
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 808 -23 m 0
@@ -3853,14 +5255,19 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 96 96 212
+Encoding: 64 96 211
 Width: 597
 VWidth: 0
-Flags: W
-HStem: 1171 318
-VStem: 42 496
-AnchorPoint: "top" 448 1021.9 mark 0
+Flags: HMW
+AnchorPoint: "top" 448 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 379 1171 m 1
@@ -3872,11 +5279,18 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 62 62 213
+Encoding: 30 62 212
 Width: 1268
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 214 66 m 1
@@ -3891,11 +5305,18 @@ EndSplineSet
 EndChar
 
 StartChar: greaterequal
-Encoding: 8805 8805 214
+Encoding: 427 8805 213
 Width: 1350
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 182 0 m 1
@@ -3915,11 +5336,18 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft
-Encoding: 171 171 215
+Encoding: 106 171 214
 Width: 1122
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 399 169 m 1
@@ -3940,11 +5368,18 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright
-Encoding: 187 187 216
+Encoding: 122 187 215
 Width: 1122
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 730 916 m 1
@@ -3965,11 +5400,18 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglleft
-Encoding: 8249 8249 217
+Encoding: 411 8249 216
 Width: 688
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 409 167 m 1
@@ -3983,11 +5425,18 @@ EndSplineSet
 EndChar
 
 StartChar: guilsinglright
-Encoding: 8250 8250 218
+Encoding: 412 8250 217
 Width: 688
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 279 916 m 1
@@ -4001,39 +5450,50 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 104 104 219
+Encoding: 72 104 218
 Width: 1237
 VWidth: 0
-Flags: W
-HStem: 0 21G<168 357 895 1084> 898 154<512.607 818.889> 1462 20G<168 357>
-VStem: 168 189<0 756.079 868 1482> 895 189<0 811.938>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
 AnchorPoint: "top" 735 1216 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 0 m 1
  168 1482 l 1
- 357 1482 l 1
- 357 868 l 1
- 418 979 560 1052 704 1052 c 0
+ 358 1482 l 1
+ 358 868 l 1
+ 419 979 560 1052 704 1052 c 0
  971 1052 1084 851 1084 616 c 2
  1084 0 l 1
- 895 0 l 1
- 895 612 l 2
- 895 812 828 898 673 898 c 0
- 510 898 357 767 357 622 c 2
- 357 0 l 1
+ 894 0 l 1
+ 894 612 l 2
+ 894 812 828 898 673 898 c 0
+ 510 898 358 767 358 622 c 2
+ 358 0 l 1
  168 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: hbar
-Encoding: 295 295 220
+Encoding: 230 295 219
 Width: 1205
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 -10 1181 m 1
@@ -4042,49 +5502,89 @@ SplineSet
  577 1181 l 1
  -10 1181 l 1
 EndSplineSet
-Refer: 219 104 N 1 0 0 1 0 0 2
+Refer: 218 104 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: hcircumflex
-Encoding: 293 293 221
+Encoding: 228 293 220
 Width: 1237
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 380 191 2
-Refer: 219 104 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 380 216 2
+Refer: 218 104 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hungarumlaut
-Encoding: 733 733 222
+Encoding: 370 733 221
 Width: 969
 VWidth: 0
-Flags: W
-HStem: 1157 329
-AnchorPoint: "top" 316 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 316 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Back
+SplineSet
+352 1174 m 5
+ 36 1587 l 5
+ 232 1587 l 5
+ 492 1174 l 5
+ 352 1174 l 5
+712 1174 m 5
+ 427 1587 l 5
+ 623 1587 l 5
+ 850 1174 l 5
+ 712 1174 l 5
+EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-123 1157 m 1
- 334 1486 l 1
- 542 1486 l 1
- 259 1157 l 1
- 123 1157 l 1
-408 1157 m 1
- 634 1486 l 1
- 848 1486 l 1
- 548 1157 l 1
- 408 1157 l 1
+63 1174 m 1
+ 290 1587 l 1
+ 488 1587 l 1
+ 199 1174 l 1
+ 63 1174 l 1
+416 1174 m 5
+ 678 1587 l 5
+ 882 1587 l 5
+ 556 1174 l 5
+ 416 1174 l 5
 EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 223
+Encoding: 13 45 222
 Width: 683
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 61 484 m 1
@@ -4096,113 +5596,180 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 105 105 224
-Width: 521
+Encoding: 73 105 223
+Width: 573
 VWidth: 0
-Flags: W
-HStem: 0 21G<168 355> 1006 20G<168 355> 1282 174<168 355>
-VStem: 168 187<0 1026 1282 1456>
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 789 1026 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 300 -0 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-168 0 m 1
- 168 1026 l 1
- 355 1026 l 1
- 355 0 l 1
- 168 0 l 1
-168 1282 m 1
- 168 1456 l 1
- 355 1456 l 1
- 355 1282 l 1
- 168 1282 l 1
+201 0 m 1
+ 201 1026 l 1
+ 391 1026 l 1
+ 391 0 l 1
+ 201 0 l 1
+204 1282 m 1
+ 204 1456 l 1
+ 391 1456 l 1
+ 391 1282 l 1
+ 204 1282 l 1
 EndSplineSet
 EndChar
 
 StartChar: iacute
-Encoding: 237 237 225
+Encoding: 172 237 224
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 76 -3 2
+Refer: 126 180 N 1 0 0 1 76 23 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ibreve
-Encoding: 301 301 226
+Encoding: 236 301 225
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 -68 -3 2
+Refer: 147 728 N 1 0 0 1 -68 17 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: icircumflex
-Encoding: 238 238 227
+Encoding: 173 238 226
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 -107 -1.99997 2
+Refer: 159 710 N 1 0 0 1 -107 23 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
-Encoding: 239 239 228
+Encoding: 174 239 227
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 -120 -3 2
+Refer: 172 168 N 1 0 0 1 -120 23 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: igrave
-Encoding: 236 236 229
+Encoding: 171 236 228
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 -200 1.10001 2
-Refer: 177 305 N 1 0 0 1 0 0 3
+Refer: 211 96 N 1 0 0 1 -200 23 2
+Refer: 177 305 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ij
-Encoding: 307 307 230
-Width: 1052
+Encoding: 242 307 229
+Width: 1057
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 236 106 N 1 0 0 1 518 0 2
-Refer: 224 105 N 1 0 0 1 0 0 2
+Refer: 235 106 N 1 0 0 1 521 0 2
+Refer: 223 105 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: imacron
-Encoding: 299 299 231
+Encoding: 234 299 230
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 -125 -3.19995 2
+Refer: 441 713 N 1 0 0 1 -125 17 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: infinity
-Encoding: 8734 8734 232
+Encoding: 422 8734 231
 Width: 1729
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 462 235 m 0
@@ -4228,11 +5795,18 @@ EndSplineSet
 EndChar
 
 StartChar: integral
-Encoding: 8747 8747 233
+Encoding: 423 8747 232
 Width: 754
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 167 -306 m 0
@@ -4252,111 +5826,156 @@ EndSplineSet
 EndChar
 
 StartChar: iogonek
-Encoding: 303 303 234
-Width: 518
+Encoding: 238 303 233
+Width: 573
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 -69 -2 2
-Refer: 224 105 N 1 0 0 1 0 0 2
+Refer: 268 731 N 1 0 0 1 -31 -2 2
+Refer: 223 105 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: itilde
-Encoding: 297 297 235
+Encoding: 232 297 234
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 -91 -3 2
+Refer: 328 732 N 1 0 0 1 -91 23 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: j
-Encoding: 106 106 236
-Width: 536
+Encoding: 74 106 235
+Width: 544
 VWidth: 0
-Flags: W
-HStem: -398 143<-95.5057 147.648>
-VStem: 185 189<-219.454 4>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 824 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 59 -398 m 0
  289 -398 374 -284 374 -4 c 2
  374 1026 l 1
- 185 1026 l 1
- 185 4 l 2
- 185 -195 154 -255 34 -255 c 0
+ 184 1026 l 5
+ 184 4 l 6
+ 184 -195 154 -255 34 -255 c 0
  -30 -255 -92 -236 -92 -236 c 1
  -109 -376 l 1
  -77 -384 -8 -398 59 -398 c 0
-185 1282 m 1
+184 1282 m 5
  374 1282 l 1
  374 1456 l 1
- 185 1456 l 1
- 185 1282 l 1
+ 184 1456 l 5
+ 184 1282 l 5
 EndSplineSet
 EndChar
 
 StartChar: jcircumflex
-Encoding: 309 309 237
+Encoding: 244 309 236
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 -95.9999 1.00003 2
+Refer: 159 710 N 1 0 0 1 -96 26 2
 Refer: 178 567 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: k
-Encoding: 107 107 238
+Encoding: 75 107 237
 Width: 1078
 VWidth: 0
-Flags: W
-HStem: 0 21G<168 357 819.083 1091> 1006 20G<774.769 1055> 1462 20G<168 357>
-VStem: 168 189<0 484 593 1482>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 636 -1 basechar 0
 AnchorPoint: "top" 765 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 0 m 1
  168 1482 l 1
- 357 1482 l 1
- 357 593 l 1
+ 358 1482 l 1
+ 358 593 l 1
  795 1026 l 1
  1055 1026 l 1
  537 538 l 1
  1091 0 l 1
  839 0 l 1
- 357 484 l 1
- 357 0 l 1
+ 358 484 l 1
+ 358 0 l 1
  168 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: kcommaaccent
-Encoding: 311 311 239
-Width: 1070
+Encoding: 246 311 238
+Width: 1078
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 238 107 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 296 0 2
+Refer: 161 44 N 1 0 0 1 398 -347 2
+Refer: 237 107 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: kgreenlandic
-Encoding: 312 312 240
+Encoding: 247 312 239
 Width: 1082
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 0 m 1
@@ -4375,64 +5994,97 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 108 108 241
+Encoding: 76 108 240
 Width: 521
 VWidth: 0
-Flags: W
-HStem: 0 21G<168 357> 1462 20G<168 357>
-VStem: 168 189<0 1482>
-AnchorPoint: "bottom" 271 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 264 0 basechar 0
 AnchorPoint: "top" 266 1481 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 0 m 1
  168 1482 l 1
- 357 1482 l 1
- 357 0 l 1
+ 358 1482 l 5
+ 358 0 l 5
  168 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: lacute
-Encoding: 314 314 242
+Encoding: 249 314 241
 Width: 521
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 94 455 2
-Refer: 241 108 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 94 481 2
+Refer: 240 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: lcaron
-Encoding: 318 318 243
-Width: 597
+Encoding: 253 318 242
+Width: 521
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 241 108 N 1 0 0 1 0 0 2
-Refer: 161 44 N 1 0 0 1 484 1257 2
+Refer: 161 44 N 1 0 0 1 470 1257 2
+Refer: 240 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ldot
-Encoding: 320 320 244
-Width: 963
+Encoding: 255 320 243
+Width: 1030
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 285 183 N 1 0 0 1 519 0 2
-Refer: 241 108 N 1 0 0 1 0 0 2
+Refer: 252 183 N 1 0 0 1 521 0 2
+Refer: 240 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: less
-Encoding: 60 60 245
+Encoding: 28 60 244
 Width: 1267
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1049 65 m 1
@@ -4447,11 +6099,18 @@ EndSplineSet
 EndChar
 
 StartChar: lessequal
-Encoding: 8804 8804 246
+Encoding: 426 8804 245
 Width: 1350
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1124 217 m 1
@@ -4471,11 +6130,18 @@ EndSplineSet
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 247
+Encoding: 107 172 246
 Width: 1463
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1073 233 m 1
@@ -4489,21 +6155,35 @@ EndSplineSet
 EndChar
 
 StartChar: longs
-Encoding: 383 383 248
-Width: 986
+Encoding: 65538 383 247
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 309 115 N 1 0 0 1 0 0 2
+Refer: 308 115 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: lozenge
-Encoding: 9674 9674 249
+Encoding: 428 9674 248
 Width: 1248
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 608 136 m 1
@@ -4522,11 +6202,18 @@ EndSplineSet
 EndChar
 
 StartChar: lslash
-Encoding: 322 322 250
+Encoding: 257 322 249
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 153 0 m 1
@@ -4546,50 +6233,60 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 109 109 251
+Encoding: 77 109 250
 Width: 1873
 VWidth: 0
-Flags: W
-HStem: 0 21G<177 366 857 1047 1531 1720> 898 154<510.583 781.983 1198.44 1461.1> 1006 20G<167 364>
-VStem: 177 189<0 759.368 861 1026> 857 190<0 742.191> 1531 189<0 823>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 987 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-177 0 m 1xdc
+177 0 m 1
  177 741 l 2
  177 854 171 951 167 1026 c 1
- 364 1026 l 1xbc
- 364 861 l 1
- 419 984 561 1052 691 1052 c 0
+ 365 1026 l 1
+ 365 861 l 1
+ 420 984 561 1052 691 1052 c 0
  832 1052 948 970 999 831 c 1
  1073 965 1205 1052 1369 1052 c 0
  1600 1052 1720 891 1720 630 c 2
  1720 0 l 1
- 1531 0 l 1
- 1531 610 l 2
- 1531 794 1477 898 1347 898 c 0
+ 1530 0 l 5
+ 1530 610 l 6
+ 1530 794 1477 898 1347 898 c 0
  1195 898 1047 761 1047 585 c 2
  1047 0 l 1
  857 0 l 1
  857 633 l 2
  857 781 803 898 657 898 c 0
- 493 898 366 757 366 608 c 2
- 366 0 l 1
- 177 0 l 1xdc
+ 493 898 367 757 367 608 c 2
+ 367 0 l 1
+ 177 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: macron
-Encoding: 175 175 252
+Encoding: 110 175 251
 Width: 723
 VWidth: 0
-Flags: W
-HStem: 1207 147<68 655>
-VStem: 68 587<1207 1354>
-AnchorPoint: "top" 373 1026.2 mark 0
+Flags: HMW
+AnchorPoint: "top" 373 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 68 1207 m 1
@@ -4601,7 +6298,7 @@ EndSplineSet
 EndChar
 
 StartChar: middot
-Encoding: 183 183 253
+Encoding: -1 183 252
 Width: 509
 VWidth: 0
 Flags: W
@@ -4617,11 +6314,18 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 254
+Encoding: 419 8722 253
 Width: 1302
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 176 433 m 1
@@ -4633,11 +6337,18 @@ EndSplineSet
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 255
+Encoding: 150 215 254
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 328 143 m 1
@@ -4657,73 +6368,106 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 110 110 256
+Encoding: 78 110 255
 Width: 1240
 VWidth: 0
-Flags: W
-HStem: 0 21G<176 366 901 1090> 898 154<521.717 816.9> 1006 20G<166 364>
-VStem: 176 190<0 754.287 871 1026> 901 189<0 802.158>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 676 0 basechar 0
 AnchorPoint: "top" 697 1026 basechar 0 {150-150 -6} {}
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-176 0 m 1xd8
+176 0 m 1
  176 736 l 2
  176 895 166 1026 166 1026 c 1
- 364 1026 l 1xb8
+ 364 1026 l 1
  364 871 l 1
  434 984 572 1052 708 1052 c 0
  985 1052 1090 873 1090 560 c 2
  1090 0 l 1
- 901 0 l 1
- 901 552 l 2
- 901 770 862 898 672 898 c 0
+ 900 0 l 1
+ 900 552 l 2
+ 900 770 862 898 672 898 c 0
  505 898 367 750 366 641 c 2
  366 0 l 1
- 176 0 l 1xd8
+ 176 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: nacute
-Encoding: 324 324 257
+Encoding: 259 324 256
 Width: 1240
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 525 0 2
-Refer: 256 110 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 525 26 2
+Refer: 255 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: napostrophe
-Encoding: 329 329 258
+Encoding: 264 329 257
 Width: 1250
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 256 110 N 1 0 0 1 0 0 2
+Refer: 255 110 N 1 0 0 1 0 0 2
 Refer: 161 44 N 1 0 0 1 113 1491 2
 EndChar
 
 StartChar: ncaron
-Encoding: 328 328 259
+Encoding: 263 328 258
 Width: 1240
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 345 1.00003 2
-Refer: 256 110 N 1 0 0 1 0 0 3
+Refer: 152 711 N 1 0 0 1 342 26 2
+Refer: 255 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: nine
-Encoding: 57 57 260
+Encoding: 25 57 259
 Width: 1235
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 555 -24 m 0
@@ -4746,11 +6490,18 @@ EndSplineSet
 EndChar
 
 StartChar: notequal
-Encoding: 8800 8800 261
+Encoding: 425 8800 260
 Width: 1362
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 476 43 m 1
@@ -4778,27 +6529,39 @@ EndSplineSet
 EndChar
 
 StartChar: ntilde
-Encoding: 241 241 262
+Encoding: 176 241 261
 Width: 1240
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 358 0 2
-Refer: 256 110 N 1 0 0 1 0 0 3
+Refer: 328 732 N 1 0 0 1 358 26 2
+Refer: 255 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: o
-Encoding: 111 111 263
+Encoding: 79 111 262
 Width: 1259
 VWidth: 0
-Flags: W
-HStem: -22 154<458.231 804.644> 898 154<459.326 798.466>
-VStem: 101 199<303.851 722.881> 959 199<298.07 723.012>
+Flags: HMW
 AnchorPoint: "ogonek" 726 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 619 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 634 132 m 0
@@ -4815,55 +6578,90 @@ EndSplineSet
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 264
+Encoding: 178 243 263
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 447 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 447 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: obreve
-Encoding: 335 335 265
+Encoding: 270 335 264
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 303 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 147 728 N 1 0 0 1 303 20 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 266
+Encoding: 179 244 265
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 264 1.00003 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 264 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 267
+Encoding: 181 246 266
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 251 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 172 168 N 1 0 0 1 251 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oe
-Encoding: 339 339 268
+Encoding: 274 339 267
 Width: 1979
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1117 618 m 1
@@ -4895,14 +6693,19 @@ EndSplineSet
 EndChar
 
 StartChar: ogonek
-Encoding: 731 731 269
+Encoding: 368 731 268
 Width: 508
 VWidth: 0
-Flags: W
-HStem: -384 121<213.159 454.622>
-VStem: 40 167<-252.338 -112.952>
+Flags: HMW
 AnchorPoint: "ogonek" 308 0 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 258 -384 m 0
@@ -4918,67 +6721,102 @@ EndSplineSet
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 270
+Encoding: 177 242 269
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 171 4.10001 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 211 96 N 1 0 0 1 171 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ohungarumlaut
-Encoding: 337 337 271
+Encoding: 272 337 270
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 222 733 N 1 0 0 1 303 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 221 733 N 1 0 0 1 303 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: omacron
-Encoding: 333 333 272
+Encoding: 268 333 271
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 246 -0.199951 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 441 713 N 1 0 0 1 246 20 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: one
-Encoding: 49 49 273
+Encoding: 17 49 272
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 283 0 m 1
- 283 160 l 1
- 557 160 l 1
+ 283 152 l 1
+ 557 152 l 1
  557 1245 l 1
  474 1200 366 1157 260 1118 c 1
  260 1296 l 1
  363 1332 509 1403 598 1456 c 1
  753 1456 l 1
- 753 159 l 1
- 1017 159 l 1
+ 753 152 l 1
+ 1017 152 l 1
  1017 0 l 1
  283 0 l 1
 EndSplineSet
 EndChar
 
-StartChar: onesuperior
-Encoding: 185 185 274
+StartChar: uni00B9
+Encoding: 120 185 273
 Width: 1095
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 350 610 m 1
@@ -4997,11 +6835,18 @@ EndSplineSet
 EndChar
 
 StartChar: ordfeminine
-Encoding: 170 170 275
+Encoding: 105 170 274
 Width: 797
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 334 755 m 0
@@ -5028,11 +6873,18 @@ EndSplineSet
 EndChar
 
 StartChar: ordmasculine
-Encoding: 186 186 276
+Encoding: 121 186 275
 Width: 887
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 447 880 m 0
@@ -5049,53 +6901,72 @@ EndSplineSet
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 277
+Encoding: 180 245 276
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 280 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 328 732 N 1 0 0 1 280 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: p
-Encoding: 112 112 278
-Width: 1260
+Encoding: 80 112 277
+Width: 1261
 VWidth: 0
-Flags: W
-HStem: -418 21G<177 365> -22 154<507.038 814.021> 898 154<518.769 815.773> 1006 20G<166 365>
-VStem: 177 188<-418 161 280.773 730.324 850 1026> 961 199<294.464 738.171>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 717 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-177 -418 m 1xec
+177 -418 m 1
  177 735 l 2
  177 807 172 924 166 1026 c 1
- 365 1026 l 1xdc
+ 365 1026 l 1
  365 850 l 1
  405 959 549 1052 699 1052 c 0
  982 1052 1160 835 1160 526 c 0
  1160 207 979 -22 697 -22 c 0
  535 -22 400 69 365 161 c 1
  365 -418 l 1
- 177 -418 l 1xec
+ 177 -418 l 1
 665 132 m 0
  856 132 961 289 961 519 c 0
- 961 744 856 898 669 898 c 0xec
+ 961 744 856 898 669 898 c 0
  474 898 361 737 361 501 c 0
  361 282 470 132 665 132 c 0
 EndSplineSet
 EndChar
 
 StartChar: paragraph
-Encoding: 182 182 279
+Encoding: 117 182 278
 Width: 1211
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 462 -179 m 1
@@ -5115,11 +6986,18 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 280
+Encoding: 8 40 279
 Width: 639
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 412 -173 m 1
@@ -5133,11 +7011,18 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 281
+Encoding: 9 41 280
 Width: 639
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 228 1496 m 1
@@ -5151,11 +7036,18 @@ EndSplineSet
 EndChar
 
 StartChar: partialdiff
-Encoding: 8706 8706 282
+Encoding: 65539 8706 281
 Width: 1163
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 487 -24 m 0
@@ -5178,11 +7070,18 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 37 37 283
+Encoding: 5 37 282
 Width: 1769
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 436 862 m 0
@@ -5214,11 +7113,18 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 46 46 284
+Encoding: 14 46 283
 Width: 543
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 148 0 m 1
@@ -5230,11 +7136,18 @@ EndSplineSet
 EndChar
 
 StartChar: periodcentered
-Encoding: 183 183 285
+Encoding: 118 183 284
 Width: 489
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 125 525 m 1
@@ -5246,11 +7159,18 @@ EndSplineSet
 EndChar
 
 StartChar: perthousand
-Encoding: 8240 8240 286
+Encoding: 410 8240 285
 Width: 2581
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 2144 -25 m 0
@@ -5264,15 +7184,22 @@ SplineSet
  2011 596 1965 488 1965 346 c 0
  1965 197 2014 101 2146 101 c 0
 EndSplineSet
-Refer: 283 37 N 1 0 0 1 0 0 2
+Refer: 282 37 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: pi
-Encoding: 960 960 287
+Encoding: 65540 960 286
 Width: 1288
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1060 -12 m 0
@@ -5298,11 +7225,18 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 43 43 288
+Encoding: 11 43 287
 Width: 1206
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 515 102 m 1
@@ -5322,11 +7256,18 @@ EndSplineSet
 EndChar
 
 StartChar: plusminus
-Encoding: 177 177 289
+Encoding: 112 177 288
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 531 257 m 1
@@ -5351,11 +7292,18 @@ EndSplineSet
 EndChar
 
 StartChar: product
-Encoding: 8719 8719 290
+Encoding: 418 8719 289
 Width: 1568
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 239 -100 m 1
@@ -5375,42 +7323,61 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 113 113 291
-Width: 1254
+Encoding: 81 113 290
+Width: 1255
 VWidth: 0
-Flags: W
-HStem: -418 21G<896 1084> -22 154<444.431 753.636> 898 154<449.113 758.14> 1006 20G<897 1092>
-VStem: 100 199<295.082 728.738> 896 188<-418 146 291.252 749.018 886 1026>
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 635 1026 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 827 0 basechar 0
+AnchorPoint: "top" 636 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-896 -418 m 1xdc
- 896 146 l 1
- 840 65 731 -22 575 -22 c 0
- 282 -22 100 202 100 513 c 0
- 100 830 284 1052 582 1052 c 0xec
- 717 1052 831 987 897 886 c 1
- 897 1026 l 1
- 1092 1026 l 1
- 1090 994 1084 818 1084 788 c 2
- 1084 -418 l 1
- 896 -418 l 1xdc
-597 132 m 0
- 795 132 900 291 900 530 c 0
- 900 747 792 898 604 898 c 0
- 410 898 299 741 299 510 c 0
- 299 286 405 132 597 132 c 0
+897 -418 m 1
+ 897 146 l 1
+ 841 65 732 -22 576 -22 c 0
+ 283 -22 101 202 101 513 c 0
+ 101 830 285 1052 583 1052 c 0
+ 718 1052 832 987 898 886 c 1
+ 898 1026 l 1
+ 1093 1026 l 1
+ 1091 994 1085 818 1085 788 c 2
+ 1085 -418 l 1
+ 897 -418 l 1
+598 132 m 0
+ 796 132 901 291 901 530 c 0
+ 901 747 793 898 605 898 c 0
+ 411 898 300 741 300 510 c 0
+ 300 286 406 132 598 132 c 0
 EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 63 63 292
+Encoding: 31 63 291
 Width: 1055
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 341 381 m 1
@@ -5433,21 +7400,35 @@ EndSplineSet
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 293
+Encoding: 126 191 292
 Width: 1032
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 292 63 N -1 0 0 -1 977 1129 2
+Refer: 291 63 S -1 0 0 -1 1028 1129 2
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 294
+Encoding: 2 34 293
 Width: 785
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 182 962 m 1
@@ -5464,11 +7445,18 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblbase
-Encoding: 8222 8222 295
+Encoding: 405 8222 294
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 151 -233 m 1
@@ -5485,11 +7473,18 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 296
+Encoding: 403 8220 295
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 163 881 m 1
@@ -5506,11 +7501,18 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 297
+Encoding: 404 8221 296
 Width: 1024
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 199 881 m 1
@@ -5527,11 +7529,18 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 298
+Encoding: 400 8216 297
 Width: 518
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 398 881 m 1
@@ -5543,11 +7552,18 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 299
+Encoding: 401 8217 298
 Width: 537
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 120 881 m 1
@@ -5559,11 +7575,18 @@ EndSplineSet
 EndChar
 
 StartChar: quotesinglbase
-Encoding: 8218 8218 300
+Encoding: 402 8218 299
 Width: 595
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 135 -313 m 1
@@ -5575,11 +7598,18 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 301
+Encoding: 7 39 300
 Width: 507
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 198 948 m 1
@@ -5591,49 +7621,68 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 114 114 302
+Encoding: 82 114 301
 Width: 818
 VWidth: 0
-Flags: W
-HStem: 0 21G<179 368> 887 164<489.739 741.541> 1006 20G<167 367>
-VStem: 179 189<0 759.559 868 1026>
-AnchorPoint: "bottom" 826 0 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 339 -3 basechar 0
 AnchorPoint: "top" 487 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-179 0 m 1xd0
+179 0 m 1
  179 775 l 2
  179 815 167 1026 167 1026 c 1
- 367 1026 l 1xb0
+ 367 1026 l 1
  367 868 l 1
  428 984 523 1051 637 1051 c 0
  673 1051 709 1047 743 1038 c 1
  743 870 l 1
  715 878 673 887 627 887 c 0
- 475 887 368 772 368 572 c 2
- 368 0 l 1
- 179 0 l 1xd0
+ 475 887 369 772 369 572 c 6
+ 369 0 l 5
+ 179 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: racute
-Encoding: 341 341 303
+Encoding: 276 341 302
 Width: 818
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 315 0 2
-Refer: 302 114 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 315 26 2
+Refer: 301 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: radical
-Encoding: 8730 8730 304
+Encoding: 65541 8730 303
 Width: 1314
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 594 -150 m 1
@@ -5650,33 +7699,54 @@ EndSplineSet
 EndChar
 
 StartChar: rcaron
-Encoding: 345 345 305
+Encoding: 280 345 304
 Width: 818
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 135 1.00003 2
-Refer: 302 114 N 1 0 0 1 0 0 3
+Refer: 152 711 N 1 0 0 1 132 26 2
+Refer: 301 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: rcommaaccent
-Encoding: 343 343 306
-Width: 813
+Encoding: 278 343 305
+Width: 818
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 302 114 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 -42 0 2
+Refer: 161 44 N 1 0 0 1 224 -347 2
+Refer: 301 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: registered
-Encoding: 174 174 307
+Encoding: 109 174 306
 Width: 1727
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 863 1484 m 0
@@ -5710,14 +7780,19 @@ EndSplineSet
 EndChar
 
 StartChar: ring
-Encoding: 730 730 308
+Encoding: 367 730 307
 Width: 633
 VWidth: 0
-Flags: W
-HStem: 1083 88<233.487 400.519> 1390 88<232.715 401.302>
-VStem: 115 95<1192.18 1369.25> 423 97<1192.96 1368.48>
-AnchorPoint: "top" 316 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 316 980 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 316 1390 m 0
@@ -5734,96 +7809,150 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 115 115 309
-Width: 981
+Encoding: 83 115 308
+Width: 973
 VWidth: 0
-Flags: W
-HStem: -22 154<294.925 665.018> 898 153<354.575 735.226>
-VStem: 124 191<683.856 854.743> 708 183<178.826 367.704>
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 500 1026 basechar 0
+Flags: HMW
+AnchorPoint: "bottom" 510 0 basechar 0
+AnchorPoint: "top" 509 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-521 -22 m 0
- 302 -22 164 66 120 102 c 1
- 172 242 l 1
- 236 195 367 132 506 132 c 0
- 611 132 708 163 708 279 c 0
- 708 379 623 398 444 459 c 1
- 269 520 124 574 124 766 c 0
- 124 970 316 1051 496 1051 c 0
- 676 1051 791 999 850 961 c 1
- 796 826 l 1
- 763 843 648 898 527 898 c 0
- 394 898 315 853 315 771 c 0
- 315 675 379 665 578 595 c 0
- 760 531 891 478 891 286 c 0
- 891 59 704 -22 521 -22 c 0
+522 -22 m 0
+ 315 -22 180 66 137 102 c 1
+ 188 242 l 1
+ 251 195 377 132 507 132 c 0
+ 606 132 700 163 700 279 c 0
+ 700 379 618 398 449 459 c 1
+ 282 520 140 574 140 766 c 0
+ 140 970 328 1051 498 1051 c 0
+ 669 1051 781 999 839 961 c 1
+ 786 826 l 1
+ 754 843 642 898 528 898 c 0
+ 403 898 328 853 328 771 c 0
+ 328 675 389 665 576 595 c 0
+ 751 531 879 478 879 286 c 0
+ 879 59 696 -22 522 -22 c 0
 EndSplineSet
 EndChar
 
 StartChar: sacute
-Encoding: 347 347 310
-Width: 981
+Encoding: 282 347 309
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 328 0 2
-Refer: 309 115 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 337 26 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scaron
-Encoding: 353 353 311
-Width: 981
+Encoding: 288 353 310
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 148 1.00003 2
-Refer: 309 115 N 1 0 0 1 0 0 3
+Refer: 152 711 N 1 0 0 1 154 26 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scedilla
-Encoding: 351 351 312
-Width: 981
+Encoding: 286 351 311
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 610 0 2
-Refer: 309 115 N 1 0 0 1 0 0 3
+Refer: 157 184 N 1 0 0 1 230 0 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scircumflex
-Encoding: 349 349 313
-Width: 981
+Encoding: 284 349 312
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 145 1.00003 2
-Refer: 309 115 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 154 26 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scommaaccent
-Encoding: 537 537 314
-Width: 986
+Encoding: -1 537 313
+Width: 973
 VWidth: 0
 Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 309 115 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 196.75 0 2
+Refer: 308 115 N 1 0 0 1 0 0 2
+Refer: 162 -1 N 1 0 0 1 194.75 0 2
 EndChar
 
 StartChar: section
-Encoding: 167 167 315
+Encoding: 102 167 314
 Width: 1071
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 623 540 m 1
@@ -5854,32 +7983,46 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 316
+Encoding: 27 59 315
 Width: 543
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-90 -250 m 1
- 197 225 l 1
- 413 225 l 1
- 245 -250 l 1
- 90 -250 l 1
-166 854 m 1
- 166 1082 l 1
- 393 1082 l 1
- 393 854 l 1
- 166 854 l 1
+87 -281 m 1
+ 196 225 l 1
+ 410 225 l 1
+ 242 -281 l 1
+ 87 -281 l 1
+166 798 m 5
+ 166 1026 l 5
+ 393 1026 l 5
+ 393 798 l 5
+ 166 798 l 5
 EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 55 55 317
+Encoding: 23 55 316
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 346 0 m 1
@@ -5894,11 +8037,18 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 54 54 318
+Encoding: 22 54 317
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 658 -23 m 0
@@ -5921,11 +8071,18 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 47 47 319
+Encoding: 15 47 318
 Width: 1058
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 166 -98 m 1
@@ -5937,19 +8094,40 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 32 32 320
-Width: 599
+Encoding: 0 32 319
+Width: 591
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: sterling
-Encoding: 163 163 321
+Encoding: 98 163 320
 Width: 1207
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 148 0 m 1
@@ -5978,11 +8156,18 @@ EndSplineSet
 EndChar
 
 StartChar: summation
-Encoding: 8721 8721 322
+Encoding: 65542 8721 321
 Width: 1198
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 99 -179 m 1
@@ -6002,42 +8187,54 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 116 116 323
-Width: 763
+Encoding: 84 116 322
+Width: 808
 VWidth: 0
-Flags: W
-HStem: 0 147<457.827 689> 901 125<26 231 420 683>
-VStem: 231 189<184.781 901 1026 1289>
+Flags: HMW
 AnchorPoint: "bottom" 501 0 basechar 0
 AnchorPoint: "top" 505 1236 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-689 0 m 1
+717 0 m 5
  624 0 l 2
  325 0 231 82 231 356 c 2
  231 901 l 1
- 26 901 l 1
- 26 1026 l 1
+ 43 901 l 5
+ 43 1026 l 5
  234 1026 l 1
  234 1289 l 1
- 420 1343 l 1
- 420 1026 l 1
- 683 1026 l 1
- 683 901 l 1
- 420 901 l 1
- 420 346 l 2
- 420 172 458 147 689 147 c 1
- 689 0 l 1
+ 421 1343 l 1
+ 421 1026 l 1
+ 718 1026 l 5
+ 718 901 l 5
+ 421 901 l 1
+ 421 346 l 2
+ 421 172 486 147 717 147 c 5
+ 717 0 l 5
 EndSplineSet
 EndChar
 
 StartChar: tbar
-Encoding: 359 359 324
+Encoding: 294 359 323
 Width: 750
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 45 576 m 1
@@ -6046,26 +8243,40 @@ SplineSet
  670 576 l 1
  45 576 l 1
 EndSplineSet
-Refer: 323 116 N 1 0 0 1 0 0 2
+Refer: 322 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tcaron
-Encoding: 357 357 325
-Width: 750
+Encoding: 292 357 324
+Width: 808
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 323 116 N 1 0 0 1 0 0 2
-Refer: 161 44 N 1 0 0 1 513 1232 2
+Refer: 161 44 N 1 0 0 1 796 1118 2
+Refer: 322 116 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: thorn
-Encoding: 254 254 326
+Encoding: 189 254 325
 Width: 1235
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 153 -418 m 1
@@ -6087,11 +8298,18 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 51 51 327
+Encoding: 19 51 326
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 582 -23 m 0
@@ -6115,12 +8333,19 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: threesuperior
-Encoding: 179 179 328
+StartChar: uni00B3
+Encoding: 114 179 327
 Width: 1111
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 555 592 m 0
@@ -6145,34 +8370,46 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 329
+Encoding: 369 732 328
 Width: 672
 VWidth: 0
-Flags: W
-HStem: 1171 147<360.638 528.646> 1271 147<139.944 327.118>
-VStem: 6 121<1176 1263.35> 541 125<1319.84 1418>
-AnchorPoint: "top" 339 1026 mark 0
+Flags: HMW
+AnchorPoint: "top" 339 1000 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-6 1176 m 1x70
- 6 1320 76 1418 193 1418 c 0x70
- 294 1418 407 1320 478 1318 c 0xb0
+6 1176 m 1
+ 6 1320 76 1418 193 1418 c 0
+ 294 1418 407 1320 478 1318 c 0
  522 1317 536 1346 541 1418 c 1
- 666 1418 l 1x70
- 666 1265 602 1165 481 1171 c 0xb0
+ 666 1418 l 1
+ 666 1265 602 1165 481 1171 c 0
  396 1175 272 1271 201 1271 c 0
  156 1271 134 1239 127 1176 c 1
- 6 1176 l 1x70
+ 6 1176 l 1
 EndSplineSet
 EndChar
 
 StartChar: trademark
-Encoding: 8482 8482 330
+Encoding: 416 8482 329
 Width: 1869
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 817 674 m 1
@@ -6202,34 +8439,55 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 50 50 331
+Encoding: 18 50 330
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-220 0 m 1
- 220 158 l 1
- 480 393 858 718 837 1057 c 1
- 827 1233 726 1315 584 1315 c 0
- 382 1315 222 1188 222 1188 c 2
- 159 1341 l 1
- 159 1341 333 1482 596 1482 c 0
- 836 1482 1014 1332 1027 1064 c 0
- 1047 659 628 330 449 164 c 1
- 1027 164 l 1
- 1027 0 l 1
- 220 0 l 1
+188 0 m 5
+ 188 158 l 5
+ 450 393 862 718 841 1057 c 1
+ 831 1233 717 1315 572 1315 c 0
+ 366 1315 206 1188 206 1188 c 2
+ 144 1341 l 1
+ 144 1341 317 1482 584 1482 c 0
+ 828 1482 1018 1332 1031 1064 c 0
+ 1051 659 601 330 418 164 c 5
+ 1031 164 l 1
+ 1031 0 l 1
+ 188 0 l 5
 EndSplineSet
 EndChar
 
-StartChar: twosuperior
-Encoding: 178 178 332
+StartChar: uni00B2
+Encoding: 113 178 331
 Width: 1157
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 300 618 m 1
@@ -6248,118 +8506,179 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 117 117 333
+Encoding: 85 117 332
 Width: 1227
 VWidth: 0
-Flags: W
-HStem: -22 154<428.688 727.388> 0 21G<867.506 1062> 1006 20G<152 340 864 1053>
-VStem: 152 188<223.224 1026> 864 189<0 162 250.359 1026>
+Flags: HMW
 AnchorPoint: "ogonek" 947 0 basechar 0
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 600 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-551 -22 m 0xb8
+551 -22 m 0
  263 -22 152 168 152 391 c 2
  152 1026 l 1
- 340 1026 l 1
- 340 391 l 2
- 340 217 427 132 585 132 c 0xb8
- 762 132 864 243 864 417 c 2
- 864 1026 l 1
+ 342 1026 l 5
+ 342 391 l 6
+ 342 217 427 132 585 132 c 0
+ 762 132 863 243 863 417 c 2
+ 863 1026 l 1
  1053 1026 l 1
  1053 255 l 2
  1053 177 1058 55 1062 0 c 1
- 868 0 l 1x78
+ 868 0 l 1
  864 162 l 1
- 815 72 718 -22 551 -22 c 0xb8
+ 815 72 718 -22 551 -22 c 0
 EndSplineSet
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 334
+Encoding: 185 250 333
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 428 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 428 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ubreve
-Encoding: 365 365 335
+Encoding: 300 365 334
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 147 728 N 1 0 0 1 284 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 147 728 N 1 0 0 1 284 20 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 336
+Encoding: 186 251 335
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 245 1.00003 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 245 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 337
+Encoding: 187 252 336
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 232 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 172 168 N 1 0 0 1 232 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 338
+Encoding: 184 249 337
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 152 4.10001 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 211 96 N 1 0 0 1 152 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uhungarumlaut
-Encoding: 369 369 339
+Encoding: 304 369 338
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 222 733 N 1 0 0 1 284 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 221 733 N 1 0 0 1 284 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: umacron
-Encoding: 363 363 340
+Encoding: 298 363 339
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 252 175 N 1 0 0 1 227 -0.199951 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 441 713 N 1 0 0 1 227 20 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 341
+Encoding: 63 95 340
 Width: 946
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 -6 -267 m 1
@@ -6371,19 +8690,33 @@ EndSplineSet
 EndChar
 
 StartChar: uni000D
-Encoding: 13 13 342
+Encoding: 65543 13 341
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: uni007F
-Encoding: 127 127 343
+Encoding: 65544 127 342
 Width: 1521
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 188 0 m 1
@@ -6400,21 +8733,33 @@ EndSplineSet
 EndChar
 
 StartChar: uni00A0
-Encoding: 160 160 344
+Encoding: 95 160 343
 Width: 599
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
-Fore
-Refer: 320 32 N 1 0 0 1 0 0 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: uni00AD
-Encoding: 173 173 345
+Encoding: 108 173 344
 Width: 728
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 67 1188 m 1
@@ -6426,65 +8771,10 @@ EndSplineSet
 EndChar
 
 StartChar: uni0136
-Encoding: 310 310 346
-Width: 1287
+Encoding: 245 310 345
+Width: 1289
 VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 56 75 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 362 0 2
-EndChar
-
-StartChar: uni013B
-Encoding: 315 315 347
-Width: 1099
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 57 76 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 315 0 2
-EndChar
-
-StartChar: uni013C
-Encoding: 316 316 348
-Width: 519
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 241 108 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 -62 0 2
-EndChar
-
-StartChar: uni0145
-Encoding: 325 325 349
-Width: 1574
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 63 78 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 510 6 2
-EndChar
-
-StartChar: uni0146
-Encoding: 326 326 350
-Width: 1232
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-Refer: 256 110 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 316 0 2
-EndChar
-
-StartChar: uni0162
-Encoding: 354 354 351
-Width: 1147
-VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6494,15 +8784,105 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 347 0 2
+Refer: 161 44 N 1 0 0 1 512 -347 2
+Refer: 56 75 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni013B
+Encoding: 250 315 346
+Width: 1099
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 161 44 N 1 0 0 1 394 -347 2
+Refer: 57 76 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni013C
+Encoding: 251 316 347
+Width: 521
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 161 44 N 1 0 0 1 31 -347 2
+Refer: 240 108 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0145
+Encoding: 260 325 348
+Width: 1578
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 161 44 N 1 0 0 1 558 -347 2
+Refer: 63 78 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0146
+Encoding: 261 326 349
+Width: 1240
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 161 44 N 1 0 0 1 396 -347 2
+Refer: 255 110 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0162
+Encoding: 289 354 350
+Width: 1147
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 157 184 N 1 0 0 1 283 0 2
 Refer: 91 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0163
-Encoding: 355 355 352
-Width: 763
+Encoding: 290 355 351
+Width: 808
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6512,499 +8892,805 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 157 184 N 1 0 0 1 285 0 2
-Refer: 323 116 N 1 0 0 1 0 0 3
+Refer: 157 184 N 1 0 0 1 221 0 2
+Refer: 322 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0200
-Encoding: 512 512 353
+Encoding: 333 512 352
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 88 430 2
+Refer: 168 783 N 1 0 0 1 88 456 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0201
-Encoding: 513 513 354
+Encoding: 334 513 353
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 25 0 2
+Refer: 168 783 N 1 0 0 1 25 26 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0202
-Encoding: 514 514 355
+Encoding: 335 514 354
 Width: 1401
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 382 430 2
+Refer: 380 785 N 1 0 0 1 382 430 2
 Refer: 0 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0203
-Encoding: 515 515 356
+Encoding: 336 515 355
 Width: 1275
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 319 0 2
+Refer: 380 785 N 1 0 0 1 319 0 2
 Refer: 122 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0204
-Encoding: 516 516 357
+Encoding: 337 516 356
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 44 430 2
+Refer: 168 783 N 1 0 0 1 44 456 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0205
-Encoding: 517 517 358
-Width: 1169
+Encoding: 338 517 357
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 -4 0 2
+Refer: 168 783 N 1 0 0 1 -10 26 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0206
-Encoding: 518 518 359
+Encoding: 339 518 358
 Width: 1175
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 338 430 2
+Refer: 380 785 N 1 0 0 1 338 430 2
 Refer: 21 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0207
-Encoding: 519 519 360
-Width: 1169
+Encoding: 340 519 359
+Width: 1152
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 290 0 2
+Refer: 380 785 N 1 0 0 1 284 0 2
 Refer: 179 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0208
-Encoding: 520 520 361
+Encoding: 341 520 360
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 -323 430 2
+Refer: 168 783 N 1 0 0 1 -323 456 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0209
-Encoding: 521 521 362
+Encoding: 342 521 361
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 -364 -3 2
+Refer: 168 783 N 1 0 0 1 -364 23 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020A
-Encoding: 522 522 363
+Encoding: 343 522 362
 Width: 578
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 -29 430 2
+Refer: 380 785 N 1 0 0 1 -29 430 2
 Refer: 43 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020B
-Encoding: 523 523 364
+Encoding: 344 523 363
 Width: 503
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 -70 -3 2
+Refer: 380 785 N 1 0 0 1 -70 -3 2
 Refer: 177 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020C
-Encoding: 524 524 365
+Encoding: 345 524 364
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 210 430 2
+Refer: 168 783 N 1 0 0 1 210 456 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020D
-Encoding: 525 525 366
+Encoding: 346 525 365
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 7 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 168 783 N 1 0 0 1 7 26 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020E
-Encoding: 526 526 367
+Encoding: 347 526 366
 Width: 1630
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 504 430 2
+Refer: 380 785 N 1 0 0 1 504 430 2
 Refer: 67 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020F
-Encoding: 527 527 368
+Encoding: 348 527 367
 Width: 1259
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 301 0 2
-Refer: 263 111 N 1 0 0 1 0 0 3
+Refer: 380 785 N 1 0 0 1 301 0 2
+Refer: 262 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0210
-Encoding: 528 528 369
+Encoding: 349 528 368
 Width: 1341
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 39 430 2
+Refer: 168 783 N 1 0 0 1 39 456 2
 Refer: 81 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0211
-Encoding: 529 529 370
+Encoding: 350 529 369
 Width: 818
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 23 0 2
-Refer: 302 114 N 1 0 0 1 0 0 3
+Refer: 168 783 N 1 0 0 1 -125 26 2
+Refer: 301 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0212
-Encoding: 530 530 371
+Encoding: 351 530 370
 Width: 1341
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 333 430 2
+Refer: 380 785 N 1 0 0 1 333 430 2
 Refer: 81 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0213
-Encoding: 531 531 372
+Encoding: 352 531 371
 Width: 818
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 317 0 2
-Refer: 302 114 N 1 0 0 1 0 0 3
+Refer: 380 785 N 1 0 0 1 169 0 2
+Refer: 301 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0214
-Encoding: 532 532 373
+Encoding: 353 532 372
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 114 430 2
+Refer: 168 783 N 1 0 0 1 114 456 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0215
-Encoding: 533 533 374
+Encoding: 354 533 373
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 168 783 N 1 0 0 1 -12 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 168 783 N 1 0 0 1 -12 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0216
-Encoding: 534 534 375
+Encoding: 355 534 374
 Width: 1496
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 408 430 2
+Refer: 380 785 N 1 0 0 1 408 430 2
 Refer: 95 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0217
-Encoding: 535 535 376
+Encoding: 356 535 375
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 381 785 N 1 0 0 1 282 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 380 785 N 1 0 0 1 282 0 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0218
-Encoding: 536 536 377
-Width: 1184
+Encoding: 357 536 376
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 85 83 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 256 0 2
+Refer: 161 44 N 1 0 0 1 382 -369 2
+Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0219
-Encoding: 537 537 378
-Width: 967
+Encoding: 358 537 377
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 309 115 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 195 0 2
+Refer: 161 44 N 1 0 0 1 276 -369 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021A
-Encoding: 538 538 379
-Width: 1133
+Encoding: 359 538 378
+Width: 1147
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 91 84 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 246 0 2
+Refer: 161 44 N 1 0 0 1 342 -347 2
+Refer: 91 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021B
-Encoding: 539 539 380
-Width: 726
+Encoding: 360 539 379
+Width: 808
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 323 116 N 1 0 0 1 0 0 2
-Refer: 162 -1 N 1 0 0 1 156 0 2
+Refer: 161 44 N 1 0 0 1 123 -347 2
+Refer: 322 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0311
-Encoding: 785 785 381
+Encoding: 373 785 380
 Width: 629
 VWidth: 0
-Flags: W
-HStem: 1347 109<167.44 454.015>
-VStem: 32 88<1218 1299.75> 510 86<1218 1290.99>
+Flags: HMW
 AnchorPoint: "top" 318 1026 mark 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-32 1218 m 1
- 45 1379 151 1456 316 1456 c 0
- 473 1456 584 1376 596 1218 c 1
- 510 1218 l 1
- 488 1309 398 1347 310 1347 c 0
- 222 1347 136 1314 120 1218 c 1
- 32 1218 l 1
+42 1192 m 1
+ 55 1350 184 1430 314 1430 c 0
+ 443 1430 572 1351 584 1192 c 1
+ 478 1191 l 1
+ 464 1276 391 1317 317 1317 c 0
+ 242 1317 165 1274 150 1191 c 1
+ 42 1192 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni1E02
-Encoding: 7682 7682 382
-Width: 1337
+Encoding: 376 7682 381
+Width: 1346
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 175 729 N 1 0 0 1 350 431 2
-Refer: 11 66 N 1 0 0 1 0 0 2
+Refer: 176 775 N 1 0 0 1 382 426 2
+Refer: 11 66 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E03
-Encoding: 7683 7683 383
-Width: 1264
+Encoding: 377 7683 382
+Width: 1274
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 175 729 N 1 0 0 1 409 122 2
-Refer: 140 98 N 1 0 0 1 0 0 2
+Refer: 176 775 N 1 0 0 1 457 -4 2
+Refer: 140 98 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E0A
-Encoding: 7690 7690 384
+Encoding: 378 7690 383
 Width: 1526
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 429 426 2
 Refer: 18 68 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E0B
-Encoding: 7691 7691 385
+Encoding: 379 7691 384
 Width: 1265
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 255 -3.99994 2
+Refer: 176 775 N 1 0 0 1 255 -4 2
 Refer: 165 100 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E1E
-Encoding: 7710 7710 386
+Encoding: 380 7710 385
 Width: 1108
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 397 426 2
 Refer: 34 70 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E1F
-Encoding: 7711 7711 387
+Encoding: 381 7711 386
 Width: 733
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 364 -3.99994 2
-Refer: 199 102 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 301 425 2
+Refer: 198 102 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E40
-Encoding: 7744 7744 388
+Encoding: 382 7744 387
 Width: 1905
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 661 426 2
 Refer: 62 77 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E41
-Encoding: 7745 7745 389
+Encoding: 383 7745 388
 Width: 1873
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 716 -3.99994 2
-Refer: 251 109 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 716 -4 2
+Refer: 250 109 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E56
-Encoding: 7766 7766 390
+Encoding: 384 7766 389
 Width: 1252
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 357 426 2
 Refer: 79 80 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E57
-Encoding: 7767 7767 391
-Width: 1260
+Encoding: 385 7767 390
+Width: 1261
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 446 -3.99994 2
-Refer: 278 112 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 446 -4 2
+Refer: 277 112 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E60
-Encoding: 7776 7776 392
-Width: 1211
+Encoding: 386 7776 391
+Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 333 426 2
 Refer: 85 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E61
-Encoding: 7777 7777 393
-Width: 981
+Encoding: 387 7777 392
+Width: 973
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 229 -3.99994 2
-Refer: 309 115 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 238 -4 2
+Refer: 308 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E6A
-Encoding: 7786 7786 394
+Encoding: 388 7786 393
 Width: 1147
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 289 426 2
 Refer: 91 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1E6B
-Encoding: 7787 7787 395
-Width: 763
+Encoding: 389 7787 394
+Width: 808
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 176 775 N 1 0 0 1 234 206 2
-Refer: 323 116 N 1 0 0 1 0 0 3
+Refer: 322 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni2015
-Encoding: 8213 8213 396
+Encoding: 65545 8213 395
 Width: 4096
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 61 478 m 1
@@ -7016,11 +9702,18 @@ EndSplineSet
 EndChar
 
 StartChar: uni2206
-Encoding: 8710 8710 397
+Encoding: 417 8710 396
 Width: 1312
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 40 0 m 1
@@ -7038,47 +9731,74 @@ EndSplineSet
 EndChar
 
 StartChar: uogonek
-Encoding: 371 371 398
+Encoding: 306 371 397
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 269 731 N 1 0 0 1 639 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 268 731 N 1 0 0 1 639 0 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uring
-Encoding: 367 367 399
+Encoding: 302 367 398
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 308 730 N 1 0 0 1 284 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 307 730 N 1 0 0 1 284 46 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: utilde
-Encoding: 361 361 400
+Encoding: 296 361 399
 Width: 1227
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 329 732 N 1 0 0 1 261 0 2
-Refer: 333 117 N 1 0 0 1 0 0 3
+Refer: 328 732 N 1 0 0 1 261 26 2
+Refer: 332 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: v
-Encoding: 118 118 401
+Encoding: 86 118 400
 Width: 1056
 VWidth: 0
-Flags: W
-HStem: 0 21G<429.637 627.382> 1006 20G<9 223.8 839.356 1049>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 528 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 438 0 m 1
@@ -7092,16 +9812,24 @@ SplineSet
  619 0 l 1
  438 0 l 1
 EndSplineSet
+Kerns2: 283 -72 "'kern' Horizontal Kerning lookup 1 per glyph data 0" 
 EndChar
 
 StartChar: w
-Encoding: 119 119 402
+Encoding: 87 119 401
 Width: 1634
 VWidth: 0
-Flags: W
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 808 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 545 0 m 1
@@ -7128,85 +9856,131 @@ EndSplineSet
 EndChar
 
 StartChar: wacute
-Encoding: 7811 7811 403
+Encoding: 393 7811 402
 Width: 1634
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 636 0 2
-Refer: 402 119 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 636 26 2
+Refer: 401 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: wcircumflex
-Encoding: 373 373 404
+Encoding: 308 373 403
 Width: 1634
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 453 1.00003 2
-Refer: 402 119 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 453 26 2
+Refer: 401 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: wdieresis
-Encoding: 7813 7813 405
+Encoding: 395 7813 404
 Width: 1634
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 440 0 2
-Refer: 402 119 N 1 0 0 1 0 0 3
+Refer: 172 168 N 1 0 0 1 440 26 2
+Refer: 401 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: wgrave
-Encoding: 7809 7809 406
+Encoding: 391 7809 405
 Width: 1634
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 360 4.10001 2
-Refer: 402 119 N 1 0 0 1 0 0 3
+Refer: 211 96 N 1 0 0 1 360 26 2
+Refer: 401 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: x
-Encoding: 120 120 407
-Width: 1062
+Encoding: 88 120 406
+Width: 1027
 VWidth: 0
 Flags: W
-HStem: 0 21G<34 252.321 806.296 1028> 1006 20G<57 279.074 802.815 1020>
-AnchorPoint: "bottom" 826 0 basechar 0
-AnchorPoint: "top" 525 1026 basechar 0
+HStem: 0 21G<38 251.396 772.17 989> 1006 20G<60 276.228 768.714 981>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-34 0 m 1
- 427 511 l 1
- 57 1026 l 1
- 265 1026 l 1
- 531 648 l 1
- 818 1026 l 1
- 1020 1026 l 1
- 640 524 l 1
- 1028 0 l 1
- 821 0 l 1
- 535 389 l 1
+38 0 m 1
+ 415 511 l 1
+ 60 1026 l 1
+ 263 1026 l 1
+ 513 648 l 1
+ 783 1026 l 1
+ 981 1026 l 1
+ 616 524 l 1
+ 989 0 l 1
+ 786 0 l 1
+ 517 389 l 1
  237 0 l 1
- 34 0 l 1
+ 38 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 121 121 408
+Encoding: 89 121 407
 Width: 1065
 VWidth: 0
-Flags: W
-HStem: 1006 20G<42 246.755 841.785 1040>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 534 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 214 -434 m 1
@@ -7224,44 +9998,72 @@ EndSplineSet
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 409
+Encoding: 188 253 408
 Width: 1065
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 362 0 2
-Refer: 408 121 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 362 26 2
+Refer: 407 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ycircumflex
-Encoding: 375 375 410
+Encoding: 310 375 409
 Width: 1065
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 159 710 N 1 0 0 1 179 1.00003 2
-Refer: 408 121 N 1 0 0 1 0 0 3
+Refer: 159 710 N 1 0 0 1 179 26 2
+Refer: 407 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ydieresis
-Encoding: 255 255 411
+Encoding: 190 255 410
 Width: 1065
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 172 168 N 1 0 0 1 166 0 2
-Refer: 408 121 N 1 0 0 1 0 0 3
+Refer: 172 168 N 1 0 0 1 166 26 2
+Refer: 407 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: yen
-Encoding: 165 165 412
+Encoding: 100 165 411
 Width: 1225
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1033 260 m 1
@@ -7282,25 +10084,38 @@ Refer: 113 89 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ygrave
-Encoding: 7923 7923 413
+Encoding: 397 7923 412
 Width: 1065
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 212 96 N 1 0 0 1 86 4.10001 2
-Refer: 408 121 N 1 0 0 1 0 0 3
+Refer: 211 96 N 1 0 0 1 86 26 2
+Refer: 407 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: z
-Encoding: 122 122 414
+Encoding: 90 122 413
 Width: 971
 VWidth: 0
-Flags: W
-HStem: 0 153<341 895> 872 154<106 630>
+Flags: HMW
 AnchorPoint: "bottom" 826 0 basechar 0
 AnchorPoint: "top" 501 1026 basechar 0
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 97 0 m 1
@@ -7318,44 +10133,72 @@ EndSplineSet
 EndChar
 
 StartChar: zacute
-Encoding: 378 378 415
+Encoding: 313 378 414
 Width: 971
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 126 180 N 1 0 0 1 329 0 2
-Refer: 414 122 N 1 0 0 1 0 0 3
+Refer: 126 180 N 1 0 0 1 329 26 2
+Refer: 413 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zcaron
-Encoding: 382 382 416
+Encoding: 317 382 415
 Width: 971
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 152 711 N 1 0 0 1 149 1.00003 2
-Refer: 414 122 N 1 0 0 1 0 0 3
+Refer: 152 711 N 1 0 0 1 146 26 2
+Refer: 413 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zdotaccent
-Encoding: 380 380 417
+Encoding: 315 380 416
 Width: 971
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 176 775 N 1 0 0 1 230 -3.99994 2
-Refer: 414 122 N 1 0 0 1 0 0 3
+Refer: 176 775 N 1 0 0 1 230 -4 2
+Refer: 413 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zero
-Encoding: 48 48 418
+Encoding: 16 48 417
 Width: 1234
 VWidth: 0
-Flags: HW
+Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 624 145 m 0
@@ -7369,6 +10212,732 @@ SplineSet
  955 1483 1110 1193 1110 732 c 0
  1110 287 955 -23 621 -23 c 0
 EndSplineSet
+EndChar
+
+StartChar: oslash
+Encoding: 183 248 418
+Width: 1255
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+355 -210 m 1
+ 258 -170 l 1
+ 892 1231 l 1
+ 990 1190 l 1
+ 355 -210 l 1
+EndSplineSet
+Refer: 262 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: onequarter
+Encoding: 123 188 419
+Width: 2024
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+1528 24 m 1
+ 1528 214 l 1
+ 1153 214 l 1
+ 1153 311 l 1
+ 1520 825 l 1
+ 1668 825 l 1
+ 1668 329 l 1
+ 1779 329 l 1
+ 1786 214 l 1
+ 1667 214 l 1
+ 1667 24 l 1
+ 1528 24 l 1
+1305 329 m 1
+ 1526 329 l 1
+ 1526 641 l 1
+ 1305 329 l 1
+499 0 m 1
+ 1398 1456 l 1
+ 1566 1456 l 1
+ 669 0 l 1
+ 499 0 l 1
+238 629 m 1
+ 238 760 l 1
+ 387 760 l 1
+ 387 1290 l 1
+ 359 1275 247 1239 213 1226 c 1
+ 213 1367 l 1
+ 259 1382 381 1428 411 1446 c 1
+ 531 1456 l 1
+ 531 758 l 1
+ 672 758 l 1
+ 672 629 l 1
+ 238 629 l 1
+EndSplineSet
+EndChar
+
+StartChar: onehalf
+Encoding: 124 189 420
+Width: 2156
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+230 629 m 1
+ 230 760 l 1
+ 379 760 l 1
+ 379 1290 l 1
+ 351 1275 240 1239 206 1226 c 1
+ 206 1367 l 1
+ 252 1382 373 1428 403 1446 c 1
+ 523 1456 l 1
+ 523 758 l 1
+ 664 758 l 1
+ 664 629 l 1
+ 230 629 l 1
+1285 0 m 1
+ 1285 128 l 1
+ 1563 370 1697 508 1697 602 c 0
+ 1697 668 1646 706 1567 706 c 0
+ 1489 706 1415 663 1364 594 c 1
+ 1286 696 l 1
+ 1349 788 1457 841 1576 841 c 0
+ 1729 841 1849 756 1849 604 c 0
+ 1849 436 1690 297 1499 139 c 1
+ 1844 139 l 1
+ 1844 0 l 1
+ 1285 0 l 1
+459 0 m 1
+ 1358 1456 l 1
+ 1527 1456 l 1
+ 629 0 l 1
+ 459 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: threequarters
+Encoding: 125 190 421
+Width: 2150
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+477 602 m 0
+ 379 602 285 635 215 698 c 1
+ 276 805 l 1
+ 341 753 407 728 468 728 c 0
+ 561 728 631 778 631 860 c 0
+ 631 947 555 986 433 986 c 0
+ 430 986 366 985 366 985 c 1
+ 366 1111 l 1
+ 427 1111 l 2
+ 531 1111 607 1144 607 1224 c 0
+ 607 1299 550 1333 471 1333 c 0
+ 403 1333 335 1304 271 1258 c 1
+ 212 1362 l 1
+ 285 1421 386 1458 483 1458 c 0
+ 626 1458 754 1381 754 1234 c 0
+ 754 1161 720 1092 635 1055 c 1
+ 731 1020 778 947 778 857 c 0
+ 778 693 638 602 477 602 c 0
+1330 329 m 1
+ 1551 329 l 1
+ 1551 641 l 1
+ 1330 329 l 1
+1553 24 m 1
+ 1553 214 l 1
+ 1178 214 l 1
+ 1178 311 l 1
+ 1545 825 l 1
+ 1693 825 l 1
+ 1693 329 l 1
+ 1804 329 l 1
+ 1810 214 l 1
+ 1691 214 l 1
+ 1691 24 l 1
+ 1553 24 l 1
+523 0 m 1
+ 1422 1456 l 1
+ 1591 1456 l 1
+ 693 0 l 1
+ 523 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni01F4
+Encoding: 331 500 422
+Width: 1528
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 126 180 N 1 0 0 1 638 456 2
+Refer: 35 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01F5
+Encoding: 332 501 423
+Width: 1250
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 126 180 N 1 0 0 1 450 26 2
+Refer: 205 103 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01C4
+Encoding: 319 452 424
+Width: 2705
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 120 381 N 1 0 0 1 1526 0 2
+Refer: 18 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C5
+Encoding: 320 453 425
+Width: 2497
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 415 382 N 1 0 0 1 1526 0 2
+Refer: 18 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C6
+Encoding: 321 454 426
+Width: 2236
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 415 382 N 1 0 0 1 1265 0 2
+Refer: 165 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C7
+Encoding: 322 455 427
+Width: 1830
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 54 74 N 1 0 0 1 1099 0 2
+Refer: 57 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C8
+Encoding: 323 456 428
+Width: 1635
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 235 106 N 1 0 0 1 1099 0 2
+Refer: 57 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C9
+Encoding: 324 457 429
+Width: 1057
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 235 106 N 1 0 0 1 521 0 2
+Refer: 240 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CA
+Encoding: 325 458 430
+Width: 2309
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 54 74 N 1 0 0 1 1578 0 2
+Refer: 63 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CB
+Encoding: 326 459 431
+Width: 2114
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 235 106 N 1 0 0 1 1578 0 2
+Refer: 63 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CC
+Encoding: 327 460 432
+Width: 1776
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 235 106 N 1 0 0 1 1240 0 2
+Refer: 255 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F1
+Encoding: 328 497 433
+Width: 2705
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 118 90 N 1 0 0 1 1526 0 2
+Refer: 18 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F2
+Encoding: 329 498 434
+Width: 2497
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 413 122 N 1 0 0 1 1526 0 2
+Refer: 18 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F3
+Encoding: 330 499 435
+Width: 2236
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 413 122 N 1 0 0 1 1265 0 2
+Refer: 165 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB00
+Encoding: 429 64256 436
+Width: 1385
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+904 0 m 1
+ 904 901 l 1
+ 441 901 l 1
+ 441 0 l 1
+ 252 0 l 1
+ 252 901 l 1
+ 69 901 l 1
+ 69 1026 l 1
+ 252 1026 l 1
+ 252 1108 l 2
+ 252 1371 295 1489 649 1489 c 2
+ 697 1489 l 1
+ 694 1342 l 1
+ 459 1342 441 1298 441 1125 c 2
+ 441 1026 l 1
+ 904 1026 l 1
+ 904 1108 l 2
+ 904 1371 947 1489 1301 1489 c 2
+ 1349 1489 l 1
+ 1346 1342 l 1
+ 1111 1342 1093 1298 1093 1125 c 2
+ 1093 1026 l 1
+ 1337 1026 l 1
+ 1337 901 l 1
+ 1093 901 l 1
+ 1093 0 l 1
+ 904 0 l 1
+EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
+EndChar
+
+StartChar: numbersign
+Encoding: 3 35 437
+Width: 1295
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+237 39 m 1
+ 323 474 l 1
+ 75 474 l 1
+ 86 610 l 1
+ 349 610 l 1
+ 359 670 389 821 400 881 c 1
+ 137 881 l 1
+ 149 1016 l 1
+ 425 1016 l 1
+ 505 1433 l 1
+ 664 1433 l 1
+ 584 1016 l 1
+ 824 1016 l 1
+ 902 1433 l 1
+ 1061 1433 l 1
+ 980 1016 l 1
+ 1216 1016 l 1
+ 1204 881 l 1
+ 955 881 l 1
+ 903 610 l 1
+ 1155 610 l 1
+ 1143 474 l 1
+ 878 474 l 1
+ 793 39 l 1
+ 636 39 l 1
+ 719 474 l 1
+ 480 474 l 1
+ 395 39 l 1
+ 237 39 l 1
+504 610 m 1
+ 746 610 l 1
+ 797 881 l 1
+ 558 881 l 1
+ 504 610 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2215
+Encoding: 420 8725 438
+Width: 1058
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 318 47 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2219
+Encoding: 421 8729 439
+Width: 509
+VWidth: 0
+Flags: HM
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 252 183 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni2074
+Encoding: 414 8308 440
+Width: 1234
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+646 655 m 1
+ 646 844 l 1
+ 270 844 l 1
+ 270 942 l 1
+ 637 1456 l 1
+ 785 1456 l 1
+ 785 959 l 1
+ 897 959 l 1
+ 897 844 l 1
+ 784 844 l 1
+ 784 655 l 1
+ 646 655 l 1
+422 959 m 1
+ 644 959 l 1
+ 644 1272 l 1
+ 422 959 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni02C9
+Encoding: 364 713 441
+Width: 723
+VWidth: 0
+Flags: HMW
+AnchorPoint: "top" 373 1006 mark 0
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+68 1207 m 1
+ 68 1354 l 1
+ 655 1354 l 1
+ 655 1207 l 1
+ 68 1207 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFB03
+Encoding: 432 64259 442
+Width: 1863
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+882 0 m 1
+ 1071 0 l 1
+ 1071 901 l 1
+ 1510 901 l 1
+ 1510 0 l 1
+ 1697 0 l 1
+ 1697 1026 l 1
+ 1071 1026 l 1
+ 1071 1125 l 2
+ 1071 1298 1089 1342 1324 1342 c 1
+ 1326 1489 l 1
+ 1278 1489 l 2
+ 924 1489 882 1371 882 1108 c 2
+ 882 1026 l 1
+ 441 1026 l 1
+ 441 1125 l 2
+ 441 1298 459 1342 694 1342 c 1
+ 697 1489 l 1
+ 649 1489 l 2
+ 295 1489 252 1371 252 1108 c 2
+ 252 1026 l 1
+ 69 1026 l 1
+ 69 901 l 1
+ 252 901 l 1
+ 252 0 l 1
+ 441 0 l 1
+ 441 901 l 1
+ 882 901 l 1
+ 882 0 l 1
+1510 1282 m 1
+ 1510 1456 l 1
+ 1697 1456 l 1
+ 1697 1282 l 1
+ 1510 1282 l 1
+EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
+EndChar
+
+StartChar: uniFB04
+Encoding: 433 64260 443
+Width: 1942
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+1125 901 m 1
+ 1125 0 l 1
+ 937 0 l 1
+ 937 901 l 1
+ 441 901 l 1
+ 441 0 l 1
+ 252 0 l 1
+ 252 901 l 1
+ 68 901 l 1
+ 68 1026 l 1
+ 252 1026 l 1
+ 252 1108 l 2
+ 252 1371 294 1489 648 1489 c 2
+ 696 1489 l 1
+ 694 1342 l 1
+ 459 1342 441 1298 441 1125 c 2
+ 441 1026 l 1
+ 937 1026 l 1
+ 937 1093 l 2
+ 937 1358 1022 1465 1394 1465 c 2
+ 1778 1465 l 1
+ 1778 0 l 1
+ 1589 0 l 1
+ 1589 1319 l 1
+ 1409 1319 l 2
+ 1168 1319 1125 1273 1125 1125 c 2
+ 1125 1026 l 1
+ 1369 1026 l 1
+ 1369 901 l 1
+ 1125 901 l 1
+EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 EndChars
 EndSplineFont

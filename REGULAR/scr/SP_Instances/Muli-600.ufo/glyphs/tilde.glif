@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="1">
-  <advance width="698.27"/>
+  <advance width="699.89"/>
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="3.3" y="1161.52" type="line"/>
-      <point x="3.3" y="1316.3"/>
-      <point x="80.71" y="1423.05"/>
-      <point x="202.09" y="1423.05" type="curve" smooth="yes"/>
-      <point x="309.83" y="1423.05"/>
-      <point x="422.15" y="1324.71"/>
-      <point x="487.09" y="1320.69" type="curve" smooth="yes"/>
-      <point x="529.41" y="1318.01"/>
-      <point x="552.84" y="1338.59"/>
-      <point x="555.48" y="1423.05" type="curve"/>
-      <point x="694.97" y="1423.05" type="line"/>
-      <point x="694.97" y="1250.18"/>
-      <point x="620.53" y="1153.55"/>
-      <point x="494.14" y="1156.52" type="curve" smooth="yes"/>
-      <point x="404.42" y="1158.5"/>
-      <point x="277.73" y="1259.88"/>
-      <point x="210.77" y="1259.88" type="curve" smooth="yes"/>
-      <point x="173.85" y="1259.88"/>
-      <point x="146.46" y="1229.91"/>
-      <point x="139.46" y="1161.52" type="curve"/>
+      <point x="3.1" y="1160.64" type="line"/>
+      <point x="3.1" y="1316.1"/>
+      <point x="80.97" y="1423.35"/>
+      <point x="202.63" y="1423.35" type="curve" smooth="yes"/>
+      <point x="310.81" y="1423.35"/>
+      <point x="423.05" y="1324.97"/>
+      <point x="487.63" y="1320.83" type="curve" smooth="yes"/>
+      <point x="529.87" y="1318.07"/>
+      <point x="553.88" y="1338.13"/>
+      <point x="556.36" y="1423.35" type="curve"/>
+      <point x="696.79" y="1423.35" type="line"/>
+      <point x="696.79" y="1249.26"/>
+      <point x="621.71" y="1152.85"/>
+      <point x="494.98" y="1155.64" type="curve" smooth="yes"/>
+      <point x="404.94" y="1157.5"/>
+      <point x="278.11" y="1259.16"/>
+      <point x="211.39" y="1259.16" type="curve" smooth="yes"/>
+      <point x="174.95" y="1259.16"/>
+      <point x="147.22" y="1229.37"/>
+      <point x="140.22" y="1160.64" type="curve"/>
     </contour>
   </outline>
   <lib>

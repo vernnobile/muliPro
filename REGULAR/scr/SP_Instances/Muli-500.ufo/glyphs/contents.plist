@@ -412,6 +412,8 @@
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>foursuperior</key>
+	<string>foursuperior.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
 	<key>g</key>
@@ -528,6 +530,8 @@
 	<string>notequal.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
+	<key>numbersign</key>
+	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>oacute</key>
@@ -550,12 +554,18 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
 	<string>ordmasculine.glif</string>
+	<key>oslash</key>
+	<string>oslash.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
 	<key>p</key>
@@ -658,6 +668,8 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>threesuperior</key>
 	<string>threesuperior.glif</string>
 	<key>tilde</key>

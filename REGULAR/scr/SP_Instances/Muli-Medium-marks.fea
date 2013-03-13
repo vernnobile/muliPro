@@ -1,0 +1,79 @@
+
+lookup markMarkPositioninglookup0 {
+  lookupflag 0;
+  markClass [\ogonek ] <anchor 308 0> @ogonek;
+  markClass [\cedilla ] <anchor 280 0> @bottom;
+  markClass [\comma ] <anchor 268 346> @bottom;
+  markClass [\commaaccent ] <anchor 288 0> @bottom;
+  markClass [\acute ] <anchor 172 1026> @top;
+  markClass [\breve \hungarumlaut \ring ] <anchor 316 1026> @top;
+  markClass [\caron ] <anchor 352 1025> @top;
+  markClass [\circumflex ] <anchor 355 1025> @top;
+  markClass [\dblgravecmb ] <anchor 612 1026> @top;
+  markClass [\dieresis ] <anchor 368 1026> @top;
+  markClass [\dotaccent \dotaccentcmb ] <anchor 271 1030> @top;
+  markClass [\grave ] <anchor 448 1022> @top;
+  markClass [\macron ] <anchor 373 1026> @top;
+  markClass [\tilde ] <anchor 339 1026> @top;
+  markClass [\uni0311 ] <anchor 318 1026> @top;
+  pos base [\A \B \C \D \F \G \H \J \M \P \Q \R \V \W \X \Y \Z \b \d \f \g \h \i \j \m \p \q \v \w \x \y \z ] <anchor 1260 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 700 1456> mark @top;
+  pos base [\E \U ] <anchor 850 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 656 1456> mark @top;
+  pos base [\I ] <anchor 286 1> mark @bottom
+	<anchor 289 1456> mark @top;
+  pos base [\K ] <anchor 726 0> mark @bottom
+	<anchor 667 1456> mark @top;
+  pos base [\L ] <anchor 696 0> mark @bottom
+	<anchor 580 1456> mark @top;
+  pos base [\N ] <anchor 804 0> mark @bottom
+	<anchor 769 1456> mark @top;
+  pos base [\O ] <anchor 873 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 822 1456> mark @top;
+  pos base [\S ] <anchor 587 -1> mark @bottom
+	<anchor 604 1456> mark @top;
+  pos base [\T ] <anchor 563 0> mark @bottom
+	<anchor 560 1456> mark @top;
+  pos base [\a ] <anchor 994 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 637 1026> mark @top;
+  pos base [\c ] <anchor 599 0> mark @bottom
+	<anchor 597 1026> mark @top;
+  pos base [\dotlessi ] <anchor 248 1023> mark @top;
+  pos base [\dotlessj ] <anchor 259 1026> mark @top;
+  pos base [\e ] <anchor 869 56> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 608 1026> mark @top;
+  pos base [\k ] <anchor 636 -1> mark @bottom
+	<anchor 765 1026> mark @top;
+  pos base [\l ] <anchor 264 0> mark @bottom
+	<anchor 266 1481> mark @top;
+  pos base [\n ] <anchor 676 0> mark @bottom
+	<anchor 697 1026 <device 150 -6> <device NULL>> mark @top;
+  pos base [\o ] <anchor 726 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 619 1026> mark @top;
+  pos base [\r ] <anchor 338 -3> mark @bottom
+	<anchor 487 1026> mark @top;
+  pos base [\s \t ] <anchor 501 0> mark @bottom
+	<anchor 500 1026> mark @top;
+  pos base [\u ] <anchor 947 0> mark @ogonek
+	<anchor 826 0> mark @bottom
+	<anchor 600 1026> mark @top;
+} markMarkPositioninglookup0;
+
+feature mark {
+  script DFLT;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+  script grek;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+  script latn;
+     language dflt ;
+      lookup markMarkPositioninglookup0;
+
+} mark;

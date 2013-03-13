@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhungarumlaut" format="1">
-  <advance width="1208.13"/>
+  <advance width="1206.91"/>
   <unicode hex="0171"/>
   <outline>
     <component base="u"/>
-    <component base="hungarumlaut" xOffset="274.07"/>
+    <component base="hungarumlaut" xOffset="274.49"/>
   </outline>
   <lib>
     <dict>
