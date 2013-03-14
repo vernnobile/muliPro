@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcedilla" format="1">
+  <advance width="1241"/>
+  <unicode hex="0123"/>
+  <outline>
+    <component base="g"/>
+    <contour>
+      <point x="480" y="1162" type="line"/>
+      <point x="643" y="1625" type="line"/>
+      <point x="774" y="1625" type="line"/>
+      <point x="667" y="1162" type="line"/>
+    </contour>
+  </outline>
+</glyph>
