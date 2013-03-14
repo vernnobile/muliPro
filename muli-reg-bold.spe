@@ -16,11 +16,11 @@
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="REGULAR/scr/Muli-Regular.ufo">
+<master filename="MEDIUM/Muli-Medium.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="0" />
 </location>
-<!-- color for REGULAR/scr/Muli-Regular.ufo -->
+<!-- color for MEDIUM/Muli-Medium.ufo -->
 <color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 <master filename="BOLD/src/Muli-Bold.ufo">
@@ -32,31 +32,7 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Muli" sequence="" stylename="600">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="690" />
-</location>
-</instance>
-<instance familyname="Muli" sequence="" stylename="800">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="1400" />
-</location>
-</instance>
-<instance familyname="Muli" sequence="" stylename="200">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-136.4702" />
-</location>
-</instance>
-<instance familyname="Muli" sequence="" stylename="--0_xx-763_32">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-763.3211" />
-</location>
-</instance>
-<instance familyname="Muli" sequence="" stylename="500">
+<instance familyname="Muli" sequence="" stylename="500-B">
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="350" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="1240"/>
+  <advance width="1242"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>

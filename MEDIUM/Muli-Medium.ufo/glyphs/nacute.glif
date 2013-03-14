@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute" format="1">
-  <advance width="1240"/>
+  <advance width="1242"/>
   <unicode hex="0144"/>
   <outline>
     <component base="acute" xOffset="525" yOffset="26"/>
