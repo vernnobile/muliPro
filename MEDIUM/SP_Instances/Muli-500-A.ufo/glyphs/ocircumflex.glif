@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="1266.2"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <component base="circumflex" xOffset="278.4" yOffset="5.2"/>
+    <component base="o"/>
+  </outline>
+</glyph>

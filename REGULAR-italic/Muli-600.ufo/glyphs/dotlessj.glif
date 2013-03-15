@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="548.6"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="44.28" y="-382.8" type="curve" smooth="yes"/>
+      <point x="-3.72" y="-382.8"/>
+      <point x="-52.32" y="-378.88"/>
+      <point x="-111.32" y="-367.0" type="curve"/>
+      <point x="-81.28" y="-210.48" type="line"/>
+      <point x="-44.12" y="-217.68"/>
+      <point x="-12.92" y="-221.28"/>
+      <point x="15.32" y="-221.28" type="curve" smooth="yes"/>
+      <point x="150.0" y="-221.28"/>
+      <point x="191.16" y="-141.0"/>
+      <point x="207.8" y="52.08" type="curve" smooth="yes"/>
+      <point x="293.44" y="1026.0" type="line"/>
+      <point x="506.04" y="1026.0" type="line"/>
+      <point x="417.76" y="22.04" type="line" smooth="yes"/>
+      <point x="397.44" y="-211.44"/>
+      <point x="313.08" y="-382.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-427</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1006</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-164</integer>
+            <key>width</key>
+            <integer>568</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessj</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>518</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

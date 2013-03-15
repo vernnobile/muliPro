@@ -38,4 +38,10 @@
 <dimension name="new_axis_1" xvalue="350" />
 </location>
 </instance>
+<instance familyname="Muli" sequence="" stylename="500-A">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="800" />
+</location>
+</instance>
 </designspace>

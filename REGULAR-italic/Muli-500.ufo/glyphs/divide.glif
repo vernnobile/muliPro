@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="1304.4"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="532.64" y="8.76" type="line"/>
+      <point x="552.44" y="237.84" type="line"/>
+      <point x="794.64" y="237.84" type="line"/>
+      <point x="775.2" y="8.76" type="line"/>
+    </contour>
+    <contour>
+      <point x="202.12" y="473.84" type="line"/>
+      <point x="215.92" y="633.72" type="line"/>
+      <point x="1191.24" y="633.72" type="line"/>
+      <point x="1177.44" y="473.84" type="line"/>
+    </contour>
+    <contour>
+      <point x="605.92" y="862.92" type="line"/>
+      <point x="625.72" y="1091.64" type="line"/>
+      <point x="867.92" y="1091.64" type="line"/>
+      <point x="848.12" y="862.92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1218</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="1">
+  <advance width="1772.48"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="853.16" y="430.64" type="curve" smooth="yes"/>
+      <point x="998.68" y="430.64"/>
+      <point x="1125.2" y="628.08"/>
+      <point x="1142.52" y="826.56" type="curve" smooth="yes"/>
+      <point x="1151.16" y="924.68"/>
+      <point x="1123.92" y="983.16"/>
+      <point x="1038.24" y="983.16" type="curve" smooth="yes"/>
+      <point x="880.04" y="983.16"/>
+      <point x="750.16" y="769.32"/>
+      <point x="734.84" y="596.52" type="curve" smooth="yes"/>
+      <point x="726.2" y="497.44"/>
+      <point x="767.4" y="430.64"/>
+    </contour>
+    <contour>
+      <point x="919.64" y="-90.32" type="curve" smooth="yes"/>
+      <point x="459.88" y="-90.32"/>
+      <point x="137.64" y="215.68"/>
+      <point x="178.36" y="677.28" type="curve" smooth="yes"/>
+      <point x="221.12" y="1162.72"/>
+      <point x="622.12" y="1480.08"/>
+      <point x="1071.96" y="1480.08" type="curve" smooth="yes"/>
+      <point x="1480.8" y="1480.08"/>
+      <point x="1763.76" y="1197.92"/>
+      <point x="1728.72" y="797.88" type="curve" smooth="yes"/>
+      <point x="1704.76" y="522.4"/>
+      <point x="1517.04" y="256.56"/>
+      <point x="1299.04" y="256.56" type="curve" smooth="yes"/>
+      <point x="1159.8" y="256.56"/>
+      <point x="1101.92" y="339.12"/>
+      <point x="1104.28" y="453.28" type="curve" smooth="yes"/>
+      <point x="1105.32" y="469.44"/>
+      <point x="1106.72" y="486.6"/>
+      <point x="1110.12" y="503.76" type="curve"/>
+      <point x="1041.08" y="371.76"/>
+      <point x="934.96" y="266.48"/>
+      <point x="799.96" y="266.48" type="curve" smooth="yes"/>
+      <point x="647.36" y="266.48"/>
+      <point x="516.56" y="386.56"/>
+      <point x="537.6" y="626.24" type="curve" smooth="yes"/>
+      <point x="563.32" y="922.92"/>
+      <point x="824.72" y="1155.72"/>
+      <point x="1026.84" y="1155.72" type="curve" smooth="yes"/>
+      <point x="1119.56" y="1155.72"/>
+      <point x="1193.64" y="1105.92"/>
+      <point x="1217.2" y="999.84" type="curve"/>
+      <point x="1247.68" y="1116.88" type="line"/>
+      <point x="1429.76" y="1116.88" type="line"/>
+      <point x="1314.2" y="709.92" type="line" smooth="yes"/>
+      <point x="1284.56" y="607.56"/>
+      <point x="1265.36" y="538.72"/>
+      <point x="1261.72" y="497.36" type="curve" smooth="yes"/>
+      <point x="1255.0" y="417.72"/>
+      <point x="1279.84" y="377.92"/>
+      <point x="1326.36" y="377.92" type="curve" smooth="yes"/>
+      <point x="1429.04" y="377.92"/>
+      <point x="1564.48" y="557.44"/>
+      <point x="1585.84" y="803.56" type="curve" smooth="yes"/>
+      <point x="1616.24" y="1150.56"/>
+      <point x="1378.52" y="1346.36"/>
+      <point x="1074.96" y="1346.36" type="curve" smooth="yes"/>
+      <point x="716.64" y="1346.36"/>
+      <point x="388.32" y="1096.88"/>
+      <point x="351.88" y="676.64" type="curve" smooth="yes"/>
+      <point x="316.48" y="273.52"/>
+      <point x="602.16" y="50.16"/>
+      <point x="945.52" y="50.16" type="curve" smooth="yes"/>
+      <point x="1109.76" y="50.16"/>
+      <point x="1280.56" y="101.32"/>
+      <point x="1428.96" y="199.72" type="curve"/>
+      <point x="1490.6" y="108.24" type="line"/>
+      <point x="1334.72" y="-17.2"/>
+      <point x="1129.0" y="-90.32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>at</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1510</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="989.02847916"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="526.011256608" y="376.72" type="curve" smooth="yes"/>
+      <point x="333.251256608" y="376.72"/>
+      <point x="202.011256608" y="520.6"/>
+      <point x="217.011256608" y="690.04" type="curve" smooth="yes"/>
+      <point x="232.011256608" y="863.48"/>
+      <point x="399.771256608" y="1010.0"/>
+      <point x="584.291256608" y="1010.0" type="curve" smooth="yes"/>
+      <point x="773.331256608" y="1010.0"/>
+      <point x="908.371256608" y="868.2"/>
+      <point x="893.371256608" y="697.04" type="curve" smooth="yes"/>
+      <point x="878.371256608" y="523.96"/>
+      <point x="712.531256608" y="376.72"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>989.388263998</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

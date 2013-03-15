@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="1243.12"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="570.72" y="-24.68" type="curve" smooth="yes"/>
+      <point x="455.84" y="-24.68"/>
+      <point x="330.88" y="8.92"/>
+      <point x="201.08" y="76.28" type="curve"/>
+      <point x="293.88" y="251.8" type="line"/>
+      <point x="384.52" y="195.52"/>
+      <point x="479.4" y="165.48"/>
+      <point x="569.36" y="165.48" type="curve" smooth="yes"/>
+      <point x="768.4" y="165.48"/>
+      <point x="934.8" y="313.44"/>
+      <point x="963.76" y="640.68" type="curve" smooth="yes"/>
+      <point x="966.72" y="683.24" type="line"/>
+      <point x="889.68" y="570.76"/>
+      <point x="769.64" y="528.36"/>
+      <point x="638.64" y="528.36" type="curve" smooth="yes"/>
+      <point x="354.2" y="528.36"/>
+      <point x="196.6" y="720.72"/>
+      <point x="220.6" y="996.52" type="curve" smooth="yes"/>
+      <point x="244.6" y="1272.28"/>
+      <point x="449.2" y="1483.0"/>
+      <point x="755.96" y="1483.0" type="curve" smooth="yes"/>
+      <point x="1083.32" y="1483.0"/>
+      <point x="1240.44" y="1228.96"/>
+      <point x="1200.44" y="771.96" type="curve" smooth="yes"/>
+      <point x="1155.88" y="262.16"/>
+      <point x="908.12" y="-24.68"/>
+    </contour>
+    <contour>
+      <point x="445.88" y="1001.84" type="curve" smooth="yes"/>
+      <point x="431.24" y="837.2"/>
+      <point x="497.92" y="710.8"/>
+      <point x="679.68" y="710.8" type="curve" smooth="yes"/>
+      <point x="843.36" y="710.8"/>
+      <point x="970.88" y="814.56"/>
+      <point x="987.56" y="1005.28" type="curve" smooth="yes"/>
+      <point x="1000.52" y="1156.48"/>
+      <point x="920.48" y="1294.56"/>
+      <point x="742.44" y="1294.56" type="curve" smooth="yes"/>
+      <point x="573.44" y="1294.56"/>
+      <point x="460.52" y="1172.88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1220</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="1376.66"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="192.19" y="278.16" type="line"/>
+      <point x="192.19" y="452.42" type="line"/>
+      <point x="1184.78" y="452.42" type="line"/>
+      <point x="1184.78" y="278.16" type="line"/>
+    </contour>
+    <contour>
+      <point x="191.88" y="675.89" type="line"/>
+      <point x="191.88" y="851.15" type="line"/>
+      <point x="1183.09" y="851.15" type="line"/>
+      <point x="1183.09" y="675.89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1229</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

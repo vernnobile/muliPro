@@ -11,16 +11,16 @@
 <data name="previewTypeSize" value="90.0" />
 <data name="previewtext" value="Rollover" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561526992" />
+<data name="projectionAngle" value="2.68561525328" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="muli-italic-reg-bold" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="REGULAR-italic/Muli-Regular-Italic.ufo">
+<master filename="MEDIUM-italic/Muli-Medium-Italic.ufo">
 <location>
 <dimension name="muli-italic-reg-bold" xvalue="0" />
 </location>
-<!-- color for REGULAR-italic/Muli-Regular-Italic.ufo -->
+<!-- color for MEDIUM-italic/Muli-Medium-Italic.ufo -->
 <color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
 </master>
 <master filename="BOLD-italic/Muli-Bold-Italic.ufo">
@@ -32,22 +32,16 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Muli" sequence="" stylename="500">
+<instance familyname="Muli" sequence="" stylename="Muli-Italic-500B">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="muli-italic-reg-bold" xvalue="360" />
+<dimension name="muli-italic-reg-bold" xvalue="300" />
 </location>
 </instance>
-<instance familyname="Muli" sequence="" stylename="800">
+<instance familyname="Muli" sequence="" stylename="Muli-Italic-500A">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="muli-italic-reg-bold" xvalue="1400" />
-</location>
-</instance>
-<instance familyname="Muli" sequence="" stylename="--0_xx-631_85">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="muli-italic-reg-bold" xvalue="-631.8537" />
+<dimension name="muli-italic-reg-bold" xvalue="700" />
 </location>
 </instance>
 </designspace>

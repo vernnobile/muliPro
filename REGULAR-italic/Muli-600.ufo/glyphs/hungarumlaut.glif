@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="969.0"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="243.84" y="1140.68" type="line"/>
+      <point x="480.0" y="1484.28" type="line"/>
+      <point x="718.56" y="1484.28" type="line"/>
+      <point x="397.2" y="1140.68" type="line"/>
+    </contour>
+    <contour>
+      <point x="544.84" y="1140.68" type="line"/>
+      <point x="807.12" y="1484.28" type="line"/>
+      <point x="1056.56" y="1484.28" type="line"/>
+      <point x="703.6" y="1140.68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>969</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

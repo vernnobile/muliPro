@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="663.0"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="111.8" y="1172.2" type="line"/>
+      <point x="135.1" y="1314.2"/>
+      <point x="213.9" y="1421.0"/>
+      <point x="333.6" y="1421.0" type="curve" smooth="yes"/>
+      <point x="438.8" y="1421.0"/>
+      <point x="527.2" y="1332.8"/>
+      <point x="594.6" y="1332.8" type="curve" smooth="yes"/>
+      <point x="637.7" y="1332.8"/>
+      <point x="659.3" y="1368.6"/>
+      <point x="672.6" y="1430.8" type="curve"/>
+      <point x="806.6" y="1430.8" type="line"/>
+      <point x="781.7" y="1295.4"/>
+      <point x="711.4" y="1177.0"/>
+      <point x="587.1" y="1177.0" type="curve" smooth="yes"/>
+      <point x="499.1" y="1177.0"/>
+      <point x="392.7" y="1266.2"/>
+      <point x="324.1" y="1266.2" type="curve" smooth="yes"/>
+      <point x="284.6" y="1266.2"/>
+      <point x="254.4" y="1238.5"/>
+      <point x="242.1" y="1172.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1192</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1274</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>116</integer>
+            <key>width</key>
+            <integer>121</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>675</integer>
+            <key>width</key>
+            <integer>125</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -11,11 +11,8 @@
       <point x="1163.89" y="753.705"/>
       <point x="1268.76" y="637.731"/>
       <point x="1268.76" y="467.062" type="curve" smooth="yes"/>
-      <point x="1268.76" y="454.342"/>
-      <point x="1268.18" y="441.318"/>
-      <point x="1267" y="428" type="curve" smooth="yes"/>
-      <point x="1248" y="213"/>
-      <point x="1063" y="0"/>
+      <point x="1268.76" y="248.999995316"/>
+      <point x="1083.75172104" y="0.0"/>
       <point x="728" y="0" type="curve" smooth="yes"/>
       <point x="189" y="0" type="line"/>
       <point x="317" y="1456" type="line"/>
@@ -50,30 +47,36 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>169</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>690</integer>
-	    <key>width</key>	    <integer>166</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1287</integer>
-	    <key>width</key>	    <integer>169</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>1060</integer>
-	    <key>width</key>
-	    <integer>209</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>169</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>690</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1287</integer>
+            <key>width</key>
+            <integer>169</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1060</integer>
+            <key>width</key>
+            <integer>209</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

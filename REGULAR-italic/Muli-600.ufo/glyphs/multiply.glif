@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="1249.28"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="375.72" y="132.24" type="line"/>
+      <point x="250.44" y="269.24" type="line"/>
+      <point x="555.44" y="549.92" type="line"/>
+      <point x="299.72" y="830.6" type="line"/>
+      <point x="448.44" y="967.6" type="line"/>
+      <point x="704.48" y="686.92" type="line"/>
+      <point x="1010.16" y="967.6" type="line"/>
+      <point x="1135.08" y="830.96" type="line"/>
+      <point x="829.08" y="549.92" type="line"/>
+      <point x="1085.8" y="268.88" type="line"/>
+      <point x="937.44" y="132.24" type="line"/>
+      <point x="681.04" y="412.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>multiply</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1218</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

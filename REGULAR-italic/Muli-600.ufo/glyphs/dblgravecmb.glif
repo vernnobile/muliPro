@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="969"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="415" y="1174" type="line"/>
+      <point x="167" y="1487" type="line"/>
+      <point x="343" y="1487" type="line"/>
+      <point x="535" y="1174" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="1174" type="line"/>
+      <point x="437" y="1487" type="line"/>
+      <point x="613" y="1487" type="line"/>
+      <point x="802" y="1174" type="line"/>
+    </contour>
+  </outline>
+</glyph>

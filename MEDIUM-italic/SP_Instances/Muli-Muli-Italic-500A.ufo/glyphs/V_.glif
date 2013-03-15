@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1347.3"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="562.036891732" y="0.0" type="line"/>
+      <point x="160.768445866" y="1456.0" type="line"/>
+      <point x="415.968445866" y="1456.0" type="line"/>
+      <point x="641.536891732" y="529.1" type="line"/>
+      <point x="707.036891732" y="291.2" type="line"/>
+      <point x="813.936891732" y="528.7" type="line"/>
+      <point x="1204.46844586" y="1456.0" type="line"/>
+      <point x="1443.06844586" y="1456.0" type="line"/>
+      <point x="791.736891732" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

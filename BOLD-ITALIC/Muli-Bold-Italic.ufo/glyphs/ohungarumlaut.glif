@@ -3,7 +3,7 @@
   <advance width="1268"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="hungarumlaut" xOffset="396.813" yOffset="49"/>
+    <component base="hungarumlaut" xOffset="292" yOffset="49"/>
     <component base="o"/>
   </outline>
   <lib>
