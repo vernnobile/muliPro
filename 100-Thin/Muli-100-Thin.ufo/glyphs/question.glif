@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="1140.31875"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="412.6875" y="318.66375" type="line"/>
+      <point x="412.6875" y="470.60625" type="line" smooth="yes"/>
+      <point x="412.6875" y="692.06875"/>
+      <point x="839.35" y="844.75125"/>
+      <point x="839.35" y="1134.0875" type="curve" smooth="yes"/>
+      <point x="839.35" y="1331.5975"/>
+      <point x="683.35625" y="1413.135"/>
+      <point x="493.69375" y="1413.135" type="curve" smooth="yes"/>
+      <point x="363.18125" y="1413.135"/>
+      <point x="276.1125" y="1359.01875"/>
+      <point x="229.3875" y="1329.0475" type="curve"/>
+      <point x="229.3875" y="1406.02875" type="line"/>
+      <point x="426.0125" y="1498.39375"/>
+      <point x="562.64375" y="1470.0575"/>
+      <point x="509.3" y="1470.0575" type="curve" smooth="yes"/>
+      <point x="771.875" y="1470.0575"/>
+      <point x="896.09375" y="1360.02875"/>
+      <point x="896.09375" y="1143.76875" type="curve" smooth="yes"/>
+      <point x="896.09375" y="848.334459009"/>
+      <point x="458.79375" y="652.6925"/>
+      <point x="458.79375" y="480.82625" type="curve" smooth="yes"/>
+      <point x="458.79375" y="318.66375" type="line"/>
+    </contour>
+    <contour>
+      <point x="375.84375" y="-25.74" type="line"/>
+      <point x="375.84375" y="115.0675" type="line"/>
+      <point x="501.85" y="115.0675" type="line"/>
+      <point x="501.85" y="-25.74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1140.31875</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

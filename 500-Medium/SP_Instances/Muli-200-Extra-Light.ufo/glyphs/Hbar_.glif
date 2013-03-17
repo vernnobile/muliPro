@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="1495.348"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="90.334" y="1248.54" type="line"/>
+      <point x="87.668" y="1377.64" type="line"/>
+      <point x="1410.346" y="1377.64" type="line"/>
+      <point x="1410.346" y="1248.54" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <advance width="702.4004"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="135.5899" y="-293.530375" type="curve" smooth="yes"/>
+      <point x="56.299" y="-293.530375"/>
+      <point x="8.7794" y="-273.63875"/>
+      <point x="8.7794" y="-273.63875" type="curve"/>
+      <point x="8.7794" y="-158.0495" type="line"/>
+      <point x="8.7794" y="-158.0495"/>
+      <point x="58.0094" y="-172.886"/>
+      <point x="107.5899" y="-172.886" type="curve" smooth="yes"/>
+      <point x="256.4506" y="-172.886"/>
+      <point x="284.0609" y="-92.68825"/>
+      <point x="284.0609" y="55.962" type="curve" smooth="yes"/>
+      <point x="284.0609" y="1209.667375" type="line" smooth="yes"/>
+      <point x="284.0609" y="1424.7225"/>
+      <point x="342.9093" y="1583.65025"/>
+      <point x="569.23" y="1583.65025" type="curve" smooth="yes"/>
+      <point x="653.4898" y="1583.65025"/>
+      <point x="685.2394" y="1563.886"/>
+      <point x="685.2394" y="1563.886" type="curve"/>
+      <point x="685.2394" y="1450.023" type="line"/>
+      <point x="685.2394" y="1450.023"/>
+      <point x="650.4289" y="1463.169375"/>
+      <point x="594.6197" y="1463.169375" type="curve" smooth="yes"/>
+      <point x="446.8199" y="1463.169375"/>
+      <point x="426.2015" y="1383.099"/>
+      <point x="426.2015" y="1234.44875" type="curve" smooth="yes"/>
+      <point x="426.2015" y="80.906875" type="line" smooth="yes"/>
+      <point x="426.2015" y="-134.14825"/>
+      <point x="361.529" y="-293.530375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>integral</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>754.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

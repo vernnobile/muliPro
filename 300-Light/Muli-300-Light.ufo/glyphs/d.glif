@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="1263.1299"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="573.8092" y="-21.8365" type="curve" smooth="yes"/>
+      <point x="288.5886" y="-21.8365"/>
+      <point x="95.5805" y="180.545625"/>
+      <point x="95.5805" y="505.382125" type="curve" smooth="yes"/>
+      <point x="95.5805" y="851.157875"/>
+      <point x="291.839" y="1052.0"/>
+      <point x="573.8403" y="1052.0" type="curve" smooth="yes"/>
+      <point x="745.2598" y="1052.0"/>
+      <point x="880.8769" y="964.0"/>
+      <point x="929.0366" y="849.207125" type="curve"/>
+      <point x="929.0366" y="1499.65025" type="line"/>
+      <point x="1071.7496" y="1499.65025" type="line"/>
+      <point x="1071.7496" y="251.63875" type="line"/>
+      <point x="1072.9404" y="158.0645"/>
+      <point x="1075.1312" y="40.475"/>
+      <point x="1077.0703" y="0.0" type="curve"/>
+      <point x="933.1205" y="0.0" type="line"/>
+      <point x="928.7389" y="194.557125" type="line"/>
+      <point x="877.839" y="74.218625"/>
+      <point x="755.2598" y="-21.8365"/>
+    </contour>
+    <contour>
+      <point x="579.6197" y="97.0265" type="curve" smooth="yes"/>
+      <point x="785.1001" y="97.0265"/>
+      <point x="927.9987" y="243.355375"/>
+      <point x="927.9987" y="535.36125" type="curve" smooth="yes"/>
+      <point x="927.9987" y="771.57425"/>
+      <point x="792.1989" y="933.137"/>
+      <point x="591.23" y="933.137" type="curve" smooth="yes"/>
+      <point x="386.391" y="933.137"/>
+      <point x="242.851" y="772.73775"/>
+      <point x="242.851" y="504.819375" type="curve" smooth="yes"/>
+      <point x="242.851" y="245.682375"/>
+      <point x="383.0703" y="97.0265"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>d</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1265.05</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

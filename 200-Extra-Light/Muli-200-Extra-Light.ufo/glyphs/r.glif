@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="876.078225"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="204.8567" y="0.0" type="line"/>
+      <point x="204.8567" y="788.124" type="line" smooth="yes"/>
+      <point x="204.8567" y="694.176"/>
+      <point x="205.9186" y="1026.0"/>
+      <point x="205.9186" y="1026.0" type="curve"/>
+      <point x="307.8892" y="1026.0" type="line"/>
+      <point x="307.8892" y="834.8515" type="line"/>
+      <point x="347.83055" y="975.00325"/>
+      <point x="471.88595" y="1048.22675"/>
+      <point x="596.048825" y="1048.22675" type="curve" smooth="yes"/>
+      <point x="642.2117" y="1048.22675"/>
+      <point x="678.9446" y="1044.90375"/>
+      <point x="708.579775" y="1038.677" type="curve"/>
+      <point x="708.579775" y="941.10125" type="line"/>
+      <point x="708.169375" y="938.7505"/>
+      <point x="666.169375" y="953.297"/>
+      <point x="603.47555" y="953.297" type="curve" smooth="yes"/>
+      <point x="419.521125" y="953.297"/>
+      <point x="304.82405" y="789.92825"/>
+      <point x="304.82405" y="558.876" type="curve" smooth="yes"/>
+      <point x="304.82405" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>818.9</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

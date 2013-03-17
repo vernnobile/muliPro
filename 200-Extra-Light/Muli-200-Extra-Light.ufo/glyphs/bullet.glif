@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="991.166125"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="493.0" y="403.925" type="curve" smooth="yes"/>
+      <point x="320.32575" y="403.925"/>
+      <point x="186.32575" y="537.57425"/>
+      <point x="186.32575" y="702.447" type="curve" smooth="yes"/>
+      <point x="186.32575" y="871.31975"/>
+      <point x="316.99675" y="1010.0"/>
+      <point x="493.0" y="1010.0" type="curve" smooth="yes"/>
+      <point x="664.573275" y="1010.0"/>
+      <point x="804.840375" y="866.5465"/>
+      <point x="804.840375" y="702.447" type="curve" smooth="yes"/>
+      <point x="804.840375" y="532.89725"/>
+      <point x="671.00325" y="403.925"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>989.65</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="1228.8"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="805.9875" y="838.78875" type="line"/>
+      <point x="656.05" y="1132.1525" type="line"/>
+      <point x="518.625" y="857.5575" type="line"/>
+      <point x="469.8875" y="872.4525" type="line"/>
+      <point x="618.61875" y="1124.22125" type="line"/>
+      <point x="363.8" y="1179.4225" type="line"/>
+      <point x="357.35" y="1253.28875" type="line"/>
+      <point x="631.925" y="1141.08625" type="line"/>
+      <point x="601.925" y="1460.82625" type="line"/>
+      <point x="643.0625" y="1460.82625" type="line"/>
+      <point x="662.54375" y="1141.08625" type="line"/>
+      <point x="875.69375" y="1253.28875" type="line"/>
+      <point x="915.88125" y="1179.4225" type="line"/>
+      <point x="686.0875" y="1124.22125" type="line"/>
+      <point x="859.275" y="850.53875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>567</integer>
+          <key>y</key>
+          <integer>1149</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1228.8</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

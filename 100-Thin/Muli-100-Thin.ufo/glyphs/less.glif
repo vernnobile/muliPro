@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="937.39375"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="716.55" y="126.19125" type="line"/>
+      <point x="16.0125" y="579.4225" type="line"/>
+      <point x="16.0125" y="638.9425" type="line"/>
+      <point x="723.39375" y="992.77875" type="line"/>
+      <point x="723.39375" y="922.71125" type="line"/>
+      <point x="56.425" y="596.74" type="line"/>
+      <point x="716.55" y="196.54875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>less</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>937.39375</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

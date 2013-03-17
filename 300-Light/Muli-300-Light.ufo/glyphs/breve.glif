@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="1">
+  <advance width="559.8591"/>
+  <unicode hex="02D8"/>
+  <outline>
+    <contour>
+      <point x="281.7807" y="1218.77575" type="curve" smooth="yes"/>
+      <point x="122.8714" y="1218.77575"/>
+      <point x="45.4885" y="1294.0495"/>
+      <point x="32.6793" y="1456.0" type="curve"/>
+      <point x="136.46" y="1456.0" type="line"/>
+      <point x="141.7807" y="1362.344125"/>
+      <point x="188.9417" y="1322.819375"/>
+      <point x="281.7807" y="1322.819375" type="curve" smooth="yes"/>
+      <point x="374.6197" y="1322.819375"/>
+      <point x="412.4221" y="1368.743375"/>
+      <point x="425.1014" y="1456.0" type="curve"/>
+      <point x="527.1798" y="1456.0" type="line"/>
+      <point x="515.8591" y="1297.830875"/>
+      <point x="430.2705" y="1218.77575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>breve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>621.6</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

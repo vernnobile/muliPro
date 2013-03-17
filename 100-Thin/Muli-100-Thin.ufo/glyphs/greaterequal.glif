@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="1348.725"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="371.075" y="0.0" type="line"/>
+      <point x="371.075" y="49.98125" type="line"/>
+      <point x="1156.33125" y="49.98125" type="line"/>
+      <point x="1156.33125" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="394.5875" y="992.56875" type="line"/>
+      <point x="1095.125" y="539.3375" type="line"/>
+      <point x="1095.125" y="479.8175" type="line"/>
+      <point x="388.3125" y="125.98125" type="line"/>
+      <point x="388.3125" y="196.04875" type="line"/>
+      <point x="1054.7125" y="522.02" type="line"/>
+      <point x="394.5875" y="922.21125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>greaterequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1348.725</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

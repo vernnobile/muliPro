@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2206" format="1">
+  <advance width="1321.5125"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="41.275" y="0.0" type="line"/>
+      <point x="1252.9375" y="0.0" type="line"/>
+      <point x="1252.9375" y="49.375" type="line"/>
+      <point x="633.34375" y="1464.74125" type="line"/>
+      <point x="661.86875" y="1464.74125" type="line"/>
+      <point x="41.275" y="49.375" type="line"/>
+    </contour>
+    <contour>
+      <point x="16.90625" y="3.645" type="line"/>
+      <point x="-122.9875" y="-355.9125"/>
+      <point x="812.19375" y="1790.15125"/>
+      <point x="672.3" y="1428.9125" type="curve"/>
+      <point x="521.775" y="1796.94875"/>
+      <point x="1431.5" y="-361.565"/>
+      <point x="1280.975" y="3.645" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2206</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1321.5125</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

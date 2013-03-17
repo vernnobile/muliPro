@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="1961.9783"/>
+  <unicode hex="0153"/>
+  <outline>
+    <contour>
+      <point x="1091.391" y="601.967625" type="curve"/>
+      <point x="1743.3398" y="601.967625" type="line"/>
+      <point x="1743.3398" y="614.766125"/>
+      <point x="1743.3398" y="626.365"/>
+      <point x="1742.149" y="639.1635" type="curve" smooth="yes"/>
+      <point x="1725.149" y="796.633125"/>
+      <point x="1618.241" y="933.137"/>
+      <point x="1431.5102" y="933.137" type="curve" smooth="yes"/>
+      <point x="1232.4208" y="933.137"/>
+      <point x="1098.0405" y="774.52475"/>
+    </contour>
+    <contour>
+      <point x="614.2909" y="97.0265" type="curve" smooth="yes"/>
+      <point x="852.1516" y="97.0265"/>
+      <point x="958.3492" y="291.34975"/>
+      <point x="958.3492" y="511.0" type="curve" smooth="yes"/>
+      <point x="958.3492" y="749.431625"/>
+      <point x="850.0907" y="933.137"/>
+      <point x="606.1001" y="933.137" type="curve" smooth="yes"/>
+      <point x="368.3003" y="933.137"/>
+      <point x="243.5912" y="746.7225"/>
+      <point x="242.4004" y="506.8365" type="curve" smooth="yes"/>
+      <point x="241.2096" y="284.18625"/>
+      <point x="355.4302" y="97.0265"/>
+    </contour>
+    <contour>
+      <point x="606.23" y="-22.0" type="curve" smooth="yes"/>
+      <point x="265.1691" y="-22.0"/>
+      <point x="89.5805" y="214.344125"/>
+      <point x="89.5805" y="508.382125" type="curve" smooth="yes"/>
+      <point x="89.5805" y="803.655875"/>
+      <point x="267.161" y="1052.0"/>
+      <point x="616.9012" y="1052.0" type="curve" smooth="yes"/>
+      <point x="814.6414" y="1052.0"/>
+      <point x="946.8092" y="953.256625"/>
+      <point x="1028.7402" y="789.6995" type="curve"/>
+      <point x="1100.0" y="951.131125"/>
+      <point x="1238.9608" y="1051.218625"/>
+      <point x="1420.2206" y="1051.218625" type="curve" smooth="yes"/>
+      <point x="1714.2206" y="1051.218625"/>
+      <point x="1866.7402" y="835.1635"/>
+      <point x="1866.7402" y="540.65025" type="curve" smooth="yes"/>
+      <point x="1866.7402" y="505.57425" type="line"/>
+      <point x="1092.0703" y="505.57425" type="line"/>
+      <point x="1091.8795" y="507.3005"/>
+      <point x="1091.5818" y="457.48675"/>
+      <point x="1091.391" y="459.0495" type="curve"/>
+      <point x="1093.0405" y="252.655875"/>
+      <point x="1246.4817" y="97.0265"/>
+      <point x="1450.4506" y="97.0265" type="curve" smooth="yes"/>
+      <point x="1692.6699" y="97.0265"/>
+      <point x="1772.3207" y="197.30025"/>
+      <point x="1772.3207" y="197.30025" type="curve"/>
+      <point x="1821.6495" y="86.093125" type="line"/>
+      <point x="1821.6495" y="86.093125"/>
+      <point x="1728.8918" y="-22.0"/>
+      <point x="1438.931" y="-22.0" type="curve" smooth="yes"/>
+      <point x="1252.2219" y="-22.0"/>
+      <point x="1084.3897" y="79.306125"/>
+      <point x="1022.0" y="250.86325" type="curve"/>
+      <point x="956.0" y="71.1255"/>
+      <point x="801.5494" y="-22.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-6</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>e</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>811</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oe</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1979.8</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

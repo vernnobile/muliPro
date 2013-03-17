@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="841.0"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="452.0" type="line"/>
+      <point x="84.0" y="645.0" type="line"/>
+      <point x="693.0" y="645.0" type="line"/>
+      <point x="693.0" y="452.0" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

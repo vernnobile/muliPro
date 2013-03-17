@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="849.94785"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="430.306175" y="892.447" type="curve" smooth="yes"/>
+      <point x="579.364825" y="892.447"/>
+      <point x="667.628675" y="990.79775"/>
+      <point x="667.628675" y="1146.82225" type="curve" smooth="yes"/>
+      <point x="667.628675" y="1309.16975"/>
+      <point x="579.364825" y="1407.8745"/>
+      <point x="423.94135" y="1407.8745" type="curve" smooth="yes"/>
+      <point x="275.1498" y="1407.8745"/>
+      <point x="188.517875" y="1309.52375"/>
+      <point x="188.517875" y="1151.49925" type="curve" smooth="yes"/>
+      <point x="188.517875" y="989.47475"/>
+      <point x="270.6156" y="892.447"/>
+    </contour>
+    <contour>
+      <point x="425.94135" y="805.527" type="curve" smooth="yes"/>
+      <point x="199.368075" y="805.527"/>
+      <point x="81.364825" y="959.75375"/>
+      <point x="81.364825" y="1155.17625" type="curve" smooth="yes"/>
+      <point x="81.364825" y="1347.95275"/>
+      <point x="204.46905" y="1499.8255"/>
+      <point x="426.840375" y="1499.8255" type="curve" smooth="yes"/>
+      <point x="652.9446" y="1499.8255"/>
+      <point x="768.1498" y="1349.82225"/>
+      <point x="768.1498" y="1153.2725" type="curve" smooth="yes"/>
+      <point x="768.1498" y="962.39975"/>
+      <point x="647.14655" y="805.527"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>887.85</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

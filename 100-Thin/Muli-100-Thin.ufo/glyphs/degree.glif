@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="791.275"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="395.6375" y="1418.49125" type="curve" smooth="yes"/>
+      <point x="219.51875" y="1418.49125"/>
+      <point x="110.9375" y="1292.14375"/>
+      <point x="110.9375" y="1142.0575" type="curve" smooth="yes"/>
+      <point x="110.9375" y="993.11625"/>
+      <point x="222.3625" y="861.7975"/>
+      <point x="395.6375" y="861.7975" type="curve" smooth="yes"/>
+      <point x="567.6375" y="861.7975"/>
+      <point x="680.3375" y="993.11625"/>
+      <point x="680.3375" y="1142.0575" type="curve" smooth="yes"/>
+      <point x="680.3375" y="1292.14375"/>
+      <point x="569.9125" y="1418.49125"/>
+    </contour>
+    <contour>
+      <point x="395.6375" y="934.34625" type="curve" smooth="yes"/>
+      <point x="246.88125" y="934.34625"/>
+      <point x="189.1" y="1040.37625"/>
+      <point x="189.1" y="1144.2025" type="curve" smooth="yes"/>
+      <point x="189.1" y="1249.17375"/>
+      <point x="254.275" y="1348.76875"/>
+      <point x="395.6375" y="1348.76875" type="curve" smooth="yes"/>
+      <point x="534.45" y="1348.76875"/>
+      <point x="598.4875" y="1249.17375"/>
+      <point x="598.4875" y="1144.2025" type="curve" smooth="yes"/>
+      <point x="598.4875" y="1040.37625"/>
+      <point x="541.84375" y="934.34625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>791.275</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

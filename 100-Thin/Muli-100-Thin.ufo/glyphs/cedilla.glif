@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="529.0"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="106.45" y="-337.76625" type="curve"/>
+      <point x="118.175" y="-297.13125" type="line"/>
+      <point x="123.6625" y="-295.47875"/>
+      <point x="189.38125" y="-322.305"/>
+      <point x="233.6125" y="-322.305" type="curve" smooth="yes"/>
+      <point x="351.50625" y="-322.305"/>
+      <point x="361.6" y="-300.465"/>
+      <point x="361.6" y="-249.55125" type="curve" smooth="yes"/>
+      <point x="361.6" y="-190.66625"/>
+      <point x="296.5125" y="-199.87125"/>
+      <point x="178.18125" y="-199.87125" type="curve"/>
+      <point x="179.6" y="-199.87125" type="line"/>
+      <point x="215.15" y="-1.71125" type="line"/>
+      <point x="255.09375" y="-1.71125" type="line"/>
+      <point x="234.81875" y="-139.81375" type="line"/>
+      <point x="298.4625" y="-143.87125"/>
+      <point x="417.825" y="-115.665"/>
+      <point x="417.825" y="-257.2325" type="curve" smooth="yes"/>
+      <point x="417.825" y="-377.335"/>
+      <point x="295.16875" y="-379.63625"/>
+      <point x="247.28125" y="-379.63625" type="curve" smooth="yes"/>
+      <point x="121.4625" y="-379.63625"/>
+      <point x="108.50625" y="-336.8675"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>529.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

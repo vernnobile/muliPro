@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1039.931525"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="645.7654" y="908.4225" type="line"/>
+      <point x="908.76865" y="547.12725" type="line"/>
+      <point x="641.931525" y="180.124" type="line"/>
+      <point x="527.778475" y="180.124" type="line"/>
+      <point x="788.573275" y="546.45025" type="line"/>
+      <point x="535.778475" y="908.4225" type="line"/>
+    </contour>
+    <contour>
+      <point x="231.459225" y="908.4225" type="line"/>
+      <point x="494.02925" y="547.12725" type="line"/>
+      <point x="227.192125" y="180.124" type="line"/>
+      <point x="113.4723" y="180.124" type="line"/>
+      <point x="374.2671" y="546.45025" type="line"/>
+      <point x="121.4723" y="908.4225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1122.45</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+  <advance width="1228.8762"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="388.2931" y="953.527" type="line"/>
+      <point x="388.2931" y="0.0" type="line"/>
+      <point x="276.329" y="0.0" type="line"/>
+      <point x="276.329" y="953.527" type="line"/>
+      <point x="66.5342" y="953.527" type="line"/>
+      <point x="66.5342" y="1026.0" type="line"/>
+      <point x="276.329" y="1026.0" type="line"/>
+      <point x="276.329" y="1155.297" type="line" smooth="yes"/>
+      <point x="276.329" y="1388.31"/>
+      <point x="375.8567" y="1468.031"/>
+      <point x="784.7753" y="1468.031" type="curve" smooth="yes"/>
+      <point x="1026.9576" y="1468.031" type="line"/>
+      <point x="1026.9576" y="0.0" type="line"/>
+      <point x="914.2606" y="0.0" type="line"/>
+      <point x="914.2606" y="1379.943" type="line"/>
+      <point x="752.5277" y="1379.943" type="line" smooth="yes"/>
+      <point x="434.4918" y="1379.943"/>
+      <point x="388.2931" y="1331.589"/>
+      <point x="388.2931" y="1160.695" type="curve" smooth="yes"/>
+      <point x="388.2931" y="1026.0" type="line"/>
+      <point x="648.2866" y="1026.0" type="line"/>
+      <point x="648.2866" y="953.527" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>f</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>20</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>l</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>714</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1252.7</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="1016.355"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="197.368075" y="-277.20225" type="curve" smooth="yes"/>
+      <point x="149.778475" y="-277.20225"/>
+      <point x="130.570025" y="-270.84825"/>
+      <point x="96.7329" y="-262.9755" type="curve"/>
+      <point x="106.368075" y="-171.726" type="line"/>
+      <point x="106.368075" y="-171.726"/>
+      <point x="149.46905" y="-185.49925"/>
+      <point x="170.94135" y="-185.49925" type="curve" smooth="yes"/>
+      <point x="305.0554" y="-185.49925"/>
+      <point x="351.426725" y="-91.54975"/>
+      <point x="362.631925" y="-34.10125" type="curve" smooth="yes"/>
+      <point x="554.544025" y="1033.7475" type="line"/>
+      <point x="382.218275" y="1033.7475" type="line"/>
+      <point x="385.426725" y="1113.121" type="line"/>
+      <point x="566.64825" y="1113.121" type="line"/>
+      <point x="572.426725" y="1151.248" type="line" smooth="yes"/>
+      <point x="599.426725" y="1360.07025"/>
+      <point x="674.5896" y="1492.15175"/>
+      <point x="878.2052" y="1492.15175" type="curve" smooth="yes"/>
+      <point x="908.928275" y="1492.15175"/>
+      <point x="996.355" y="1473.049"/>
+      <point x="996.355" y="1473.049" type="curve"/>
+      <point x="981.0879" y="1382.34925" type="line"/>
+      <point x="981.0879" y="1382.34925"/>
+      <point x="932.983675" y="1400.67225"/>
+      <point x="881.983675" y="1400.67225" type="curve" smooth="yes"/>
+      <point x="716.276775" y="1400.67225"/>
+      <point x="696.7654" y="1315.94625"/>
+      <point x="684.02925" y="1236.54825" type="curve" smooth="yes"/>
+      <point x="655.455975" y="1113.121" type="line"/>
+      <point x="899.00325" y="1113.121" type="line"/>
+      <point x="882.7329" y="1033.7475" type="line"/>
+      <point x="649.6156" y="1033.7475" type="line"/>
+      <point x="491.8273" y="136.85" type="line" smooth="yes"/>
+      <point x="455.82405" y="-73.101"/>
+      <point x="467.221525" y="-277.20225"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1073.1</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

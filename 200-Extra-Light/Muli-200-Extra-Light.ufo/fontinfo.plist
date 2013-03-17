@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>2433</integer>
+	<key>capHeight</key>
+	<integer>1456</integer>
+	<key>descender</key>
+	<integer>-925</integer>
+	<key>familyName</key>
+	<string>Muli</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1978</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-679</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>137</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1978</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>679</integer>
+	<key>postscriptFullName</key>
+	<string>Muli 200-Extra-Light</string>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptWeightName</key>
+	<string>Thin</string>
+	<key>styleName</key>
+	<string>200-Extra-Light</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1026</integer>
+</dict>
+</plist>

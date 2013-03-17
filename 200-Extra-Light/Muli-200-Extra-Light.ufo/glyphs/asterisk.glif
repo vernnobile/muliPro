@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="1189.7688"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="776.44305" y="799.12575" type="line"/>
+      <point x="622.4398" y="1083.2465" type="line"/>
+      <point x="477.9675" y="813.7995" type="line"/>
+      <point x="399.14345" y="851.6265" type="line"/>
+      <point x="563.189025" y="1099.30025" type="line"/>
+      <point x="303.0848" y="1165.1485" type="line"/>
+      <point x="317.2346" y="1260.42575" type="line"/>
+      <point x="584.7623" y="1145.64925" type="line"/>
+      <point x="554.7623" y="1459.77325" type="line"/>
+      <point x="638.99675" y="1459.77325" type="line"/>
+      <point x="646.687325" y="1145.64925" type="line"/>
+      <point x="867.426725" y="1260.42575" type="line"/>
+      <point x="917.100975" y="1165.1485" type="line"/>
+      <point x="676.05865" y="1099.30025" type="line"/>
+      <point x="858.7329" y="834.27575" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>567</integer>
+          <key>y</key>
+          <integer>1149</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1107.9</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

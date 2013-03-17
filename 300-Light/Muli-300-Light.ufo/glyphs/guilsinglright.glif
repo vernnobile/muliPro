@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="660.1393"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="255.0703" y="912.43725" type="line"/>
+      <point x="522.1393" y="545.39925" type="line"/>
+      <point x="250.2611" y="174.1255" type="line"/>
+      <point x="111.7402" y="174.1255" type="line"/>
+      <point x="366.0298" y="544.944875" type="line"/>
+      <point x="119.7402" y="912.43725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guilsinglleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>688.4</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
