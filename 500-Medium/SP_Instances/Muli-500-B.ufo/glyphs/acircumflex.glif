@@ -6,4 +6,11 @@
     <component base="a"/>
     <component base="circumflex" xOffset="287.2" yOffset="16.9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
