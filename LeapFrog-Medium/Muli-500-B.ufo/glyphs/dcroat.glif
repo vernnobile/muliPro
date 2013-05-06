@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="1255.55"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="592" y="1220" type="line"/>
+      <point x="592" y="1346" type="line"/>
+      <point x="1206" y="1346" type="line"/>
+      <point x="1206" y="1220" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

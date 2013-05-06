@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcedilla" format="1">
+  <advance width="1241"/>
+  <unicode hex="0123"/>
+  <outline>
+    <contour>
+      <point x="480" y="1162" type="line"/>
+      <point x="643" y="1625" type="line"/>
+      <point x="774" y="1625" type="line"/>
+      <point x="667" y="1162" type="line"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

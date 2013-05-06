@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="1638.2"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="832" y="157" type="curve" smooth="yes"/>
+      <point x="1161" y="157"/>
+      <point x="1339" y="405"/>
+      <point x="1368" y="734" type="curve" smooth="yes"/>
+      <point x="1396" y="1055"/>
+      <point x="1262" y="1303"/>
+      <point x="936" y="1303" type="curve" smooth="yes"/>
+      <point x="611" y="1303"/>
+      <point x="423" y="1032"/>
+      <point x="397" y="725" type="curve" smooth="yes"/>
+      <point x="369" y="407"/>
+      <point x="505" y="157"/>
+    </contour>
+    <contour>
+      <point x="820" y="-23" type="curve" smooth="yes"/>
+      <point x="369" y="-23"/>
+      <point x="130" y="271"/>
+      <point x="170" y="730" type="curve" smooth="yes"/>
+      <point x="208" y="1166"/>
+      <point x="500" y="1483"/>
+      <point x="957" y="1483" type="curve" smooth="yes"/>
+      <point x="1396" y="1483"/>
+      <point x="1636" y="1183"/>
+      <point x="1596" y="724" type="curve" smooth="yes"/>
+      <point x="1558" y="284"/>
+      <point x="1272" y="-23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-23</integer>
+            <key>width</key>
+            <integer>169</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1314</integer>
+            <key>width</key>
+            <integer>169</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

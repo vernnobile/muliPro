@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="1">
+  <advance width="1361.3"/>
+  <unicode hex="0154"/>
+  <outline>
+    <component base="acute" xOffset="470.95" yOffset="446.55"/>
+    <component base="R"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
