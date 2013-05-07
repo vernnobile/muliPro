@@ -86,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 13 13 7
+WinInfo: 156 13 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 303616 151808 101205 525312 -1048576 101205 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -170,7 +170,7 @@ StartChar: Abreve
 Encoding: 258 258 3
 Width: 1416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -223,7 +223,7 @@ StartChar: Amacron
 Encoding: 256 256 7
 Width: 1416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -241,7 +241,7 @@ StartChar: Aogonek
 Encoding: 260 260 8
 Width: 1416
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -338,7 +338,7 @@ StartChar: Cacute
 Encoding: 262 262 13
 Width: 1402
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667.9 376.699
 VStem: 706.25 510
 LayerCount: 2
@@ -358,7 +358,7 @@ StartChar: Ccaron
 Encoding: 268 268 14
 Width: 1402
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1632.75 372.55
 LayerCount: 2
 UndoRedoHistory
@@ -377,7 +377,7 @@ StartChar: Ccedilla
 Encoding: 199 199 15
 Width: 1402
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -395,7 +395,7 @@ StartChar: Ccircumflex
 Encoding: 264 264 16
 Width: 1402
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -413,9 +413,9 @@ StartChar: Cdotaccent
 Encoding: 266 266 17
 Width: 1402
 VWidth: 0
-Flags: W
-HStem: 1640 183<706 894>
-VStem: 706 188<1640 1823>
+Flags: HW
+HStem: 1667 183<691 879>
+VStem: 691 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -458,7 +458,7 @@ StartChar: Dcaron
 Encoding: 270 270 19
 Width: 1543
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1632.75 372.55
 LayerCount: 2
 UndoRedoHistory
@@ -514,7 +514,7 @@ StartChar: Eacute
 Encoding: 201 201 22
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667.9 376.699
 VStem: 572.25 510
 LayerCount: 2
@@ -534,7 +534,7 @@ StartChar: Ebreve
 Encoding: 276 276 23
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -552,7 +552,7 @@ StartChar: Ecaron
 Encoding: 282 282 24
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1632.75 372.55
 LayerCount: 2
 UndoRedoHistory
@@ -571,7 +571,7 @@ StartChar: Ecircumflex
 Encoding: 202 202 25
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -589,7 +589,7 @@ StartChar: Edieresis
 Encoding: 203 203 26
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -607,9 +607,9 @@ StartChar: Edotaccent
 Encoding: 278 278 27
 Width: 1200
 VWidth: 0
-Flags: W
-HStem: 1640 183<572 760>
-VStem: 572 188<1640 1823>
+Flags: HW
+HStem: 1667 183<511 699>
+VStem: 511 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -627,7 +627,7 @@ StartChar: Egrave
 Encoding: 200 200 28
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667 379
 VStem: 234 519
 LayerCount: 2
@@ -647,7 +647,7 @@ StartChar: Emacron
 Encoding: 274 274 29
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -694,7 +694,7 @@ StartChar: Eogonek
 Encoding: 280 280 31
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -806,7 +806,7 @@ StartChar: Gbreve
 Encoding: 286 286 36
 Width: 1530
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -835,7 +835,7 @@ StartChar: Gcircumflex
 Encoding: 284 284 38
 Width: 1530
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -995,9 +995,9 @@ StartChar: Idotaccent
 Encoding: 304 304 49
 Width: 604
 VWidth: 0
-Flags: W
-HStem: 1640 183<214 402>
-VStem: 214 188<1640 1823>
+Flags: HW
+HStem: 1667 183<190 378>
+VStem: 190 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1028,7 +1028,7 @@ StartChar: Imacron
 Encoding: 298 298 51
 Width: 604
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1418,7 +1418,7 @@ StartChar: Omacron
 Encoding: 332 332 75
 Width: 1640
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1664,7 +1664,7 @@ StartChar: Scedilla
 Encoding: 350 350 88
 Width: 1235
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1981,7 +1981,7 @@ StartChar: Wacute
 Encoding: 7810 7810 108
 Width: 2018
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667.9 376.699
 VStem: 939.25 510
 LayerCount: 2
@@ -2012,7 +2012,7 @@ StartChar: Wdieresis
 Encoding: 7812 7812 110
 Width: 2018
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2030,7 +2030,7 @@ StartChar: Wgrave
 Encoding: 7808 7808 111
 Width: 2018
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667 379
 VStem: 601 519
 LayerCount: 2
@@ -2132,7 +2132,7 @@ StartChar: Ygrave
 Encoding: 7922 7922 117
 Width: 1240
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1667 379
 VStem: 198 519
 LayerCount: 2
@@ -2201,9 +2201,9 @@ StartChar: Zdotaccent
 Encoding: 379 379 121
 Width: 1185
 VWidth: 0
-Flags: W
-HStem: 1640 183<557 745>
-VStem: 557 188<1640 1823>
+Flags: HW
+HStem: 1667 183<555 743>
+VStem: 555 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2265,7 +2265,7 @@ StartChar: abreve
 Encoding: 259 259 124
 Width: 1281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2375,7 +2375,7 @@ StartChar: amacron
 Encoding: 257 257 130
 Width: 1281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2429,7 +2429,7 @@ StartChar: aogonek
 Encoding: 261 261 132
 Width: 1281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2843,7 +2843,7 @@ StartChar: cacute
 Encoding: 263 263 151
 Width: 1047
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1283.9 376.699
 VStem: 513.25 510
 LayerCount: 2
@@ -2882,7 +2882,7 @@ StartChar: ccaron
 Encoding: 269 269 153
 Width: 1047
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1248.75 372.55
 LayerCount: 2
 UndoRedoHistory
@@ -2901,7 +2901,7 @@ StartChar: ccedilla
 Encoding: 231 231 154
 Width: 1047
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2919,7 +2919,7 @@ StartChar: ccircumflex
 Encoding: 265 265 155
 Width: 1047
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -2937,9 +2937,9 @@ StartChar: cdotaccent
 Encoding: 267 267 156
 Width: 1047
 VWidth: 0
-Flags: W
-HStem: 1256 183<513 701>
-VStem: 513 188<1256 1439>
+Flags: HW
+HStem: 1283 183<498 686>
+VStem: 498 188<1283 1466>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -3440,7 +3440,7 @@ StartChar: ebreve
 Encoding: 277 277 178
 Width: 1173
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -22 154 486 131 901 151
 VStem: 106 195
 LayerCount: 2
@@ -3460,7 +3460,7 @@ StartChar: ecaron
 Encoding: 283 283 179
 Width: 1173
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -22 154 486 131 901 151 1248.75 372.55
 VStem: 106 195
 LayerCount: 2
@@ -3506,9 +3506,9 @@ StartChar: edotaccent
 Encoding: 279 279 182
 Width: 1173
 VWidth: 0
-Flags: W
-HStem: -22 154 486 131 901 151 1256 183<524 712>
-VStem: 106 195 524 188<1256 1439>
+Flags: HW
+HStem: -22 154 486 131 901 151 1283 183<463 651>
+VStem: 106 195 463 188<1283 1466>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -3595,7 +3595,7 @@ StartChar: emacron
 Encoding: 275 275 186
 Width: 1173
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -22 154 486 131 901 151
 VStem: 106 195
 LayerCount: 2
@@ -3699,7 +3699,7 @@ StartChar: eogonek
 Encoding: 281 281 190
 Width: 1173
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -22 154 486 131 901 151
 VStem: 106 195
 LayerCount: 2
@@ -3968,7 +3968,7 @@ StartChar: gbreve
 Encoding: 287 287 201
 Width: 1247
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -4003,7 +4003,7 @@ StartChar: gcircumflex
 Encoding: 285 285 203
 Width: 1247
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -4253,7 +4253,7 @@ StartChar: hcircumflex
 Encoding: 293 293 215
 Width: 1218
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -4410,7 +4410,7 @@ StartChar: imacron
 Encoding: 299 299 225
 Width: 548
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -4482,7 +4482,7 @@ StartChar: iogonek
 Encoding: 303 303 228
 Width: 556
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5095,7 +5095,7 @@ StartChar: oacute
 Encoding: 243 243 259
 Width: 1265
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1283.9 376.699
 VStem: 535.25 510
 LayerCount: 2
@@ -5126,7 +5126,7 @@ StartChar: ocircumflex
 Encoding: 244 244 261
 Width: 1265
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5212,7 +5212,7 @@ StartChar: ograve
 Encoding: 242 242 265
 Width: 1265
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1283 379
 VStem: 197 519
 LayerCount: 2
@@ -5243,7 +5243,7 @@ StartChar: omacron
 Encoding: 333 333 267
 Width: 1265
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -5393,7 +5393,7 @@ SplineSet
 353 864 m 0
  292 864 244 899 244 964 c 0
  244 1075 329 1077 547 1077 c 1
- 547 1076 547 1057 547 1057 c 2
+ 547 1057 l 2
  547 935 456 864 353 864 c 0
 EndSplineSet
 EndChar
@@ -5440,7 +5440,7 @@ StartChar: otilde
 Encoding: 245 245 274
 Width: 1265
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6178,7 +6178,7 @@ StartChar: scedilla
 Encoding: 351 351 309
 Width: 988
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6447,17 +6447,8 @@ StartChar: tbar
 Encoding: 359 359 321
 Width: 765
 VWidth: 0
-Flags: W
-HStem: 0 159<488.748 736> 564 122<54 676> 889 137<44 239 445 734>
-VStem: 239 206<202.13 889 1026 1283>
+Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 54 564 m 1
@@ -6473,17 +6464,8 @@ StartChar: tcaron
 Encoding: 357 357 322
 Width: 975
 VWidth: 0
-Flags: W
-HStem: 0 159<488.748 736> 889 137<44 239 445 734>
-VStem: 239 206<202.13 889 1026 1283>
+Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 320 116 N 1 0 0 1 0 0 2
 Refer: 161 44 N 1 0 0 1 775 1220 2
@@ -6574,7 +6556,7 @@ SplineSet
  354 749 423 725 483 725 c 0
  574 725 637 785 637 864 c 0
  637 944 566 985 451 985 c 0
- 449 985 377 985 377 985 c 1
+ 377 985 l 1
  377 1105 l 1
  446 1105 l 2
  543 1105 614 1150 614 1223 c 0
@@ -6706,7 +6688,7 @@ StartChar: uacute
 Encoding: 250 250 330
 Width: 1221
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1283.9 376.699
 VStem: 516.25 510
 LayerCount: 2
@@ -6737,7 +6719,7 @@ StartChar: ucircumflex
 Encoding: 251 251 332
 Width: 1221
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6755,7 +6737,7 @@ StartChar: udieresis
 Encoding: 252 252 333
 Width: 1221
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6773,7 +6755,7 @@ StartChar: ugrave
 Encoding: 249 249 334
 Width: 1221
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1283 379
 VStem: 178 519
 LayerCount: 2
@@ -7014,7 +6996,7 @@ StartChar: uni0162
 Encoding: 354 354 350
 Width: 1156
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7032,9 +7014,7 @@ StartChar: uni0163
 Encoding: 355 355 351
 Width: 814
 VWidth: 0
-Flags: W
-HStem: 0 159<488.748 736> 889 137<44 239 445 734>
-VStem: 239 206<202.13 889 1026 1283>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7151,7 +7131,7 @@ StartChar: uni01F1
 Encoding: 497 497 361
 Width: 2728
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7169,7 +7149,7 @@ StartChar: uni01F2
 Encoding: 498 498 362
 Width: 2521
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7187,7 +7167,7 @@ StartChar: uni01F3
 Encoding: 499 499 363
 Width: 2243
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7242,7 +7222,7 @@ StartChar: uni0201
 Encoding: 513 513 367
 Width: 1281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7260,9 +7240,7 @@ StartChar: uni0202
 Encoding: 514 514 368
 Width: 1416
 VWidth: 0
-Flags: W
-HStem: 1718.73 134.756<584.599 814.334>
-VStem: 415 122<1590 1671.72> 857 120<1590 1673.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7280,9 +7258,7 @@ StartChar: uni0203
 Encoding: 515 515 369
 Width: 1281
 VWidth: 0
-Flags: W
-HStem: 1334.73 134.756<529.599 759.334>
-VStem: 360 122<1206 1287.72> 802 120<1206 1289.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7300,7 +7276,7 @@ StartChar: uni0204
 Encoding: 516 516 370
 Width: 1200
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7318,7 +7294,7 @@ StartChar: uni0205
 Encoding: 517 517 371
 Width: 1173
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -22 154 486 131 901 151
 VStem: 106 195
 LayerCount: 2
@@ -7338,9 +7314,7 @@ StartChar: uni0206
 Encoding: 518 518 372
 Width: 1200
 VWidth: 0
-Flags: W
-HStem: 1718.73 134.756<548.599 778.334>
-VStem: 379 122<1590 1671.72> 821 120<1590 1673.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7358,9 +7332,9 @@ StartChar: uni0207
 Encoding: 519 519 373
 Width: 1173
 VWidth: 0
-Flags: W
-HStem: -22 154 486 131 901 151 1334.73 134.756<500.599 730.334>
-VStem: 106 195 331 122<1206 1287.72> 773 120<1206 1289.76>
+Flags: HW
+HStem: -22 154 486 131 901 151
+VStem: 106 195
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7400,9 +7374,7 @@ StartChar: uni020A
 Encoding: 522 522 376
 Width: 604
 VWidth: 0
-Flags: W
-HStem: 1718.73 134.756<190.599 420.334>
-VStem: 21 122<1590 1671.72> 463 120<1590 1673.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7420,9 +7392,7 @@ StartChar: uni020B
 Encoding: 523 523 377
 Width: 548
 VWidth: 0
-Flags: W
-HStem: 1298.73 134.756<151.599 381.334>
-VStem: -18 122<1170 1251.72> 424 120<1170 1253.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7462,17 +7432,8 @@ StartChar: uni020E
 Encoding: 526 526 380
 Width: 1640
 VWidth: 0
-Flags: W
-HStem: 1702.73 134.756<706.599 936.334>
-VStem: 537 122<1574 1655.72> 979 120<1574 1657.76>
+Flags: HW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 398 785 N 1 0 0 1 504 384 2
 Refer: 67 79 N 1 0 0 1 0 0 3
@@ -7482,9 +7443,7 @@ StartChar: uni020F
 Encoding: 527 527 381
 Width: 1265
 VWidth: 0
-Flags: W
-HStem: 1334.73 134.756<511.599 741.334>
-VStem: 342 122<1206 1287.72> 784 120<1206 1289.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7502,7 +7461,7 @@ StartChar: uni0210
 Encoding: 528 528 382
 Width: 1359
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7520,7 +7479,7 @@ StartChar: uni0211
 Encoding: 529 529 383
 Width: 807
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7538,9 +7497,7 @@ StartChar: uni0212
 Encoding: 530 530 384
 Width: 1359
 VWidth: 0
-Flags: W
-HStem: 1718.73 134.756<592.599 822.334>
-VStem: 423 122<1590 1671.72> 865 120<1590 1673.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7558,9 +7515,7 @@ StartChar: uni0213
 Encoding: 531 531 385
 Width: 807
 VWidth: 0
-Flags: W
-HStem: 1334.73 134.756<379.599 609.334>
-VStem: 210 122<1206 1287.72> 652 120<1206 1289.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7578,7 +7533,7 @@ StartChar: uni0214
 Encoding: 532 532 386
 Width: 1498
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7596,7 +7551,7 @@ StartChar: uni0215
 Encoding: 533 533 387
 Width: 1221
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7614,9 +7569,7 @@ StartChar: uni0216
 Encoding: 534 534 388
 Width: 1498
 VWidth: 0
-Flags: W
-HStem: 1718.73 134.756<648.599 878.334>
-VStem: 479 122<1590 1671.72> 921 120<1590 1673.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7634,9 +7587,7 @@ StartChar: uni0217
 Encoding: 535 535 389
 Width: 1221
 VWidth: 0
-Flags: W
-HStem: 1334.73 134.756<492.599 722.334>
-VStem: 323 122<1206 1287.72> 765 120<1206 1289.76>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7654,7 +7605,7 @@ StartChar: uni0218
 Encoding: 536 536 390
 Width: 1235
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7672,7 +7623,7 @@ StartChar: uni0219
 Encoding: 537 537 391
 Width: 988
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7690,7 +7641,7 @@ StartChar: uni021A
 Encoding: 538 538 392
 Width: 1156
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7708,9 +7659,7 @@ StartChar: uni021B
 Encoding: 539 539 393
 Width: 814
 VWidth: 0
-Flags: W
-HStem: 0 159<488.748 736> 889 137<44 239 445 734>
-VStem: 239 206<202.13 889 1026 1283>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7834,9 +7783,9 @@ StartChar: uni1E02
 Encoding: 7682 7682 399
 Width: 1356
 VWidth: 0
-Flags: W
-HStem: 1640 183<616 804>
-VStem: 616 188<1640 1823>
+Flags: HW
+HStem: 1667 183<555 743>
+VStem: 555 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7854,9 +7803,9 @@ StartChar: uni1E03
 Encoding: 7683 7683 400
 Width: 1279
 VWidth: 0
-Flags: W
-HStem: 1353 183<602 790>
-VStem: 602 188<1353 1536>
+Flags: HW
+HStem: 1380 183<541 729>
+VStem: 541 188<1380 1563>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7874,9 +7823,9 @@ StartChar: uni1E0A
 Encoding: 7690 7690 401
 Width: 1543
 VWidth: 0
-Flags: W
-HStem: 1640 183<616 804>
-VStem: 616 188<1640 1823>
+Flags: HW
+HStem: 1667 183<555 743>
+VStem: 555 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7894,9 +7843,9 @@ StartChar: uni1E0B
 Encoding: 7691 7691 402
 Width: 1265
 VWidth: 0
-Flags: W
-HStem: 1312 183<459 647>
-VStem: 459 188<1312 1495>
+Flags: HW
+HStem: 1339 183<398 586>
+VStem: 398 188<1339 1522>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7914,9 +7863,9 @@ StartChar: uni1E1E
 Encoding: 7710 7710 403
 Width: 1123
 VWidth: 0
-Flags: W
-HStem: 1640 183<616 804>
-VStem: 616 188<1640 1823>
+Flags: HW
+HStem: 1667 183<555 743>
+VStem: 555 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7934,9 +7883,9 @@ StartChar: uni1E1F
 Encoding: 7711 7711 404
 Width: 757
 VWidth: 0
-Flags: W
-HStem: 1568 183<459 647>
-VStem: 459 188<1568 1751>
+Flags: HW
+HStem: 1595 183<398 586>
+VStem: 398 188<1595 1778>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7954,9 +7903,9 @@ StartChar: uni1E40
 Encoding: 7744 7744 405
 Width: 1941
 VWidth: 0
-Flags: W
-HStem: 1640 183<886 1074>
-VStem: 886 188<1640 1823>
+Flags: HW
+HStem: 1667 183<825 1013>
+VStem: 825 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7974,9 +7923,9 @@ StartChar: uni1E41
 Encoding: 7745 7745 406
 Width: 1864
 VWidth: 0
-Flags: W
-HStem: 1128 183<868 1056>
-VStem: 868 188<1128 1311>
+Flags: HW
+HStem: 1155 183<807 995>
+VStem: 807 188<1155 1338>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -7994,9 +7943,9 @@ StartChar: uni1E56
 Encoding: 7766 7766 407
 Width: 1270
 VWidth: 0
-Flags: W
-HStem: 1640 183<616 804>
-VStem: 616 188<1640 1823>
+Flags: HW
+HStem: 1667 183<555 743>
+VStem: 555 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8014,9 +7963,9 @@ StartChar: uni1E57
 Encoding: 7767 7767 408
 Width: 1261
 VWidth: 0
-Flags: W
-HStem: 1118 183<589 777>
-VStem: 589 188<1118 1301>
+Flags: HW
+HStem: 1145 183<528 716>
+VStem: 528 188<1145 1328>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8034,9 +7983,9 @@ StartChar: uni1E60
 Encoding: 7776 7776 409
 Width: 1235
 VWidth: 0
-Flags: W
-HStem: 1640 183<520 708>
-VStem: 520 188<1640 1823>
+Flags: HW
+HStem: 1667 183<459 647>
+VStem: 459 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8054,9 +8003,9 @@ StartChar: uni1E61
 Encoding: 7777 7777 410
 Width: 988
 VWidth: 0
-Flags: W
-HStem: 1256 183<416 604>
-VStem: 416 188<1256 1439>
+Flags: HW
+HStem: 1283 183<355 543>
+VStem: 355 188<1283 1466>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8074,9 +8023,9 @@ StartChar: uni1E6A
 Encoding: 7786 7786 411
 Width: 1156
 VWidth: 0
-Flags: W
-HStem: 1640 183<496 684>
-VStem: 496 188<1640 1823>
+Flags: HW
+HStem: 1667 183<435 623>
+VStem: 435 188<1667 1850>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8094,9 +8043,9 @@ StartChar: uni1E6B
 Encoding: 7787 7787 412
 Width: 814
 VWidth: 0
-Flags: W
-HStem: 0 159<488.748 736> 889 137<44 239 445 734> 1370 183<290 478>
-VStem: 239 206<202.13 889 1026 1283> 290 188<1370 1553>
+Flags: HW
+HStem: 1397 183<229 417>
+VStem: 229 188<1397 1580>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8483,7 +8432,7 @@ StartChar: wacute
 Encoding: 7811 7811 428
 Width: 1649
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1155.9 376.699
 VStem: 759.25 510
 LayerCount: 2
@@ -8514,7 +8463,7 @@ StartChar: wdieresis
 Encoding: 7813 7813 430
 Width: 1649
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8532,7 +8481,7 @@ StartChar: wgrave
 Encoding: 7809 7809 431
 Width: 1649
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 1155 379
 VStem: 421 519
 LayerCount: 2
@@ -8615,8 +8564,8 @@ StartChar: yacute
 Encoding: 253 253 434
 Width: 1090
 VWidth: 0
-Flags: W
-HStem: 1006 20<44 265.844 844.863 1060> 1217.9 376.699
+Flags: HW
+HStem: 1217.9 376.699
 VStem: 460.25 510
 LayerCount: 2
 UndoRedoHistory
@@ -8635,8 +8584,7 @@ StartChar: ycircumflex
 Encoding: 375 375 435
 Width: 1090
 VWidth: 0
-Flags: W
-HStem: 1006 20<44 265.844 844.863 1060>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8654,8 +8602,7 @@ StartChar: ydieresis
 Encoding: 255 255 436
 Width: 1090
 VWidth: 0
-Flags: W
-HStem: 1006 20<44 265.844 844.863 1060>
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8698,8 +8645,8 @@ StartChar: ygrave
 Encoding: 7923 7923 438
 Width: 1090
 VWidth: 0
-Flags: W
-HStem: 1006 20<44 265.844 844.863 1060> 1217 379
+Flags: HW
+HStem: 1217 379
 VStem: 122 519
 LayerCount: 2
 UndoRedoHistory
@@ -8767,9 +8714,9 @@ StartChar: zdotaccent
 Encoding: 380 380 442
 Width: 978
 VWidth: 0
-Flags: W
-HStem: 1128 183<422 610>
-VStem: 422 188<1128 1311>
+Flags: HW
+HStem: 1155 183<361 549>
+VStem: 361 188<1155 1338>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
