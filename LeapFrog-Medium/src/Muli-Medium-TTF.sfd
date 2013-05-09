@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1367898900
-ModificationTime: 1367973161
+ModificationTime: 1368036738
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -54,7 +54,7 @@ OS2Vendor: 'newt'
 OS2CodePages: 20000093.00000000
 OS2UnicodeRanges: a00000ff.4000204b.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning lookup 1"  {"'mark' Mark Positioning lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 1"  {"'mark' Mark Positioning lookup 1 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 13 21 "'kern' Horizontal Kerning in Latin lookup 0 kerning class 1" 
@@ -122,7 +122,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 8
+WinInfo: 306 18 9
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "Anchor-0"  "'mark' Mark Positioning lookup 1 subtable" "Anchor-1"  "'mark' Mark Positioning lookup 1 subtable" "Anchor-2"  "'mark' Mark Positioning lookup 1 subtable" 
 BeginChars: 65543 460
 
@@ -324,7 +326,7 @@ SplineSet
  768 175 768 175 820 217 c 0,2,3
  894 276 894 276 893 386 c 0,4,5
  893 442 893 442 881.5 477 c 128,-1,6
- 870 512 870 512 832.5 546 c 0,7,8
+ 870 512 870 512 832 546 c 0,7,8
  794 580 794 580 728 608 c 0,9,10
  707 616 707 616 683 625 c 1,11,-1
  683 163 l 1,0,1
@@ -2028,24 +2030,24 @@ SplineSet
  1361 -301 l 1,22,-1
  1236 -434 l 1,23,24
  1228 -426 1228 -426 1213.5 -412.5 c 128,-1,25
- 1199 -399 1199 -399 1158 -354 c 128,-1,26
- 1117 -309 1117 -309 1079.5 -262 c 0,27,28
- 1042 -216 1042 -216 996 -146 c 0,29,30
- 953 -81 953 -81 922 -17 c 1,31,32
+ 1199 -399 1199 -399 1158 -354 c 0,26,27
+ 1118 -309 1118 -309 1080 -262 c 0,28,29
+ 1042 -216 1042 -216 996 -146 c 0,30,31
+ 953 -81 953 -81 922 -17 c 1,32,33
  874 -22 874 -22 823 -22 c 0,0,1
-820 158 m 0,33,34
- 1061 158 1061 158 1181.5 310 c 128,-1,35
- 1302 462 1302 462 1302 731 c 0,36,37
- 1302 857 1302 857 1273 960 c 128,-1,38
- 1244 1063 1244 1063 1186 1140 c 128,-1,39
- 1128 1217 1128 1217 1035.5 1259.5 c 128,-1,40
- 943 1302 943 1302 823 1302 c 0,41,42
- 704 1302 704 1302 610.5 1259.5 c 128,-1,43
- 517 1217 517 1217 457 1140 c 128,-1,44
- 397 1063 397 1063 365.5 959.5 c 128,-1,45
- 334 856 334 856 334 731 c 0,46,47
- 334 463 334 463 457.5 310.5 c 128,-1,48
- 581 158 581 158 820 158 c 0,33,34
+820 158 m 0,34,35
+ 1061 158 1061 158 1181.5 310 c 128,-1,36
+ 1302 462 1302 462 1302 731 c 0,37,38
+ 1302 857 1302 857 1273 960 c 128,-1,39
+ 1244 1063 1244 1063 1186 1140 c 128,-1,40
+ 1128 1217 1128 1217 1035.5 1259.5 c 128,-1,41
+ 943 1302 943 1302 823 1302 c 0,42,43
+ 704 1302 704 1302 610.5 1259.5 c 128,-1,44
+ 517 1217 517 1217 457 1140 c 128,-1,45
+ 397 1063 397 1063 365.5 959.5 c 128,-1,46
+ 334 856 334 856 334 731 c 0,47,48
+ 334 463 334 463 457.5 310.5 c 128,-1,49
+ 581 158 581 158 820 158 c 0,34,35
 EndSplineSet
 EndChar
 
@@ -4971,7 +4973,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 357 465 2
+Refer: 445 770 N 1 0 0 1 687 494 2
 Refer: 36 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5083,7 +5085,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 121 184 N 1 0 0 1 546 -20 2
+Refer: 121 184 N 1 0 0 1 598 -19 2
 Refer: 38 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5101,7 +5103,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 208 514 2
+Refer: 446 768 N 1 0 0 1 494 514 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5119,7 +5121,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 511 514 2
+Refer: 443 769 N 1 0 0 1 827 514 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5137,7 +5139,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 290 465 2
+Refer: 445 770 N 1 0 0 1 651 494 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5209,7 +5211,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 -32 465 2
+Refer: 445 770 N 1 0 0 1 293 494 2
 Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5227,7 +5229,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 106 168 N 1 0 0 1 -70 464 2
+Refer: 106 168 N 1 0 0 1 -61 464 2
 Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5340,7 +5342,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 475 465 2
+Refer: 445 770 N 1 0 0 1 817 494 2
 Refer: 50 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5515,7 +5517,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 400 465 2
+Refer: 445 770 N 1 0 0 1 751 494 2
 Refer: 56 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5551,7 +5553,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 475 514 2
+Refer: 443 769 N 1 0 0 1 791 514 2
 Refer: 60 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5666,7 +5668,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 474 130 2
+Refer: 446 768 N 1 0 0 1 475 130 2
 Refer: 68 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5702,7 +5704,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 244 35 2
+Refer: 445 770 N 1 0 0 1 632 110 2
 Refer: 68 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5872,7 +5874,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 440 130 2
+Refer: 446 768 N 1 0 0 1 441 130 2
 Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5908,7 +5910,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 259 35 2
+Refer: 445 770 N 1 0 0 1 598 110 2
 Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5944,7 +5946,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 96 94 2
+Refer: 446 768 N 1 0 0 1 97 94 2
 Refer: 242 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -5980,7 +5982,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 -73 35 2
+Refer: 445 770 N 1 0 0 1 254 74 2
 Refer: 242 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6087,7 +6089,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 456 130 2
+Refer: 446 768 N 1 0 0 1 457 130 2
 Refer: 82 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6123,7 +6125,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 287 35 2
+Refer: 445 770 N 1 0 0 1 614 110 2
 Refer: 82 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6297,7 +6299,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 252 35 2
+Refer: 445 770 N 1 0 0 1 595 110 2
 Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6420,7 +6422,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 345 397 2
+Refer: 367 713 N 1 0 0 1 347 397 2
 Refer: 36 65 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6438,7 +6440,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 232 -33 2
+Refer: 367 713 N 1 0 0 1 252 -33 2
 Refer: 68 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6528,7 +6530,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 645 514 2
+Refer: 443 769 N 1 0 0 1 961 514 2
 Refer: 38 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6546,7 +6548,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 452 130 2
+Refer: 443 769 N 1 0 0 1 768 130 2
 Refer: 70 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6564,7 +6566,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 445 770 N 1 0 0 1 435 494 2
+Refer: 445 770 N 1 0 0 1 785 494 2
 Refer: 38 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6582,7 +6584,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 445 770 N 1 0 0 1 242 110 2
+Refer: 445 770 N 1 0 0 1 592 110 2
 Refer: 70 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6636,7 +6638,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 444 780 N 1 0 0 1 455 494 2
+Refer: 444 780 N 1 0 0 1 804 494 2
 Refer: 38 67 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6654,7 +6656,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 444 780 N 1 0 0 1 262 110 2
+Refer: 444 780 N 1 0 0 1 611 110 2
 Refer: 70 99 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6672,7 +6674,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 444 780 N 1 0 0 1 365 494 2
+Refer: 444 780 N 1 0 0 1 714 494 2
 Refer: 39 68 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6775,7 +6777,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 278 397 2
+Refer: 367 713 N 1 0 0 1 293 397 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6793,7 +6795,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 248 -33 2
+Refer: 367 713 N 1 0 0 1 218 -33 2
 Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6847,7 +6849,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 401 400 2
+Refer: 374 775 N 1 0 0 1 402 479 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6865,7 +6867,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 348 16 2
+Refer: 374 775 N 1 0 0 1 349 95 2
 Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6919,7 +6921,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 290 465 2
+Refer: 444 780 N 1 0 0 1 670 494 2
 Refer: 40 69 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6937,7 +6939,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 259 35 2
+Refer: 444 780 N 1 0 0 1 617 110 2
 Refer: 72 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6955,7 +6957,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 516 465 2
+Refer: 445 770 N 1 0 0 1 825 494 2
 Refer: 42 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -6973,7 +6975,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 234 35 2
+Refer: 445 770 N 1 0 0 1 575 82 2
 Refer: 74 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7027,7 +7029,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 575 400 2
+Refer: 374 775 N 1 0 0 1 576 479 2
 Refer: 42 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7045,7 +7047,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 325 -12 2
+Refer: 374 775 N 1 0 0 1 326 67 2
 Refer: 74 103 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7063,7 +7065,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 449 700 N 1 0 0 1 526 -366 2
+Refer: 455 806 N 1 0 0 1 500 -381 2
 Refer: 42 71 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7141,7 +7143,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 430 465 2
+Refer: 445 770 N 1 0 0 1 788 494 2
 Refer: 43 72 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7159,7 +7161,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 270 461 2
+Refer: 445 770 N 1 0 0 1 732 218 2
 Refer: 75 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7339,7 +7341,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 368 728 N 1 0 0 1 -38 384 2
+Refer: 368 728 N 1 0 0 1 -29 416 2
 Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7357,7 +7359,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 368 728 N 1 0 0 1 -68 -36 2
+Refer: 368 728 N 1 0 0 1 -68 -4 2
 Refer: 242 305 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7525,7 +7527,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 458 -346 2
+Refer: 455 806 N 1 0 0 1 524 -359 2
 Refer: 46 75 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7543,7 +7545,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 348 -347 2
+Refer: 455 806 N 1 0 0 1 396 -359 2
 Refer: 78 107 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7627,7 +7629,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 449 700 N 1 0 0 1 396 -346 2
+Refer: 455 806 N 1 0 0 1 404 -359 2
 Refer: 47 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7645,7 +7647,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 449 700 N 1 0 0 1 -36 -346 2
+Refer: 455 806 N 1 0 0 1 35 -359 2
 Refer: 79 108 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7699,7 +7701,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 458 -1 N 1 0 0 1 386 123 2
+Refer: 458 -1 N 1 0 0 1 545 123 2
 Refer: 47 76 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7835,7 +7837,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 449 700 N 1 0 0 1 504 -346 2
+Refer: 455 806 N 1 0 0 1 566 -359 2
 Refer: 49 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7853,7 +7855,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 449 700 N 1 0 0 1 376 -346 2
+Refer: 455 806 N 1 0 0 1 388 -359 2
 Refer: 81 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7871,7 +7873,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 453 465 2
+Refer: 444 780 N 1 0 0 1 823 494 2
 Refer: 49 78 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7889,7 +7891,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 275 35 2
+Refer: 444 780 N 1 0 0 1 711 110 2
 Refer: 81 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8006,7 +8008,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 464 397 2
+Refer: 367 713 N 1 0 0 1 458 397 2
 Refer: 50 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8024,7 +8026,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 276 -33 2
+Refer: 367 713 N 1 0 0 1 271 -33 2
 Refer: 82 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8292,7 +8294,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 408 -346 2
+Refer: 455 806 N 1 0 0 1 507 -359 2
 Refer: 53 82 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8310,7 +8312,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 70 -349 2
+Refer: 455 806 N 1 0 0 1 218 -359 2
 Refer: 85 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8328,7 +8330,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 83 465 2
+Refer: 444 780 N 1 0 0 1 714 494 2
 Refer: 53 82 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8346,7 +8348,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 104 35 2
+Refer: 444 780 N 1 0 0 1 501 110 2
 Refer: 85 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8400,7 +8402,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 277 465 2
+Refer: 445 770 N 1 0 0 1 599 494 2
 Refer: 54 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8418,7 +8420,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 155 35 2
+Refer: 445 770 N 1 0 0 1 495 110 2
 Refer: 86 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8472,7 +8474,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 277 465 2
+Refer: 444 780 N 1 0 0 1 618 494 2
 Refer: 54 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8490,7 +8492,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 155 35 2
+Refer: 444 780 N 1 0 0 1 514 110 2
 Refer: 86 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8544,13 +8546,13 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 228 465 2
+Refer: 444 780 N 1 0 0 1 594 494 2
 Refer: 55 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: tcaron
 Encoding: 357 357 294
-Width: 975
+Width: 988
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -8718,7 +8720,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 367 713 N 1 0 0 1 240 -33 2
+Refer: 367 713 N 1 0 0 1 246 -33 2
 Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8736,7 +8738,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 368 728 N 1 0 0 1 429 384 2
+Refer: 368 728 N 1 0 0 1 429 416 2
 Refer: 56 85 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8754,7 +8756,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 368 728 N 1 0 0 1 273 0 2
+Refer: 368 728 N 1 0 0 1 273 32 2
 Refer: 88 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8880,7 +8882,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 659 465 2
+Refer: 445 770 N 1 0 0 1 1018 494 2
 Refer: 58 87 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8898,7 +8900,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 475 35 2
+Refer: 445 770 N 1 0 0 1 838 -18 2
 Refer: 90 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8916,7 +8918,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 275 465 2
+Refer: 445 770 N 1 0 0 1 615 494 2
 Refer: 60 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -8934,7 +8936,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 365 710 N 1 0 0 1 202 35 2
+Refer: 445 770 N 1 0 0 1 539 44 2
 Refer: 92 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9006,7 +9008,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 445 400 2
+Refer: 374 775 N 1 0 0 1 446 479 2
 Refer: 61 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9024,7 +9026,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 369 729 N 1 0 0 1 251 -112 2
+Refer: 374 775 N 1 0 0 1 252 -33 2
 Refer: 93 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9042,7 +9044,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 257 465 2
+Refer: 444 780 N 1 0 0 1 714 494 2
 Refer: 61 90 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9060,7 +9062,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 366 711 N 1 0 0 1 152 35 2
+Refer: 444 780 N 1 0 0 1 520 -18 2
 Refer: 93 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9539,7 +9541,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 375 783 N 1 0 0 1 -311 446 2
+Refer: 375 783 N 1 0 0 1 -302 446 2
 Refer: 44 73 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9647,7 +9649,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 376 785 N 1 0 0 1 504 384 2
+Refer: 376 785 N 1 0 0 1 512 400 2
 Refer: 50 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9827,7 +9829,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 312 -366 2
+Refer: 455 806 N 1 0 0 1 385 -381 2
 Refer: 54 83 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9845,7 +9847,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 201 -346 2
+Refer: 455 806 N 1 0 0 1 278 -381 2
 Refer: 86 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9863,7 +9865,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 280 -345 2
+Refer: 455 806 N 1 0 0 1 342 -359 2
 Refer: 55 84 N 1 0 0 1 0 0 3
 EndChar
 
@@ -9881,7 +9883,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 205 -346 2
+Refer: 455 806 N 1 0 0 1 154 -359 2
 Refer: 87 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10477,7 +10479,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 374 775 N 1 0 0 1 289 407 2
+Refer: 374 775 N 1 0 0 1 289 445 2
 Refer: 73 102 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10639,7 +10641,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 860 514 2
+Refer: 446 768 N 1 0 0 1 861 514 2
 Refer: 58 87 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10657,7 +10659,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 446 768 N 1 0 0 1 680 2 2
+Refer: 446 768 N 1 0 0 1 681 2 2
 Refer: 90 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12489,7 +12491,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 869 906 2
+Refer: 443 769 N 1 0 0 1 874 906 2
 Refer: 134 197 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12507,7 +12509,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 814 522 2
+Refer: 443 769 N 1 0 0 1 780 522 2
 Refer: 166 229 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12525,7 +12527,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 1557 450 2
+Refer: 443 769 N 1 0 0 1 1147 450 2
 Refer: 135 198 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12543,7 +12545,7 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 443 769 N 1 0 0 1 1070 21 2
+Refer: 443 769 N 1 0 0 1 1050 21 2
 Refer: 167 230 N 1 0 0 1 0 0 3
 EndChar
 
