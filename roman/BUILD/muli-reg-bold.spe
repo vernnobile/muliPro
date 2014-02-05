@@ -9,7 +9,7 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="64.0" />
-<data name="previewtext" value="(Welcomø /asciitilde /approxequal" />
+<data name="previewtext" value="(Welcomø /asciitilde /approxequal/onehalf" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -18,7 +18,7 @@
 <!-- master definitions -->
 <master filename="Muli-200-Extra-Light.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0.0" />
 </location>
 <!-- color for Muli-200-Extra-Light.ufo -->
 <color a="1.000000" b="0.000000" g="1.000000" r="0.500000" />
