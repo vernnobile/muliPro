@@ -8,17 +8,17 @@
     </contour>
     <contour>
       <point x="258" y="1159" type="line"/>
-      <point x="444" y="1159" type="line"/>
-      <point x="709" y="1528" type="line"/>
-      <point x="487" y="1528" type="line"/>
-      <point x="346" y="1333" type="line"/>
-      <point x="205" y="1528" type="line"/>
       <point x="-9" y="1528" type="line"/>
+      <point x="205" y="1528" type="line"/>
+      <point x="346" y="1333" type="line"/>
+      <point x="487" y="1528" type="line"/>
+      <point x="709" y="1528" type="line"/>
+      <point x="444" y="1159" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

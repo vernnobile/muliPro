@@ -8,14 +8,14 @@
     </contour>
     <contour>
       <point x="96" y="1173" type="line"/>
-      <point x="200" y="1173" type="line"/>
-      <point x="497" y="1494" type="line"/>
       <point x="312" y="1494" type="line"/>
+      <point x="497" y="1494" type="line"/>
+      <point x="200" y="1173" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

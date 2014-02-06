@@ -5,45 +5,46 @@
   <outline>
     <contour>
       <point x="432" y="0" type="line"/>
-      <point x="576" y="0" type="line"/>
-      <point x="1002" y="1026" type="line"/>
-      <point x="853" y="1026" type="line"/>
-      <point x="564" y="294" type="line"/>
-      <point x="507" y="134" type="line"/>
-      <point x="449" y="294" type="line"/>
-      <point x="157" y="1026" type="line"/>
       <point x="6" y="1026" type="line"/>
+      <point x="157" y="1026" type="line"/>
+      <point x="449" y="294" type="line"/>
+      <point x="507" y="134" type="line"/>
+      <point x="614.754" y="438.913"/>
+      <point x="738.265" y="728.068"/>
+      <point x="853" y="1026" type="curve"/>
+      <point x="1002" y="1026" type="line"/>
+      <point x="576" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>v</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1056.8</real>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>v</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1056.8</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

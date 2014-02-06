@@ -4,11 +4,11 @@
   <unicode hex="0227"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccent" xOffset="449"/>
+    <component base="dotaccent" xOffset="450"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

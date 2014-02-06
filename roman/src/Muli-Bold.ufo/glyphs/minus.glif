@@ -5,14 +5,14 @@
   <outline>
     <contour>
       <point x="201" y="284" type="line"/>
-      <point x="1297" y="284" type="line"/>
-      <point x="1297" y="486" type="line"/>
       <point x="201" y="486" type="line"/>
+      <point x="1297" y="486" type="line"/>
+      <point x="1297" y="284" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

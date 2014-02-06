@@ -5,48 +5,48 @@
   <outline>
     <contour>
       <point x="516" y="77" type="line"/>
-      <point x="749" y="77" type="line"/>
-      <point x="749" y="470" type="line"/>
-      <point x="1130" y="470" type="line"/>
-      <point x="1130" y="676" type="line"/>
-      <point x="750" y="676" type="line"/>
-      <point x="750" y="1071" type="line"/>
-      <point x="519" y="1071" type="line"/>
-      <point x="519" y="676" type="line"/>
-      <point x="137" y="676" type="line"/>
-      <point x="137" y="470" type="line"/>
       <point x="516" y="470" type="line"/>
+      <point x="137" y="470" type="line"/>
+      <point x="137" y="676" type="line"/>
+      <point x="519" y="676" type="line"/>
+      <point x="519" y="1071" type="line"/>
+      <point x="750" y="1071" type="line"/>
+      <point x="750" y="676" type="line"/>
+      <point x="1130" y="676" type="line"/>
+      <point x="1130" y="470" type="line"/>
+      <point x="749" y="470" type="line"/>
+      <point x="749" y="77" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>plus</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1206.9000000000001</real>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>plus</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1206.9</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

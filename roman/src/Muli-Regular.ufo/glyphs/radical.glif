@@ -5,24 +5,24 @@
   <outline>
     <contour>
       <point x="671" y="-150" type="line"/>
-      <point x="823" y="-150" type="line"/>
-      <point x="1286" y="1585" type="line"/>
-      <point x="1132" y="1585" type="line"/>
-      <point x="735" y="98" type="line"/>
-      <point x="464" y="830" type="line"/>
-      <point x="150" y="777" type="line"/>
-      <point x="176" y="648" type="line"/>
-      <point x="176" y="648"/>
+      <point x="346" y="676" type="line" smooth="yes"/>
       <point x="345" y="676"/>
-      <point x="346" y="676" type="curve"/>
+      <point x="176" y="648"/>
+      <point x="176" y="648" type="curve"/>
+      <point x="150" y="777" type="line"/>
+      <point x="464" y="830" type="line"/>
+      <point x="735" y="98" type="line"/>
+      <point x="1132" y="1585" type="line"/>
+      <point x="1286" y="1585" type="line"/>
+      <point x="823" y="-150" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

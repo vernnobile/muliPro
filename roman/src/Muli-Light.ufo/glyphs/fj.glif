@@ -2,12 +2,12 @@
 <glyph name="fj" format="1">
   <advance width="1168"/>
   <outline>
-    <component base="j" xOffset="665"/>
     <component base="f"/>
+    <component base="j" xOffset="665"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

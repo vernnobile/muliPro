@@ -7,44 +7,41 @@
       <point x="343" y="1026" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="349" y="1291" type="move" name="_mid"/>
-    </contour>
-    <contour>
       <point x="70" y="1239" type="line"/>
-      <point x="627" y="1239" type="line"/>
-      <point x="627" y="1338" type="line"/>
       <point x="70" y="1338" type="line"/>
+      <point x="627" y="1338" type="line"/>
+      <point x="627" y="1239" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>macron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>723.0</real>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>macron</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>723</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

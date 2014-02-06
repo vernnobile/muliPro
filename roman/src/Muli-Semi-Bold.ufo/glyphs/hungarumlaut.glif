@@ -7,21 +7,21 @@
       <point x="282" y="1026" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="67" y="1138" type="line"/>
-      <point x="228" y="1138" type="line"/>
-      <point x="524" y="1510" type="line"/>
-      <point x="274" y="1510" type="line"/>
+      <point x="393" y="1138" type="line"/>
+      <point x="636" y="1510" type="line"/>
+      <point x="900" y="1510" type="line"/>
+      <point x="560" y="1138" type="line"/>
     </contour>
     <contour>
-      <point x="393" y="1138" type="line"/>
-      <point x="560" y="1138" type="line"/>
-      <point x="900" y="1510" type="line"/>
-      <point x="636" y="1510" type="line"/>
+      <point x="67" y="1138" type="line"/>
+      <point x="274" y="1510" type="line"/>
+      <point x="524" y="1510" type="line"/>
+      <point x="228" y="1138" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

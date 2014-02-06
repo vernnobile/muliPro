@@ -5,45 +5,47 @@
   <outline>
     <contour>
       <point x="571" y="0" type="line"/>
-      <point x="823" y="0" type="line"/>
-      <point x="1376" y="1456" type="line"/>
-      <point x="1109" y="1456" type="line"/>
-      <point x="805" y="614" type="line"/>
-      <point x="703" y="333" type="line"/>
-      <point x="600" y="613" type="line"/>
-      <point x="302" y="1456" type="line"/>
       <point x="17" y="1456" type="line"/>
+      <point x="302" y="1456" type="line"/>
+      <point x="436" y="1082"/>
+      <point x="565" y="703"/>
+      <point x="703" y="333" type="curve"/>
+      <point x="839" y="707"/>
+      <point x="974" y="1082"/>
+      <point x="1109" y="1456" type="curve"/>
+      <point x="1376" y="1456" type="line"/>
+      <point x="823" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>V</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1320.1500000000001</real>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>V</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1320.15</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

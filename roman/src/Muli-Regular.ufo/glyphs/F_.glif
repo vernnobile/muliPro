@@ -8,23 +8,23 @@
     </contour>
     <contour>
       <point x="202" y="0" type="line"/>
-      <point x="393" y="0" type="line"/>
-      <point x="393" y="675" type="line"/>
-      <point x="997" y="675" type="line"/>
-      <point x="997" y="837" type="line"/>
-      <point x="393" y="837" type="line"/>
-      <point x="393" y="1295" type="line"/>
-      <point x="1042" y="1295" type="line"/>
-      <point x="1042" y="1456" type="line"/>
       <point x="202" y="1456" type="line"/>
+      <point x="1042" y="1456" type="line"/>
+      <point x="1042" y="1295" type="line"/>
+      <point x="393" y="1295" type="line"/>
+      <point x="393" y="837" type="line"/>
+      <point x="997" y="837" type="line"/>
+      <point x="997" y="675" type="line"/>
+      <point x="393" y="675" type="line"/>
+      <point x="393" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

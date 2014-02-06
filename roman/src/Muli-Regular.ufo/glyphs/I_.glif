@@ -8,17 +8,17 @@
     </contour>
     <contour>
       <point x="218" y="0" type="line"/>
-      <point x="409" y="0" type="line"/>
-      <point x="409" y="1456" type="line"/>
       <point x="218" y="1456" type="line"/>
+      <point x="409" y="1456" type="line"/>
+      <point x="409" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

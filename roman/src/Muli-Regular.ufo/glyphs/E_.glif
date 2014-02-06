@@ -7,32 +7,26 @@
       <point x="645" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="871" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="663" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="202" y="0" type="line"/>
-      <point x="1103" y="0" type="line"/>
-      <point x="1103" y="161" type="line"/>
-      <point x="393" y="161" type="line"/>
-      <point x="393" y="675" type="line"/>
-      <point x="1036" y="675" type="line"/>
-      <point x="1036" y="837" type="line"/>
-      <point x="393" y="837" type="line"/>
-      <point x="393" y="1295" type="line"/>
-      <point x="1074" y="1295" type="line"/>
-      <point x="1074" y="1456" type="line"/>
       <point x="202" y="1456" type="line"/>
+      <point x="1074" y="1456" type="line"/>
+      <point x="1074" y="1295" type="line"/>
+      <point x="393" y="1295" type="line"/>
+      <point x="393" y="837" type="line"/>
+      <point x="1036" y="837" type="line"/>
+      <point x="1036" y="675" type="line"/>
+      <point x="393" y="675" type="line"/>
+      <point x="393" y="161" type="line"/>
+      <point x="1103" y="161" type="line"/>
+      <point x="1103" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>
