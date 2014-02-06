@@ -6,8 +6,8 @@ languagesystem latn dflt;
 
 lookup kernHorizontalKerninginLatinloo {
   lookupflag 0;
-    pos \V \period 19;
     pos \V \comma 19;
+    pos \V \period 19;
     pos \v \period 32;
 } kernHorizontalKerninginLatinloo;
 
@@ -17,6 +17,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \AEacute \AEmacron \Aacute \Abreve \Acaron \Acircumflex 
 	\Adblgrave \Adieresis \Adotaccent \Agrave \Ainvertedbreve \Amacron \Aogonek 
